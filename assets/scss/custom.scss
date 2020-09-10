@@ -1,0 +1,70 @@
+
+// To properly embed YouTube videos in my pages, ensuring that they are responsive
+.mak-embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .mak-embed-container iframe, .mak-embed-container object, .mak-embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+
+
+// Style the Explanation tabs
+
+/* Style tab links */
+.mak-tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    // font-size: 17px;
+    width: 20%;
+  }
+  
+  .mak-tablink:hover {
+    background-color: #777;
+  }
+  
+  /* Style the tab content (and add height:100% for full page content) */
+  .mak-tabcontent {
+    color: white;
+    display: none;
+    padding: 50px 20px;
+    height: 100%;
+  }
+  
+  // Set the background colour of the tab-content (i.e. body of explanations)
+  .Exp {background-color: rgb(99, 99, 99); padding: 14px 16px; color: white;}
+  .Exp-1 {background-color: rgb(99, 99, 99);}
+  .Exp-2 {background-color: rgb(99, 99, 99);}
+  .Exp-3 {background-color: rgb(99, 99, 99);}
+  .Exp-4 {background-color: rgb(99, 99, 99);}
+  .Exp-5 {background-color: rgb(99, 99, 99);}
+
+
+
+  // Style the custom tables made by me
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  caption {
+    text-align: center;
+    color: white;
+    background-color: #a39d9d;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: #a39d9d;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #4d4040;
+  }
+
+
+  
