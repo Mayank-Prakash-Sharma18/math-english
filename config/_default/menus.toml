@@ -52,6 +52,18 @@
    parent = "arithmetic"
    weight = 40
 
+[[main]]
+   name = "Reasoning"
+   url = "#"
+   identifier = "reasoning"
+   weight = 150
+
+[[main]]
+   name = "Reasoning - Beginner level"
+   url = "reasoning-beginner/"
+   parent = "reasoning"
+   weight = 160
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
