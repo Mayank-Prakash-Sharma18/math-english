@@ -1,7 +1,18 @@
+// Disable Text Selection (it will not disable right click, so images can still be copied)
+// Source - (https://www.w3docs.com/snippets/javascript/how-to-disable-text-selection-copy-cut-paste-and-right-click-on-a-web-page.html)
+
+body {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  // color: #cc0000;
+}
+
 
 // To properly embed YouTube videos in my pages, ensuring that they are responsive
 .mak-embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .mak-embed-container iframe, .mak-embed-container object, .mak-embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
 
 
 // Style the Explanation tabs
