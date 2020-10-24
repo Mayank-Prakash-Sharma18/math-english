@@ -16,12 +16,16 @@ weight: 2
 
 Every sentence has two parts:
 
-* The part which names the person, thing or idea we are speaking about. - Subject of the sentence. (except in Imperative sentences) 
+* The part which names the person, thing or idea we are speaking about (focus of the sentence). - Subject of the sentence. (except in Imperative sentences) 
 
 * The part which tells something about the Subject. - Predicate of the sentence. <br>
 Includes - Verb,  Object,  Complement,  Adjunct
 
 Mragank broke the chair. (Mragank - subject; broke the chair - predicate)
+
+{{% alert note %}}
+Note: In active voice sentences subject is the doer of the action (it is active), while in passive voice sentences, subject is the receiver of the action (it is passive). We will study about it in Voice module.
+{{% /alert %}}
 
 ## Subject
 

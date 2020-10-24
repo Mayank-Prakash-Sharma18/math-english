@@ -35,6 +35,12 @@ Object – a noun or pronoun (person, place, animal, or thing) that receives the
 
 Saurabh broke <b>the glass</b>. (Verb - broke; Object - the glass)
 
+{{% alert note %}}
+Note: In passive voice sentences, the object of preposition ‘by’ does the action (hence called doer), and the passive subject/receiver receives that action. 
+E.g. The glass was broken by Saurabh. (glass – passive subject/receiver; Saurabh – object of preposition/doer)
+We will study about it in Voice module.
+{{% /alert %}}
+
 ## Recognizing Object
 
 If we ask a verb what? or whom? - then the answer that is on the right side of the verb is the object of that verb (in declarative sentences). 

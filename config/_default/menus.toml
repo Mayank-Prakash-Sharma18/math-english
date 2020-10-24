@@ -41,6 +41,12 @@
    weight = 20
 
 [[main]]
+   name = "English - Intermediate level"
+   url = "english-intermediate/"
+   parent = "grammar"
+   weight = 22
+
+[[main]]
    name = "Arithmetic"
    url = "#"
    identifier = "arithmetic"
@@ -51,6 +57,12 @@
    url = "arithmetic-beginner/"
    parent = "arithmetic"
    weight = 40
+
+[[main]]
+   name = "Higher Maths"
+   url = "higher-maths/"
+   identifier = "maths"
+   weight = 50
 
 [[main]]
    name = "Reasoning"
