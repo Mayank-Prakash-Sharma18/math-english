@@ -144,6 +144,8 @@ Required percentage = (1/4) × 100 = 25% <br>
 
 Should we use the Percentage Method or Fraction Method?
 
+Let us try to understand it using a couple of examples.
+
 ###### Q. On increasing a number by 37.5%, the new number obtained is 63 more than the original number. What must be the original number?
 Explanations :<br>
 <button class="mak-tablink tablink-group2 default-tab" onclick="openTab('2Exp-1', this, 'tablink-group2', 'tabcontent-group2')">1</button>
@@ -188,3 +190,4 @@ Then, 8 ≡ 231 × 8/11 = 21 × 8 = 168 <br>
 Easier calculation as compared to percentage method. <br>
 </div><br>
 
+As you will keep on practicing you will develop a better sense of which method to use based on the kind of data given in the question. 
