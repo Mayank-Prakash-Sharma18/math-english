@@ -54,7 +54,7 @@ Welcome to the **Red & White Matter Classes Courses** !
 
 Students preparing for competitive examinations such as CAT, GMAT, GRE, SSC, Bank etc. often run from pillar to pole in search of good books and trainers. Someone who can clear their concepts and give them a boost to get ahead of the herd. 
 
-But they encounter plethora of problems in this quest. Most of the competitive books are not geared towards competitive examinations. Moreover, most of the tutors, even the good ones, cannot teach students every topic in detail and depth. Some teachers compromise the detail, and some leave out some crucial topics. It's not their fault as they are only given a limited time to complete their course. 
+But they encounter plethora of problems in this quest. Most of the standard books are not geared towards competitive examinations. Moreover, most of the tutors, even the good ones, cannot teach students every topic in detail and depth. Some teachers compromise the detail, and some leave out some crucial topics. It's not their fault as they are only given a limited time to complete their course. 
 
 In Red and Matter classes we aim to provide a comprehensive and in-depth analysis of each topic of English, Maths/Arithmetic and Reasoning (for students preparing for competitive examinations). We have designed the courses in such as way that students from beginner to advanced level may benefit out of it. 
 
