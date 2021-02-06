@@ -69,10 +69,10 @@ user_groups:
 - Visitors
 ---
 
-Mragank Shandilya is a Maths and English trainer for competitive examinations, since 2014. He has also been Editor of various magazines catering to competitive examinations. 
+Mragank Shandilya (pen name) is a Maths and English trainer for competitive examinations, since 2014. He has also been Editor of various magazines catering to competitive examinations. 
 
 He believes that if one has a solid command over Arithmetic and English then there are very few examinations that one cannot crack. He himself has cracked numerous aptitude based competitive examinations, e.g. CAT, XAT, JMET, SBI, IBPS, SSC, Airforce SSB etc. 
 
-Apart from aptitude examinations, he has various hobbies, such as JavaScript coding, blogging, digital marketing and sports. 
+Apart from aptitude examinations, he has various hobbies, such as JavaScript coding, blogging, digital marketing, reading novels and sports. 
 
 

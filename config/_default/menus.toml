@@ -73,6 +73,11 @@
    weight = 160
 
 [[main]]
+  name = "About Us"
+  url = "#about"
+  weight = 350
+
+[[main]]
   name = "Contact Us"
   url = "#contact"
   weight = 360
