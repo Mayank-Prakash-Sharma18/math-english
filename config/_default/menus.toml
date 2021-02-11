@@ -24,23 +24,62 @@
 #   weight = 40
 
 
-[[main]]
-   name = "English Grammar"
-   url = "#"
-   identifier = "grammar"
-   weight = 10
+# [[main]]
+#    name = "English Grammar"
+#    url = "#"
+#    identifier = "grammar"
+#    weight = 10
+
+# [[main]]
+#    name = "English - Beginner level"
+#    url = "english-beginner/"
+#    parent = "grammar"
+#    weight = 20
+
+# [[main]]
+#    name = "English - Intermediate level"
+#    url = "english-intermediate/"
+#    parent = "grammar"
+#    weight = 22
 
 [[main]]
    name = "English - Beginner level"
    url = "english-beginner/"
-   parent = "grammar"
-   weight = 20
+   identifier = "grammar-beginner"
+   weight = 10
+
+   [[main]]
+   name = "English - Introduction"
+   url = "english-beginner/english-introduction/"
+   parent = "grammar-beginner"
+   weight = 11
+
+   [[main]]
+   name = "Structure of Sentence"
+   url = "english-beginner/structure-of-sentence/"
+   parent = "grammar-beginner"
+   weight = 12
+
+   [[main]]
+   name = "Determiners"
+   url = "english-beginner/determiners/"
+   parent = "grammar-beginner"
+   weight = 13
+
+
 
 [[main]]
    name = "English - Intermediate level"
    url = "english-intermediate/"
-   parent = "grammar"
-   weight = 22
+   identifier = "grammar-intermediate"
+   weight = 20
+
+   [[main]]
+   name = "Nouns"
+   url = "english-intermediate/nouns/"
+   parent = "grammar-intermediate"
+   weight = 21
+
 
 [[main]]
    name = "Arithmetic"
@@ -48,29 +87,127 @@
    identifier = "arithmetic"
    weight = 30
 
-[[main]]
-   name = "Arithmetic - Beginner level"
-   url = "arithmetic-beginner/"
+   [[main]]
+   name = "Percentage"
+   url = "arithmetic-beginner/percentage/"
    parent = "arithmetic"
-   weight = 40
+   weight = 31
+
+   [[main]]
+   name = "Profit and Loss"
+   url = "arithmetic-beginner/profit-and-loss/"
+   parent = "arithmetic"
+   weight = 32
+
+   [[main]]
+   name = "Interest"
+   url = "arithmetic-beginner/interest/"
+   parent = "arithmetic"
+   weight = 33
+
+   [[main]]
+   name = "Ratio and Proportion"
+   url = "arithmetic-beginner/ratio-and-proportion/"
+   parent = "arithmetic"
+   weight = 34
+
+   [[main]]
+   name = "Average, Mixtures & Alligation"
+   url = "arithmetic-beginner/average-mixtures-alligation/"
+   parent = "arithmetic"
+   weight = 35
+
+   [[main]]
+   name = "Time & Work"
+   url = "arithmetic-beginner/time-and-work/"
+   parent = "arithmetic"
+   weight = 36
+
+
 
 [[main]]
    name = "Higher Maths"
    url = "higher-maths/"
-   identifier = "maths"
+   identifier = "higher-maths"
    weight = 50
 
-[[main]]
-   name = "Reasoning"
-   url = "#"
-   identifier = "reasoning"
-   weight = 150
+   [[main]]
+   name = "Permutation & Combination"
+   url = "higher-maths/permutation-and-combination/"
+   parent = "higher-maths"
+   weight = 51
+
+   [[main]]
+   name = "Probability"
+   url = "higher-maths/probability/"
+   parent = "higher-maths"
+   weight = 52
+
+
 
 [[main]]
-   name = "Reasoning - Beginner level"
-   url = "reasoning-beginner/"
-   parent = "reasoning"
-   weight = 160
+   name = "Analytical Reasoning"
+   url = "#"
+   identifier = "analytical-reasoning"
+   weight = 70
+
+   [[main]]
+   name = "Dice"
+   url = "reasoning-beginner/dices/"
+   parent = "analytical-reasoning"
+   weight = 71
+
+   [[main]]
+   name = "Cubes"
+   url = "reasoning-beginner/cubes/"
+   parent = "analytical-reasoning"
+   weight = 72
+
+   [[main]]
+   name = "Calendar"
+   url = "reasoning-beginner/calendar/"
+   parent = "analytical-reasoning"
+   weight = 73
+
+   [[main]]
+   name = "Clocks"
+   url = "reasoning-beginner/clocks/"
+   parent = "analytical-reasoning"
+   weight = 74
+
+   [[main]]
+   name = "Direction & Distance"
+   url = "reasoning-beginner/direction-and-distance/"
+   parent = "analytical-reasoning"
+   weight = 75
+
+   [[main]]
+   name = "Syllogism"
+   url = "reasoning-beginner/syllogism/"
+   parent = "analytical-reasoning"
+   weight = 76
+
+   [[main]]
+   name = "Blood Relations"
+   url = "reasoning-beginner/blood-relations/"
+   parent = "analytical-reasoning"
+   weight = 77
+
+   [[main]]
+   name = "Venn Diagram"
+   url = "reasoning-beginner/venn-diagram/"
+   parent = "analytical-reasoning"
+   weight = 78
+
+
+
+# [[main]]
+#    name = "Pattern Reasoning"
+#    url = "#"
+#    identifier = "pattern-reasoning"
+#    weight = 90
+
+
 
 [[main]]
   name = "About Us"

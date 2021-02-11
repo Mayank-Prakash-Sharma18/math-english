@@ -6,7 +6,7 @@ type: docs
 date: "2021-01-31T00:00:00+01:00"
 draft: false
 menu:
-  avarage-mixtures-alligation:
+  average-mixtures-alligation:
     parent: 2. Mixtures & Alligation
     weight: 15
 
