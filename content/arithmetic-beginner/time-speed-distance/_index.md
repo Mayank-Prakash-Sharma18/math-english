@@ -1,13 +1,13 @@
 ---
 # Course title, summary, and position.
-linktitle: Introduction to Time and Work
-summary: In this module we will learn about the basic concepts of Time and Work.
-weight: 18
+linktitle: Introduction to Time, Speed and Distance
+summary: In this module we will learn about the basic concepts of Time, Speed and Distance.
+weight: 15
 
 # Page metadata.
 title: Overview
-date: "2021-02-09T00:00:00Z"
-lastmod: "2021-02-09T00:00:00Z"
+date: "2021-02-12T00:00:00Z"
+lastmod: "2021-02-12T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -16,7 +16,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  time-and-work:
+  time-speed-distance:
     name: Overview
     weight: 1
 ---
@@ -25,9 +25,19 @@ menu:
 
 In this module we will study about:
 
-- Time and Work
+- Basics of Time, Speed and Distance
 
-- Pipe and Cisterns 
+- Average Speed
+
+- Relative Speed
+
+- Trains
+
+- Boat and Stream
+
+- Races and Circular Motion
+
+
 
 
 

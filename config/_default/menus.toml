@@ -118,11 +118,16 @@
    weight = 35
 
    [[main]]
-   name = "Time & Work"
-   url = "arithmetic-beginner/time-and-work/"
+   name = "Time, Speed & Distance"
+   url = "arithmetic-beginner/time-speed-distance/"
    parent = "arithmetic"
    weight = 36
 
+   [[main]]
+   name = "Time & Work"
+   url = "arithmetic-beginner/time-and-work/"
+   parent = "arithmetic"
+   weight = 37
 
 
 [[main]]
