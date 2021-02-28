@@ -129,6 +129,13 @@
    parent = "arithmetic"
    weight = 37
 
+   [[main]]
+   name = "Number System"
+   url = "arithmetic-beginner/number-system/"
+   parent = "arithmetic"
+   weight = 38
+
+
 
 [[main]]
    name = "Higher Maths"
