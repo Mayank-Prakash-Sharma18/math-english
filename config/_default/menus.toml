@@ -43,7 +43,7 @@
 #    weight = 22
 
 [[main]]
-   name = "English - Beginner level"
+   name = "English - Beginner"
    url = "english-beginner/"
    identifier = "grammar-beginner"
    weight = 10
@@ -69,7 +69,7 @@
 
 
 [[main]]
-   name = "English - Intermediate level"
+   name = "English - Intermediate"
    url = "english-intermediate/"
    identifier = "grammar-intermediate"
    weight = 20
@@ -213,23 +213,37 @@
 
 
 
-# [[main]]
-#    name = "Pattern Reasoning"
-#    url = "#"
-#    identifier = "pattern-reasoning"
-#    weight = 90
+[[main]]
+   name = "Pattern Reasoning"
+   url = "#"
+   identifier = "pattern-reasoning"
+   weight = 90
 
+   [[main]]
+   name = "Number & Alphabet Series"
+   url = "reasoning-beginner/number-and-alphabet-series/"
+   parent = "pattern-reasoning"
+   weight = 91
 
 
 [[main]]
-  name = "About Us"
-  url = "#about"
-  weight = 350
+   name = "Contact"
+   url = "#"
+   identifier = "contact"
+   weight = 360
 
-[[main]]
-  name = "Contact Us"
-  url = "#contact"
-  weight = 360
+   [[main]]
+   name = "Contact Us"
+   url = "#contact"
+   parent = "contact"
+   weight = 361
+
+   [[main]]
+   name = "About Us"
+   url = "#about"
+   parent = "contact"
+   weight = 362
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
