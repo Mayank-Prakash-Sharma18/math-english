@@ -135,6 +135,11 @@
    parent = "arithmetic"
    weight = 38
 
+   [[main]]
+   name = "Data Interpretation"
+   url = "arithmetic-beginner/data-interpretation/"
+   parent = "arithmetic"
+   weight = 40
 
 
 [[main]]
@@ -210,6 +215,12 @@
    url = "reasoning-beginner/venn-diagram/"
    parent = "analytical-reasoning"
    weight = 78
+
+   [[main]]
+   name = "Puzzles"
+   url = "reasoning-beginner/puzzles/"
+   parent = "analytical-reasoning"
+   weight = 80
 
 
 
