@@ -236,6 +236,12 @@
    parent = "pattern-reasoning"
    weight = 91
 
+   [[main]]
+   name = "Coding-Decoding"
+   url = "reasoning-beginner/coding-decoding/"
+   parent = "pattern-reasoning"
+   weight = 92
+
 
 [[main]]
    name = "Contact"
