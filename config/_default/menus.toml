@@ -242,6 +242,11 @@
    parent = "pattern-reasoning"
    weight = 92
 
+   [[main]]
+   name = "Mathematical Operations & Inequalities"
+   url = "reasoning-beginner/mathematical-operations-and-inequalities/"
+   parent = "pattern-reasoning"
+   weight = 93
 
 [[main]]
    name = "Contact"
