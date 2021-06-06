@@ -70,7 +70,7 @@
 
 [[main]]
    name = "English - Intermediate"
-   url = "english-intermediate/"
+   url = "#"
    identifier = "grammar-intermediate"
    weight = 20
 
@@ -82,10 +82,23 @@
 
 
 [[main]]
+   name = "English - Advanced"
+   url = "#"
+   identifier = "grammar-advanced"
+   weight = 30
+
+   [[main]]
+   name = "Application"
+   url = "english-advanced/application/"
+   parent = "grammar-advanced"
+   weight = 31
+
+
+[[main]]
    name = "Arithmetic"
    url = "#"
    identifier = "arithmetic"
-   weight = 30
+   weight = 40
 
    [[main]]
    name = "Percentage"
