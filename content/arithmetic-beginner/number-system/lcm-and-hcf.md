@@ -24,6 +24,25 @@ If a set of numbers has HCF of h, then the numbers will be: <br>
 ha, hb, hc, ..... <br>
 (a, b, c, ... are co-prime numbers)
 
+##### Q. If HCF of a pair of numbers is 25 and their sum is 200, then how many such pair(s) is/are possible?
+<pre>(a) One         (b) Two          (c) Three         (d) More than three</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+HCF of any such pair is 25. So let’s assume that numbers in such a pair are 25x and 25y, where x and y are mutually prime or co prime, which means that they share no common factor except 1.
+
+Now, 25x + 25y = 200 <br>
+or x + y = 8
+
+Now we need to find all possible pair of values of x and y, whose sum is 32 and which are also co-prime.
+Such pairs are (8, 7), (8, 5), (8, 3), (7, 6) ... and so on.
+
+So, obviously the number of such pairs are more than three.
+
+Answer: (d)
+</div> <br>
+
 ## What is LCM?
 
 LCM (Least common multiple) is the smallest possible number which is divisible by each of the given numbers in the set (i.e. leaves no remainder).

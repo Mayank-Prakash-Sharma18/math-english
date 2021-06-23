@@ -212,3 +212,21 @@ The time at which they all meet at the starting point for the 1st time = L.C.M 
 {{% alert note %}}
 It doesn’t matter whether they are running in the same direction or in opposite directions.
 {{% /alert %}}
+
+##### Q. A, B and C start cycling simultaneously from the same point and in the same direction, along a circular track. A completes a round in 25 seconds, B in 30 seconds and C in 18 seconds. How many times will they meet again at the starting point if they cycle for 15 minutes?
+<pre>(a) 1         (b) 2          (c) 4          (d) 3</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+L.C.M. of 25, 30 and 18 = 450 seconds.
+
+It means that, A, B and C will again meet at the starting point in 450 seconds, or 7 minutes and 30 seconds.
+
+Hence, in 15 minutes, they will meet twice.
+
+Answer: (b)
+</div> <br>
+
+
+

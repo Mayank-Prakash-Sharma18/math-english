@@ -50,6 +50,26 @@ If k = 6; 18k + 3 = 111
 Therefore the required two digit number = 93.
 </div> <br>
 
+##### Q. A number when divided by 4, 5, 6, and 7 leaves a remainder of 3, but when divided by 9 leaves no remainder. What is the sum of digits of such smallest possible number?
+<pre>(a) 12         (b) 9          (c) 6          (d) 15</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The number required leaves a remainder of 3 when divided by 4, 5, 6, and 7. <br>
+Thus, it must be of the format = k X (LCM of 4, 5, 6 and 7) + 3, where k is any integer.
+
+LCM of (4, 5, 6 and 7) = 420. <br>
+Thus, the required number = 420k + 3
+
+We know that this number is divisible by 9. As we need the least possible number, we should seek for the minimum value of k. <br>
+Now for k = 1, the required number = 423 which is divisible by 9. Hence, it is the required number.
+
+Sum of its digit = 4 + 2 + 3 = 9
+
+Answer: (b)
+</div> <br>
+
 
 ## Case 2: Common Negative Remainder (dividend is same, divisors vary)
 
