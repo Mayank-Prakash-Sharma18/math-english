@@ -18,6 +18,8 @@ In this article, we will try to cover all the types of aptitude questions that a
 
 ## Type 1: Application of LCM
 
+### Type 1a
+
 ##### Q. There are two bells in a temple. One tolls 3 times per minute and the other tolls 4 times per minute, once the temple is opened. Calculate how many times will they toll together in first 30 minutes, after the temple is opened?
 <pre>(a) 29         (b) 30          (c) 31         (d) 32</pre>
 
@@ -32,6 +34,26 @@ The time interval in which they will toll together = LCM (15, 20) = 60 seconds =
 Thus, in 30 minutes they will toll together 30 times.
 
 Answer: (b)
+</div> <br>
+
+### Type 1b
+
+##### Q. If LCM of two numbers is 198, then what is the least possible value of their sum?
+<pre>(a) 30   (b) 31    (c) 32   (d) 29</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+We know that the two numbers are multiples of the factors of the given LCM. So, first we need to find out the factors of the given LCM. 
+
+Now, 198 = 2 × 3 × 3 × 11 <br>
+Hence, 1, 2, 3, 6, 9, 11, 18, 22, 33, 66, 99 and 198 are the factors of 198.
+
+In order to get the pair of numbers, such that their LCM is 198, and their ***sum is the least possible***, they should be as close to each other as possible, i.e. 11 and 18. 
+
+Thus, the least possible sum = 11 + 18 = 29.
+
+Answer: (d)
 </div> <br>
 
 

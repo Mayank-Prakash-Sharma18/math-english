@@ -173,7 +173,41 @@
    parent = "higher-maths"
    weight = 52
 
+   [[main]]
+   name = "Geometry"
+   url = "higher-maths/geometry/"
+   parent = "higher-maths"
+   weight = 53
 
+   # [[main]]
+   # name = "Mensuration"
+   # url = "higher-maths/mensuration/"
+   # parent = "higher-maths"
+   # weight = 54
+
+   # [[main]]
+   # name = "Coordinate Geometry"
+   # url = "higher-maths/coordinate-geometry/"
+   # parent = "higher-maths"
+   # weight = 55
+
+   # [[main]]
+   # name = "Trigonometry"
+   # url = "higher-maths/trigonometry/"
+   # parent = "higher-maths"
+   # weight = 56
+
+   # [[main]]
+   # name = "Height and Distance"
+   # url = "higher-maths/height-and-distance/"
+   # parent = "higher-maths"
+   # weight = 57
+
+   [[main]]
+   name = "Algebra"
+   url = "higher-maths/algebra/"
+   parent = "higher-maths"
+   weight = 58
 
 [[main]]
    name = "Analytical Reasoning"

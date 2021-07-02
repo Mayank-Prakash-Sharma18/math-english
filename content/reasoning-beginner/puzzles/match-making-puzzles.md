@@ -1,22 +1,30 @@
 ---
-title: Scheduling Puzzles
-linktitle: Scheduling Puzzles
+title: Match-making Puzzles
+linktitle: Match-making Puzzles
 toc: true
 type: docs
 date: "2021-06-22T00:00:00+01:00"
 draft: false
 menu:
   puzzles:
-    parent: 5. Scheduling Puzzles
+    parent: 5. Match-making Puzzles
     weight: 24
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 24
 ---
 
-In these types of puzzles, we are supposed to schedule things as per a time-table. For example, when various lectures will be taught in a school, who will take what class and at what time etc. 
+These types of puzzles are in the nature of "match-the-following". So, to solve such puzzles we make use of a table to fill our data in.
+
+In such puzzles we are either supposed to schedule things as per a time-table. For example, when various lectures will be taught in a school, who will take what class and at what time etc.  
+
+Or sometimes, the time element is missing. The process remains the same - we just need to match the given things. For example, six people wear hats of six different colours, and speak six different languages. We just need to match them using a table.  
 
 Let's see a few examples.
+
+## Type 1: Scheduling Puzzles 
+
+In such match-making puzzles the time-element is present. 
 
 ##### Q. Read the information given below and answer the item that follows.
 
@@ -36,7 +44,7 @@ Q. Who is going to take lecture on Saturday? <br>
 Explanation:<br>
 <div class="Exp">
 
-There are 2 dimensions in this question: Professors, and Days. So, it's a 2-D question. 
+There is only 1 dimension in this question: Days. So, it's a 1-D question. It means, it should be easy to solve. These kinds of questions should be attempted first in the exam. 
 
 Using statements 2, 3 and 4, we get two cases.
 
@@ -89,7 +97,7 @@ Q3. Which of the following statements are definitely correct? <br>
 Explanation:<br>
 <div class="Exp">
 
-There are 3 dimensions in this question: Professors, Subjects and Days. So, it's a 3-D question. 
+There are 2 dimensions in this question: Subjects and Days. So, it's a 2-D question. It should be of mild difficulty level. 
 
 Answer 1: (a) <br>
 Using statements, 1, 2, 3, 4, we get the following picture:
@@ -109,4 +117,39 @@ Answer 3: (d) <br>
 As its evident from the table drawn based on the information provided in the question, all the three given statements are true.
 </div> <br>
 
+
+## Type 2: Without Time element
+
+In such match-making puzzles the time-element is absent. 
+
+##### Q. Read the information given below and answer the item that follows.
+
+A, B, C, D and E are skilled sportsman who live on different floors of a five-floor building.  The first floor is the lowest floor. They play Volleyball, Football, Basketball, Tennis and Cricket, not necessarily in that order. Each one of them play exactly one sport. It’s also given that:
+1. The Tennis player lives above the Football player.
+2. A lives on the first floor and does not play Football.
+3. C is a Basketball player and lives above B.
+4. Cricketer lives on the fifth floor.
+5. Out of B and D, one is a Tennis player and the other is a Cricketer.
+
+Which floor is occupied by the basketball player?
+<pre>(a) Third   (b) Fourth    (c) Second   (d) None of these</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Using the information given in 2nd and 4th statements, we get:
+<img src="../../../media/puzzles/scheduling-6.png" alt="Scheduling Puzzles" style="width:63%;height:63%;">
+
+According to the 3rd statement, C lives above B and according to the 5th statement, B is either a Tennis player or a Cricketer. However, B can’t be a Cricketer because if he is then it is not possible for C to live above him.
+
+Hence, B must be a Tennis player and D a Cricketer. Hence, we get the following picture:
+<img src="../../../media/puzzles/scheduling-7.png" alt="Scheduling Puzzles" style="width:63%;height:63%;">
+
+According to the 1st statement, the Tennis player lives above the Football player. Thus, B can’t live on the second floor. Moreover C lives above B; thus B can’t occupy the fourth floor. Hence, B must be living on the third floor and C on the fourth floor above B.
+
+The final picture that emerges may be depicted as below:
+<img src="../../../media/puzzles/scheduling-8.png" alt="Scheduling Puzzles" style="width:63%;height:63%;">
+
+Answer: (b)
+</div> <br>
 

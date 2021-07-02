@@ -49,6 +49,20 @@ Similarly, a coin will be an unbiased or a biased coin depending on whether the 
 
 Unless otherwise specified a coin or a die is considered as unbiased.
 
+##### Q. The probability of a dice showing a 6 on being rolled is 1/6. If the first 5 rolls of this dice have brought 1, 2, 3, 4 and 5 respectively, then which of the following is correct with regard to the sixth roll of the dice?
+(a)	The dice would certainly show a 6. <br>
+(b)	The chances of a 6 coming up has increased. <br>
+(c)	The chances of a 6 coming up remains the same. <br>
+(d)	Both (a) and (b)
+
+Explanation:<br>
+<div class="Exp">
+
+Subsequent rolls of a dice are independent of the previous outcomes. The probability of 6 coming on any roll of the dice remains the same, i.e. 1/6. 
+
+Answer: (c)
+</div> <br>
+
 ### Elementary Event and Sample Space
 
 * Elementary Event  - each possible outcome in a random experiment. 
