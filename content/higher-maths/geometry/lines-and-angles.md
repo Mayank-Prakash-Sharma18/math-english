@@ -4,7 +4,7 @@ linktitle: Lines and Angles
 toc: true
 type: docs
 date: "2021-06-23T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   geometry:
     parent: 1. Lines
@@ -212,5 +212,5 @@ In the above figure, PQRS is a rectangle.
 
 If transversal line is perpendicular to the two parallel lines, then bisectors of its interior angle form a square.
 <img src="../../../media/geometry/line-14.png" alt="Geometry" style="width:54%;height:54%;">
-In the above figure, PQRS is a rectangle. 
+In the above figure, PQRS is a square. 
 

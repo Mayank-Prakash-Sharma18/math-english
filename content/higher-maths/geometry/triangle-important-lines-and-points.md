@@ -308,23 +308,149 @@ Incircle is a circle inside a triangle, such that:
 
 <img src="../../../media/geometry/triangle-lines-points-29.png" alt="Geometry" style="width:54%;height:54%;">
 
-### Inradius formulae
+#### Inradius formulae
 
-#### Inradius Formula 1
+##### Inradius Formula 1
 Inradius of any triangle = $\frac{Area \hspace{1ex} of \hspace{1ex} Triangle}{Semi \hspace{1ex} Perimeter \hspace{1ex} of \hspace{1ex} Triangle}$
 
-#### Inradius Formula 2
+##### Inradius Formula 2
 
 <img src="../../../media/geometry/triangle-lines-points-30.png" alt="Geometry" style="width:54%;height:54%;">
 Inradius of right-angled triangle = $\frac{Base + Height - Hypotenuse}{2}$
+
+
+### Excentre
+
+Excentre of a triangle is a point where one of its internal bisectors and two of its external bisectors intersect, i.e. it is the intersection point of the internal bisector of one angle and the external bisectors of the other two angles.
+<img src="../../../media/geometry/triangle-lines-points-40.png" alt="Geometry" style="width:54%;height:54%;">
+
+### Excircle
+
+An excircle or escribed circle of a triangle is tangent to one of its sides and also tangent to the extensions of the other two sides. It always lies outside the triangle.
+
+Every triangle has three distinct excircles, each tangent to one of the sides of the triangle.
+
+{{% alert note %}}
+* Excircles of a triangle are always larger than its incircle.
+
+* The largest excircle of a triangle is tangent to its longest side, while the smallest excircle is tangent to its shortest side.
+{{% /alert %}}
+
+#### Exradii
+ 
+The radii of the excircles are called the exradii. As we have 3 excircles in a triangle, we have 3 exradii too. 
+<img src="../../../media/geometry/triangle-lines-points-41.png" alt="Geometry" style="width:54%;height:54%;">
+
+In the triangle shown above, if a, b & c are the sides of the triangle ABC, s is the semi-perimeter of the triangle ABC, and ∆ is the area of the triangle ABC, then:
+
+$r_1$ = $\frac{∆}{s - a}$ <br><br>
+$r_2$ = $\frac{∆}{s - b}$ <br><br>
+$r_3$ = $\frac{∆}{s - c}$ 
 
 <br><hr><br>
 
 ## Perpendicular Bisectors
 
+Perpendicular Bisector of a side of a triangle is a line that passes through the mid-point of that side and is also perpendicular to it. 
+<img src="../../../media/geometry/triangle-lines-points-34.png" alt="Geometry" style="width:54%;height:54%;">
+
+{{% alert note %}}
+Unlike medians, altitudes and angle bisectors, it is not necessary for a perpendicular bisector to pass through any vertex. 
+{{% /alert %}}
+
+### Properties of Perpendicular Bisectors
+
+#### Property 1: Length of Perpendicular Bisectors
+
+* In equilateral triangle, all the three perpendicular bisectors have the same length.
+
+{{% alert note %}}
+In any equilateral triangle, median, altitude, angle bisector and perpendicular bisector are the same line segment.
+{{% /alert %}}
+
+*	In any scalene triangle, all the three perpendicular bisectors are unequal in length. None of them pass through the vertices. 
+
+* In any isosceles triangle, two perpendicular bisectors are equal, while the third one is of a different length. Perpendicular bisectors drawn on equal sides are equal. While, the perpendicular bisector drawn on the unequal side is of a different length, is median, altitude, as well as angle bisector.
+<img src="../../../media/geometry/triangle-lines-points-35.png" alt="Geometry" style="width:54%;height:54%;">
+In the figure given above, PQ = RS
+
+{{% alert note %}}
+Perpendicular bisectors drawn on equal sides of an isosceles triangle do not pass through the vertices.
+{{% /alert %}}
 
 
- 
- 
+### Circumcentre
 
+Circumcentre of a triangle is a point where the three perpendicular bisectors of its sides intersect. 
+<img src="../../../media/geometry/triangle-lines-points-36.png" alt="Geometry" style="width:54%;height:54%;">
+
+{{% alert note %}}
+In other words, the line segment joining circumcentre and midpoint of any side of the triangle must be perpendicular on that side and vice-versa.
+{{% /alert %}}
+
+{{% alert note %}}
+The three perpendicular bisectors of any triangle are always concurrent. That is, they always have a common point of intersection.
+{{% /alert %}}
+
+
+### Properties related to Circumcentre
+
+#### Property 1: Position of Circumcentre
+
+* In any acute angled triangle, circumcentre will always lie inside the triangle.
+* In any right angled triangle, circumcentre will always be at the midpoint of hypotenuse.
+* In any obtuse angled triangle, circumcentre will always lie outside of the triangle.
+
+#### Property 2
+
+Circumcentre of a triangle is equidistant from all the three vertices of that triangle.
+<img src="../../../media/geometry/triangle-lines-points-37.png" alt="Geometry" style="width:54%;height:54%;">
+In the above figure, PA = PB = PC
+
+#### Property 3
+
+*	In any equilateral triangle, centroid, orthocentre, incentre and circumcentre are the same point.
+
+* In any isosceles triangle, centroid, orthocentre, incentre and circumcentre are four different collinear points.
+
+*	In any scalene triangle, centroid, orthocentre, incentre and circumcentre are four different non-collinear points.
+
+#### Property 4
+
+We already know that, in any isosceles triangle centroid, orthocentre, incentre and circumcentre are different, but collinear points.
+
+Moreover, in any isosceles triangle, all of these four points lie on the line segment joining vertex and midpoint of unequal side. 
+
+#### Property 5
+
+Angle made by any side of a triangle on circumcentre is twice of the opposite angle.
+<img src="../../../media/geometry/triangle-lines-points-38.png" alt="Geometry" style="width:54%;height:54%;">
+
+{{% alert note %}}
+Angle formed by a chord (AB) of a circle on major arc is half the angle formed by it on the centre of that circle.
+{{% /alert %}}
+
+
+### Circumcircle
+
+Circumcircle is a circle that passes through all the three vertices of a triangle and its centre is the circumcentre of that triangle.
+<img src="../../../media/geometry/triangle-lines-points-39.png" alt="Geometry" style="width:54%;height:54%;">
+
+#### Circumradius formulae
+
+##### Circumradius formula 1
+
+Length of circumradius = $\frac{Product \hspace{1ex} of \hspace{1ex} sides}{4 × Area \hspace{1ex} of \hspace{1ex} triangle}$
+
+##### Circumradius formula 2
+
+In any right angled triangle, the hypotenuse is the diameter of its circumcircle.
+
+##### Circumradius formula 3
+
+In any equilateral triangle, which has sides of length 'a' each:
+
+In-radius = $\frac{a}{2\sqrt{3}}$ and Circumradius = $\frac{a}{\sqrt{3}}$ <br>
+So, Inradius : circumradius = 1 : 2 <br>
+Hence, Area of incircle : Area of circumcircle= 1 : 4 
 
