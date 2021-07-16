@@ -103,6 +103,52 @@ The two speeds are 20 km/hr and 30 km/hr. As the distance is constant, so the ti
 So, Average speed = $\frac{(3 × 20) + (2 × 30)}{(3 + 2)}$ = 120/5 = 24 km/hr
 </div><br>
 
+
+##### Q. . A local bus completed a round trip at an average speed of 48 km per hour. The bus covered the first half of the distance at an average speed of 36 km per hour. What would have been its average speed during the second half of the journey?
+<pre>(a) 48 km/hour   (b) 60 km/hour    (c) 72 km/hour   (d) 84 km/hour</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group7 default-tab" onclick="openTab('7Exp-1', this, 'tablink-group7', 'tabcontent-group7')">1</button>
+<button class="mak-tablink tablink-group7" onclick="openTab('7Exp-2', this, 'tablink-group7', 'tabcontent-group7')">2</button>
+<button class="mak-tablink tablink-group7" onclick="openTab('7Exp-3', this, 'tablink-group7', 'tabcontent-group7')">3</button>
+
+<div id="7Exp-1" class="Exp-1 mak-tabcontent tabcontent-group7">
+Explanation 1: Traditional Method <br><br>
+
+Let the total distance covered by bus in the round trip be x km. Let y be the average speed during the second half of the journey.
+
+Hence, the total time taken in complete journey = Total distance/average speed = x/48 hour
+
+Now, total time = time taken during 1st half of the trip + time taken during 2nd half of the trip <br>
+Hence, x/48 = 0.5x/36 + 0.5x/y <br>
+or x/48 - 0.5x/36 = 0.5x/y <br>
+or x/144 = 0.5x/y <br>
+or y = 72 km/hour
+</div>
+
+<div id="7Exp-2" class="Exp-2 mak-tabcontent tabcontent-group7">
+Explanation 2: Formula Method <br><br>
+
+Average speed = $\frac{2 S_1 S_2}{S_1 + S_2}$ <br><br>
+or 48 = $\frac{2 × 36 × S_2}{36 + S_2}$ <br><br>
+or 2 = $\frac{3 × S_2}{36 + S_2}$ <br><br>
+or $S_2$ = 72 km/hour
+</div>
+
+<div id="7Exp-3" class="Exp-3 mak-tabcontent tabcontent-group7">
+Explanation 3: Allegation Method <br><br>
+
+The average speed is the weighted average with the time travelled at the different speeds being the weight.
+
+<img src="../../../media/tsd/average-speed-1.png" alt="Average Speed" style="width:45%;height:45%;">
+As the distance is constant, so the time must be in inverse proportion. <br>
+So, $\frac{36}{x}$ = $\frac{12}{(x – 48)}$ <br>
+or $\frac{3}{x}$ = $\frac{1}{(x – 48)}$ <br>
+or 3x - 3 × 48 = x <br>
+or x = 72 km/hour
+</div><br>
+
+
 ### Time taken is same 
 
 When time taken is constant:  The average speed of travelling at two different speeds for the same time span is just the simple average of two speeds.

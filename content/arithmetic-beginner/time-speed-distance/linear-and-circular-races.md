@@ -107,8 +107,7 @@ Let A and B are two runners participating in a circular race around a circular t
 
 Assume A is faster than B, then a > b.
 
-<img src="../../../media/tsd/circular-track-race.png" alt="Races on circular track
-" style="width:81%;height:81%;">
+<img src="../../../media/tsd/circular-track-race.png" alt="Races on circular track" style="width:81%;height:81%;">
 
 ##### Q. Two cyclists are participating in a race on a circular rack of 400 m circumference. Mr. White cycles at a speed of 5 m/sec, while Mr. Pink cycles at a speed of 3 m/sec. They start at the same point, at the same time and in the <strong><span class="mak-text-color">same direction</span></strong>. When will they:
 A. meet for the first time?<br>

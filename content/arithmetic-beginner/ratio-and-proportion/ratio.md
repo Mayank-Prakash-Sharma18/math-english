@@ -87,6 +87,69 @@ The only information that we can gather is that if there are 3k boys, then there
 If any further data is given such that we get any equation involving k and hence can find the value of k, then we can ascertain the exact number of boys and girls in the class. <br>
 E.g. If it is given that the twice the number of boys minus the number of girls is 10. we can form the equation 6k - 5k = 10, which gives k = 10. So, there are 30 boys and 50 girls in the class.
 
+##### Q. In a parking lot, the cars and bikes are in the ratio 7:11.  There are 56 more bikes parked than the number of cars. What is the number of cars parked in the parking lot?
+<pre>(a) 91   (b) 98    (c) 147   (d) 154</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group4 default-tab" onclick="openTab('4Exp-1', this, 'tablink-group4', 'tabcontent-group4')">1</button>
+<button class="mak-tablink tablink-group4" onclick="openTab('4Exp-2', this, 'tablink-group4', 'tabcontent-group4')">2</button>
+
+<div id="4Exp-1" class="Exp-1 mak-tabcontent tabcontent-group4">
+Explanation 1: Traditional Method <br><br>
+
+The cars and bikes are in the ratio 7:11. Let the number of cars and bikes be 7x and 11x.
+
+There are 56 more bikes than the number of cars. <br>
+or 7x + 56 = 11x <br>
+or 4x = 56 <br>
+or x = 14
+
+Number of cars parked = 7x = 7 × 14 = 98 
+</div>
+
+<div id="4Exp-2" class="Exp-2 mak-tabcontent tabcontent-group4">
+Explanation 2: Short Trick <br><br>
+
+If we add 56 more cars, the ratio of cars to bikes will change from 7:11 to 1:1 (i.e. 11:11). <br>
+So, it essentially means 4 ratio units ≡ 56 (to change the ratio from 7:11 to 11:11) <br>
+or 1 ratio unit ≡ 14 
+
+So, the number of cars = 7 ratio units = 7 × 14 = 98
+</div><br>
+
+
+##### Q. In an animal farm, the ratio of cows to pigs was 1:3. After 50 more cows were brought to the farm, the ratio of cows to pigs became 1:1. What is the total number of cows in the farm now?
+<pre>(a) 75   (b) 100    (c) 41250   (d) Cannot be determined</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group3 default-tab" onclick="openTab('3Exp-1', this, 'tablink-group3', 'tabcontent-group3')">1</button>
+<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-2', this, 'tablink-group3', 'tabcontent-group3')">2</button>
+
+<div id="3Exp-1" class="Exp-1 mak-tabcontent tabcontent-group3">
+Explanation 1: Traditional Method <br><br>
+
+Let the original number of cows be x. Hence, the number of pigs = 3x.
+
+After 50 more cows are brought to the farm, the ratio of cows to pigs = (x+50) : 3x = 1 : 1 <br>
+or  (x + 50)/3x = 1/1 <br>
+or  x + 50 = 3x <br>
+or 2x = 50 <br>
+or x = 25
+
+Hence total number of cows in the farm now = x + 50 = 25 + 50 = 75
+</div>
+
+<div id="3Exp-2" class="Exp-2 mak-tabcontent tabcontent-group3">
+Explanation 2: Short Trick <br><br>
+
+After 50 more cows, the ratio of cows to pigs changed from 1:3 to 1:1 (i.e. 3:3). <br>
+So, it essentially means 2 ratio units ≡ 50 (to change the ratio from 1:3 to 3:3) <br>
+or 1 ratio unit ≡ 25 
+
+So, the number of cows now = 3 ratio units = 75
+</div><br>
+
+
 ### Concept 5
 
 If two quantities are in the ratio a : b, and the sum of those two quantities = S, then 

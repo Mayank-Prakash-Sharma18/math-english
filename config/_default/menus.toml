@@ -88,11 +88,22 @@
    weight = 30
 
    [[main]]
-   name = "Application"
-   url = "english-advanced/application/"
+   name = "Multi-use Words"
+   url = "english-advanced/multi-use-words/"
    parent = "grammar-advanced"
    weight = 31
 
+   [[main]]
+   name = "Application"
+   url = "english-advanced/application/"
+   parent = "grammar-advanced"
+   weight = 32
+
+   # [[main]]
+   # name = "Writing Skills"
+   # url = "english-advanced/writing-skills/"
+   # parent = "grammar-advanced"
+   # weight = 33
 
 [[main]]
    name = "Arithmetic"
@@ -191,23 +202,17 @@
    # parent = "higher-maths"
    # weight = 55
 
-   # [[main]]
-   # name = "Trigonometry"
-   # url = "higher-maths/trigonometry/"
-   # parent = "higher-maths"
-   # weight = 56
-
-   # [[main]]
-   # name = "Height and Distance"
-   # url = "higher-maths/height-and-distance/"
-   # parent = "higher-maths"
-   # weight = 57
+   [[main]]
+   name = "Trigonometry"
+   url = "higher-maths/trigonometry/"
+   parent = "higher-maths"
+   weight = 56
 
    [[main]]
    name = "Algebra"
    url = "higher-maths/algebra/"
    parent = "higher-maths"
-   weight = 58
+   weight = 57
 
 [[main]]
    name = "Analytical Reasoning"

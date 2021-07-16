@@ -121,18 +121,6 @@ Average of n quantities is equal to X and on adding a new entity/quantity to the
 
 Value of new entity = Y + (Y - X)n     OR       X + (Y - X)(n + 1) 
 
-### Removal of an existing item
-
-Average of n quantities is equal to X and on removing an entity/quantity from the group the average becomes Y (i.e. number of entities in the group decreases by 1), then: 
-
-Value of removed entity = Y + (X - Y)n    OR     X + (X - Y)(n - 1)
-
-### Replacement of an existing item with a new one
-
-The average of n quantities is equal to X. When one quantity of value P is replaced with a new quantity having value Q, the average of quantities becomes Y (i.e. number of entities in the group remain the same), then
-
-Value of new entity, Q = P + (Y - X)n
-
 ##### Q. The average age of a group of 8 boys is 12 years. Thereafter a new boy joins the group and their average age increases to 13 years. What is the age of the new boy?
 
 Explanations :<br>
@@ -153,7 +141,7 @@ So, the age of the new boy = 117 – 96 = 21 years
 </div>
 
 <div id="2Exp-2" class="Exp-2 mak-tabcontent tabcontent-group2">
-Explanation 2: Formula Method  <br><br>
+Explanation 2: Formula Method <br><br>
 
 Average of n quantities is equal to X and on adding a new entity/quantity to the group the average becomes Y (i.e. number of entities in the group increases by 1), then: 
 
@@ -172,4 +160,78 @@ So, the age of the new boy must be atleast 13 plus the amount needed to raise th
 That is, age of new boy = New average + Amount needed to raise the average of rest of the boys <br>
 = New average + Difference in averages × Original number of boys <br>
 = 13 + (13 - 12) × 8 = 13 + 8 = 21 years
+</div><br>
+
+### Removal of an existing item
+
+Average of n quantities is equal to X and on removing an entity/quantity from the group the average becomes Y (i.e. number of entities in the group decreases by 1), then: 
+
+Value of removed entity = Y + (X - Y)n    OR     X + (X - Y)(n - 1)
+
+### Replacement of an existing item with a new one
+
+The average of n quantities is equal to X. When one quantity of value P is replaced with a new quantity having value Q, the average of quantities becomes Y (i.e. number of entities in the group remain the same), then
+
+Value of new entity, Q = P + (Y - X)n
+
+##### Q. A group containing 13 girls and 9 boys had an average amount of Rs. 750 with them. When one of the boys, who had Rs. 540 with him, was replaced with a girl, the average amount with the group increased to Rs. 790. What is the difference in the amounts held by the new girl and the boy who got replaced?
+<pre>(a) Rs. 800   (b) Rs. 880    (c) Rs. 1,120   (d) Rs. 1,200</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group3 default-tab" onclick="openTab('3Exp-1', this, 'tablink-group3', 'tabcontent-group3')">1</button>
+<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-2', this, 'tablink-group3', 'tabcontent-group3')">2</button>
+<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-3', this, 'tablink-group3', 'tabcontent-group3')">3</button>
+
+<div id="3Exp-1" class="Exp-1 mak-tabcontent tabcontent-group3">
+Explanation 1: Traditional Method <br><br>
+
+Number of people in the group = 13 girls + 9 boys = 22 <br>
+
+Average amount = Rs. 750 <br>
+Total amount = Average amount × number of people = Rs. 750 × 22
+
+After the replacement, the average amount increased to Rs. 790. <br>
+Hence, the total amount in second case = Rs. 790 × 22
+
+Difference in the amounts held by the new girl and the boy who got replaced = Total amount in second case - Total amount in first case = 790 × 22 - 750 × 22 = (790 – 750) × 22 = 40 × 22 = Rs. 880
+
+{{% alert note %}}
+As the average of the group increased after the replacement of the boy with the girl, the girl must be having Rs. 880 more than the boy, i.e. 540 + 880 = Rs. 1,420
+{{% /alert %}}
+
+Answer: (b)
+</div>
+
+<div id="3Exp-2" class="Exp-2 mak-tabcontent tabcontent-group3">
+Explanation 2: Formula Method <br><br>
+
+The average of n quantities is equal to X. When one quantity of value P is replaced with a new quantity having value Q, the average of quantities becomes Y (i.e. number of entities in the group remain the same), then
+
+Value of new entity, Q = P + (Y - X)n
+
+So, the amount with new girl = P + (Y - X)n = 540 + (790 - 750)22 = 540 + (40 × 22) = Rs. 1,420
+
+So, the required difference = 1420 - 540 = Rs. 880 
+
+Answer: (b)
+
+{{% alert note %}}
+Difference = (Y - X)n
+{{% /alert %}}
+</div>
+
+<div id="3Exp-3" class="Exp-3 mak-tabcontent tabcontent-group3">
+Explanation 3: Short Trick Method <br><br>
+
+The average of group increased from 750 to 790.
+
+So, the amount with the new girl must be atleast Rs. 540 plus the amount needed to raise the average of the rest of the group. 
+
+That is, amount with the new girl = Amount with the replaced boy + Amount needed to raise the average of all of the members of the group <br>
+= Amount with the replaced boy + Difference in averages × Total number of members of the group <br>
+= 540 + (790 - 750)22 = 540 + (40 × 22) = Rs. 1,420
+
+So, the required difference = 1420 - 540 = Rs. 880
+
+Answer: (b)
 </div><br>

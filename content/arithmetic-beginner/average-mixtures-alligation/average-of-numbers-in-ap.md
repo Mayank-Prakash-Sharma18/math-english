@@ -30,6 +30,25 @@ When the number of terms is odd then the average will be the middle term.  
 For example, in the sequence 5, 6, 7, 8, 9, the middle number is 7. <br>
 So, mean/average of this series = 7.
 
+##### Q. If the average of 23 consecutive odd numbers is 91, then which must be the largest of these numbers?
+<pre>(a) 113   (b) 115    (c) 117   (d) 119</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Here the odd numbers, whose average is given, are consecutive. So, they are in A.P. 
+
+As there are odd number of items in the Arithmetic series (i.e. 23), their average must be the middle number, i.e. the 12th odd number of the given series.
+
+Thus, 91 is the 12th number and we are supposed to find the 23rd number (which is the largest number). 
+
+The difference between any two consecutive odd numbers is 2.
+
+Thus, the 23rd number = 12th number + (11 × 2) = 91 + 22 = 113
+
+Answer: (a)
+</div> <br>
+
 ### Series having even number of terms
 
 When the number of terms is even then the average will be the average of two middle terms.

@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: English Application
 summary: Basic Introduction to English Application
-weight: 1
+weight: 3
 
 # Page metadata.
 title: Overview of English Application

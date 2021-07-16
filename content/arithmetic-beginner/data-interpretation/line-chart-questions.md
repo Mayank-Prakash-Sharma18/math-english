@@ -45,7 +45,7 @@ Out of option (a) and option (d), option (a) is correct as it shows a rapid incr
 ##### Q. Consider the information given below and answer the 3 (three) items that follow.
 
 Following graph depicts a 20 km race between a Rabbit and a Tortoise.
-<img src="../../../media/di/line-chart-question-1.png" alt="Line Chart Questions" style="width:90%;height:90%;">
+<img src="../../../media/di/line-chart-question-1.png" alt="Line Chart Questions" style="width:72%;height:72%;">
 
 Q1. How many times did the rabbit take rest during the race? <br>
 (a) 2	<br>
@@ -75,14 +75,48 @@ The horizontal lines in the graph depict the time-duration during which the Rabb
 Answer 2:	(a)
 
 The Rabbit overtook Tortoise two times as shown in the graph given below. 
-<img src="../../../media/di/line-chart-question-2.png" alt="Line Chart Questions" style="width:90%;height:90%;">
+<img src="../../../media/di/line-chart-question-2.png" alt="Line Chart Questions" style="width:72%;height:72%;">
 These are the instances on which the line graph of Rabbit moves above that of the Tortoise, i.e. when the total distance travelled by the Rabbit becomes more than that travelled by the Tortoise.
 
 Answer 3:	(a)
 
 The Tortoise overtook the Rabbit for the first time at point A as shown in the graph given below.
-<img src="../../../media/di/line-chart-question-3.png" alt="Line Chart Questions" style="width:90%;height:90%;">
+<img src="../../../media/di/line-chart-question-3.png" alt="Line Chart Questions" style="width:72%;height:72%;">
 This happens at approximately 21 hours since the start of the race. Hence, option (a) is the correct answer. <br>
 In fact we may straightaway eliminate options (c) and (d), as they fall outside the 15-30 hours range, while point A is definitely within this range.
+</div> <br>
+
+
+##### Q. Observe the following graph carefully, and answer the 2 (two) items that follow:
+
+<img src="../../../media/di/line-chart-question-8.png" alt="Line Chart Questions" style="width:72%;height:72%;">
+The line graph shown above depicts the number of students in a university across various years.
+
+Q1.	Which region of the curve corresponds to the region of maximum growth in the number of students in the university?
+<pre>(a) B   (b) C    (c) D   (d) E</pre>
+
+Q2.	Which region of the curve may be representing the initiation of a decline in the popularity of the university, based on the parameter of the number of students enrolled in the university? 
+<pre>(a) C   (b) E    (c) F   (d) D</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Answer 1: (a)
+
+Observing the figure we can easily conclude that A, B and C zones are definitely among the zones of high growth rate (of the number of students in the University).
+
+Zone A may be rejected as here the growth rate has just started picking up. <br>
+More specifically, the growth rate in zone A = [(300 - 200)/200] × 100 = 50% (approximately)
+
+While, zone C may be rejected as here the growth rate has started falling down. <br>
+The growth rate in zone C = [(900 - 800)/800] × 100 = 12.5% (approximately)
+
+However, the growth rate in zone B = [(800 - 300)/300] × 100 = 166.67% (approximately) <br>
+Therefore, B zone is the region of maximum growth rate in the number of students, in the given graph.
+
+Answer 2: (d)
+
+The curve started declining in the D zone, which reflects the fact that the number of students in the university started falling during this time.
+
 </div> <br>
 
