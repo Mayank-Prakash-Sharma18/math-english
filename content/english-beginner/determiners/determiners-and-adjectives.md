@@ -34,10 +34,14 @@ Adjectives are not limited in number. Language will never tire of inventing new 
 
 Most determiners on the other hand, are well established. This class of words is not going to grow in number. 
 
-* There are only three articles, 
+{{% alert note %}}
+In the same way:
+* There are only three articles (a, an, the), 
 * There are only a handful of possessive pronouns, etc. 
 
-Exception: the possessive cases of nouns are as limitless as nouns themselves. 
+Exception: the possessive cases of nouns are as limitless as nouns themselves.
+{{% /alert %}}
+ 
 
 ## Difference 3
 
@@ -50,5 +54,7 @@ Examples: 'few girls', ‘every student’
 ## Difference 4
 
 A determiner precedes other adjectives that accompany it. Though determiners can have different positions relative to one another.<br>
-Examples: many nice paintings, some great men
+Examples: <br>
+many nice paintings (many - determiner; nice - adjective) <br>
+some great men (some - determiner; great - adjective)
 

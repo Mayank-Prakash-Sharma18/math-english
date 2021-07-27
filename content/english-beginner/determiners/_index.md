@@ -28,7 +28,7 @@ What does determining the meaning means?
 They make the <strong>reference</strong> of nouns more specific or general or <strong>quantify</strong> them.
 
 Dogs love biscuits. <br>
-<b>My</b> dog loves biscuits.
+<b>My</b> dog loves biscuits. (my - determiner)
 <img src="../../../media/determiner/my-dog-determiner.png" alt="my - determiner" style="width:11%;height:11%;">
 
 * They come before nouns.
@@ -37,7 +37,7 @@ Dogs love biscuits. <br>
 
 * They may also come just before the adjective describing the noun.
 
-<b>My</b> intelligent student
+<b>My</b> intelligent student. (my - determiner; intelligent - adjective)
 
 
 

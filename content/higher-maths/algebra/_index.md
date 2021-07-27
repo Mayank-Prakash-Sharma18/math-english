@@ -79,7 +79,11 @@ $(x + y)^3 + (x – y)^3 = 2x(x^2 + 3y^2)$ <br>
 $(x + y)^3 – (x – y)^3 = 2y(3x^2 + y^2)$
 
 $x^3 + y^3 = (x + y) (x^2 + y^2 –xy) = (x + y)^3 – 3xy (x + y)$ <br>
-$x^3 – y^3 = (x – y) (x^2+ y^2 + xy) = (x – y)^3 + 3xy (x – y)$
+$x^3 – y^3 = (x – y) (x^2 + y^2 + xy) = (x – y)^3 + 3xy (x – y)$
+
+{{% alert note %}}
+$x^n – y^n = (x – y) (x^{n - 1} + x^{n - 2}.y + x^{n - 3}.y^2 + ... + y^{n - 1})$
+{{% /alert %}}
 
 #### Cubic Formulae Type 2: Three Variables
 
@@ -87,7 +91,10 @@ $(x + y + z)^3 = x^3 + y^3 + z^3 + 3(x + y) (y + z) (z + x)$
 
 $x^3 + y^3 + z^3 – 3 xyz = (x + y + z) (x^2 + y^2 + z^2 – xy – yz – zx)$ <br>
 = $(x + y + z) × \frac{1}{2} [(x - y)^2 + (y - z)^2 + (z - x)^2]$ <br>
+
+{{% alert note %}}
 When x + y + z = 0, then $x^3 + y^3 + z^3 = 3xyz$
+{{% /alert %}}
 
 
 ### Function and Inverse Function Formulae
@@ -151,7 +158,12 @@ $x^7 - \frac{1}{x^7} = (x^4 + \frac{1}{x^4}) (x^3 - \frac{1}{x^3}) + (x - \frac{
 
 ## Algebra Properties
 
-### Property 1: Componendo and Dividendo
+### Property 1: Distributive law
+
+x (y + z) = xy + xz 
+
+
+### Property 2: Componendo and Dividendo
 
 If $\frac{a}{b} = \frac{x}{y}$, then $\frac{a + b}{a - b} = \frac{x + y}{x - y}$ 
 

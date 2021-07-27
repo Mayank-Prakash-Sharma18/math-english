@@ -80,6 +80,11 @@
    parent = "grammar-intermediate"
    weight = 21
 
+   [[main]]
+   name = "Pronouns"
+   url = "english-intermediate/pronouns/"
+   parent = "grammar-intermediate"
+   weight = 22
 
 [[main]]
    name = "English - Advanced"
@@ -165,6 +170,11 @@
    parent = "arithmetic"
    weight = 40
 
+   [[main]]
+   name = "Simplification"
+   url = "arithmetic-beginner/simplification/"
+   parent = "arithmetic"
+   weight = 42
 
 [[main]]
    name = "Higher Maths"
