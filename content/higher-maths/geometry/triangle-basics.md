@@ -4,7 +4,7 @@ linktitle: Triangle Basics
 toc: true
 type: docs
 date: "2021-06-26T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   geometry:
     parent: 2. Triangle
@@ -17,7 +17,7 @@ weight: 6
 ## What is a Triangle?  
 
 A triangle is a plane and closed geometrical figure having three sides, i.e. it is bounded by three line segments. 
-<img src="../../../media/geometry/triangle-1.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-1.png" alt="Geometry" style="width:72%;height:72%;">
 So, a triangle has: 
 * three sides 
 * three angles  
@@ -39,7 +39,7 @@ There are some very basic properties of a triangle, that you must be aware of.
 ### Equilateral Triangle
 
 It is a triangle which has ***three equal sides***.
-<img src="../../../media/geometry/triangle-1.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-01.png" alt="Geometry" style="width:54%;height:54%;">
 In the above figure, AB = BC = CA 
 
 As all the sides of an equilateral triangle are equal, all of its angles are equal too (each angle is equal to 60°). That is, ∠ABC = ∠BCA = ∠CAB
@@ -60,7 +60,7 @@ As two sides of an isosceles triangle are equal, two of its angles are equal too
 ### Scalene Triangle
 
 It is a triangle having all unequal sides. That is, no two sides have the same length. 
-<img src="../../../media/geometry/triangle-3.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-3.png" alt="Geometry" style="width:72%;height:72%;">
 As all the sides of a scalene triangle are unequal, all of its three angles are unequal too.
 
 {{% alert note %}}
@@ -85,7 +85,7 @@ In acute angled triangle:
 ### Right-angled Triangle
 
 In a right angled triangle, one of the angles is a right angle, i.e. exactly 90°.
-<img src="../../../media/geometry/triangle-5.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-5.png" alt="Geometry" style="width:63%;height:63%;">
 
 In right angled triangle:
 
@@ -97,7 +97,7 @@ In other words, we can also say that if you ever find that in a triangle, the su
 ### Obtuse-angled Triangle
 
 In an obtuse angled triangle, one of the angles is an obtuse angle, i.e. more than 90°. 
-<img src="../../../media/geometry/triangle-6.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-6.png" alt="Geometry" style="width:99%;height:99%;">
 
 In acute angled triangle:
 
@@ -111,13 +111,13 @@ In acute angled triangle:
 ### Property 1
 
 If a side of triangle is produced (say AB), then the exterior angle so formed (∠CBD) will be equal to the sum of the two interior opposite angles. That is, ∠CBD = ∠BCA + ∠CAB = x° + y°
-<img src="../../../media/geometry/triangle-7.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-7.png" alt="Geometry" style="width:72%;height:72%;">
 
 {{% alert note %}}
 We find a similar property in case of quadrilaterals too. 
 
 In a quadrilateral, exterior angle of a vertex is equal to sum of interior angles of other three vertices.
-<img src="../../../media/geometry/triangle-8.png" alt="Geometry" style="width:54%;height:54%;">
+<img src="../../../media/geometry/triangle-8.png" alt="Geometry" style="width:90%;height:90%;">
 {{% /alert %}}
 
 ### Property 2

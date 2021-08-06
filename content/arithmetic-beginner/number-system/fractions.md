@@ -36,7 +36,10 @@ E.g. 3$\frac{1}{2}$ = $\frac{7}{2}$ etc.
 
 * Compound Fraction : Fractions whose numerator and denominator themselves are fractions.
 
+
 ## Comparison of Fractions
+
+We are often required to compare fractions, be it in arithmetic or data interpretation questions. So, let us learn how to find the largest or the smallest fraction in a given set of fractions. 
 
 ### Fractions with same denominators
 
@@ -69,3 +72,34 @@ These two fractions have the same numerator. So, the fraction with the bigger de
 As, 7 > 5 <br>
 So, 3/5 > 3/7 
 </div> <br>
+
+### Fractions having the same value difference between numerator and denominator 
+
+You may encounter some fractions, wherein the difference between the numerator and the denominator is the same in all of them. 
+
+For example, $\frac{4}{7}$, $\frac{5}{8}$, $\frac{7}{10}$ (In all these fractions, denominator - numerator = 3)
+
+Two possibilities arise in such a case. Let's see them one by one. 
+
+#### Possibility 1: Given fractions are less than 1
+
+In such a case, the fraction with the largest values of numerator and denominator will be the largest. 
+
+For example, in all these fractions: $\frac{4}{7}$, $\frac{5}{8}$, $\frac{7}{10}$, the difference between denominator and numerator = 3. And all of them are less than 1. <br>
+So, $\frac{7}{10}$ will be the largest fraction. 
+
+#### Possibility 2: Given fractions are more than 1
+
+In such a case, the fraction with the smallest values of numerator and denominator will be the largest. 
+
+For example, in all these fractions: $\frac{9}{7}$, $\frac{11}{9}$, $\frac{13}{11}$, the difference between denominator and numerator = 2. And all of them are more than 1. <br>
+So, $\frac{9}{7}$ will be the largest fraction. 
+
+{{% alert note %}}
+There's an easy way to remember this. 
+
+Compare $\frac{9}{10}$ = 0.9 and $\frac{99}{100}$ = 0.99. Obviously, $\frac{99}{100}$ is larger. 
+
+Compare $\frac{11}{10}$ = 1.1 and $\frac{101}{100}$ = 1.01. Obviously, $\frac{11}{10}$ is larger. 
+{{% /alert %}}
+

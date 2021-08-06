@@ -36,13 +36,13 @@ The most common types of determiners which we use for referring are articles, de
 
 That is, a/an, the
 
-* INDEFINITE ARTICLES (a, an) - General determiners because general version of noun is referred to.
+* INDEFINITE ARTICLES (a, an) - They are General determiners, because general version of noun is referred to.
 
 <b>A</b> man came into the shop.
 
 <b>An</b> honest person would not cheat.
 
-* DEFINITE ARTICLES (the) - Specific determiner because specific noun is referred to.
+* DEFINITE ARTICLES (the) - It is a Specific determiner, because specific noun is referred to.
 
 <b>The</b> cop chased <b>the</b> thugs.
 <img src="../../../media/determiner/referring-determiner-the.png" alt="referring determiner the" style="width:18%;height:18%;">
@@ -51,7 +51,7 @@ That is, a/an, the
 
 That is, Demonstrative Pronouns: this, that, these, those
 
-Specific determiners - They are used to point some specific noun within a sentence. 
+They are Specific determiners. They are used to point some specific noun within a sentence. 
 
 They specify the distance of something in space or time in relation to the speaker. 
 
@@ -66,7 +66,7 @@ That & Those - for nouns that are further away (in space or time)
 
 ### Possessives
 
-Specific determiners - These are words that are used to show <strong>specific</strong> ownership (of noun) 
+These are Specific determiners. These are words that are used to show <strong>specific</strong> ownership (of noun) 
 
 * Possessive determiners: my, your, his, her, its, your, our, their
 
@@ -83,7 +83,7 @@ This pen is <b>mine</b>. (possessive pronoun)
 
 They may itself include one of the other determiners.
 
-I spoiled my <b>mother's</b> rug.
+I spoiled ***my mother's*** rug. (here mother's has been used with another determiner 'my')
 
 ### Interrogatives
 

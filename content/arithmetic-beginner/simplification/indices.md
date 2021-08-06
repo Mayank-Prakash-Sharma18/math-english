@@ -7,7 +7,7 @@ date: "2021-07-17T00:00:00+01:00"
 draft: false
 menu:
   simplification:
-    parent: 2. Indices & Surds
+    parent: 3. Indices & Surds
     weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

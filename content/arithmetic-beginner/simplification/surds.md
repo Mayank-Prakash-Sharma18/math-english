@@ -7,7 +7,7 @@ date: "2021-07-17T00:00:00+01:00"
 draft: false
 menu:
   simplification:
-    parent: 2. Indices & Surds
+    parent: 3. Indices & Surds
     weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -63,11 +63,29 @@ Now, let us have a look at the rules of surds, that will help us simplify and so
 
 ### Rule 1
 
+$\sqrt[n]{a}$ = $a^\frac{1}{n}$
+
+$\sqrt[m]{\sqrt[n]{a}}$ = $\sqrt[nm]{a}$ = $\sqrt{a^\frac{1}{nm}}$
+
+$(\sqrt[n]{a})^m$ = $\sqrt[n]{a^m}$
+
+{{% alert note %}}
+$(\sqrt[n]{a})^n$ = $\sqrt[n]{a^n}$ = a
+{{% /alert %}}
+
+### Rule 2
+
 $\sqrt{a} × \sqrt{b} = \sqrt{ab}$
 
 $\frac{\sqrt{a}}{\sqrt{b}} = \sqrt{\frac{a}{b}}$
 
-### Rule 2: If two quadratic surd expressions are equal
+### Rule 3
+
+$\sqrt[n]{a} × \sqrt[n]{b} = \sqrt[n]{ab}$
+
+$\frac{\sqrt[n]{a}}{\sqrt[n]{b}} = \sqrt[n]{\frac{a}{b}}$
+
+### Rule 4: If two quadratic surd expressions are equal
 
 If a + $\sqrt{b}$ = c + $\sqrt{d}$, then: <br>
 a = c (i.e. rational parts of the quadratic surds expressions will be equal) <br>
@@ -78,7 +96,7 @@ If a + $\sqrt{b}$ = $\sqrt{d}$, then a = 0 and b = d  <br>
 If a + $\sqrt{b}$ = c, then a = c and b = 0 
 {{% /alert %}}
 
-### Rule 3
+### Rule 5
 
 $\sqrt{a . \sqrt{a . \sqrt{a \hspace{1ex}...n \hspace{1ex} times}}}$ = $a^{(1 - \frac{1}{2^n})}$
 
@@ -87,7 +105,7 @@ So, when n = ∞, <br>
 $\sqrt{a . \sqrt{a . \sqrt{a \hspace{1ex}...∞}}}$ = a
 {{% /alert %}}
 
-### Rule 4
+### Rule 6
 
 If, $\sqrt{a + \sqrt{a + \sqrt{a \hspace{1ex}...∞}}}$ = p, then p(p - 1) = a
 

@@ -46,7 +46,7 @@ Now, let's have a look at some of the basic formulae that we are going to use in
 #### Square Formulae Type 1: Two Variables
 
 $(x + y)^2 = x^2 + y^2 + 2xy = (x – y)^2 + 4xy$ <br>
-$(x – y)^2 = x^2 + y^2 – 2xy$
+$(x – y)^2 = x^2 + y^2 – 2xy = (x + y)^2 - 4xy$
 
 $x^2 – y^2 = (x + y)(x – y)$ <br>
 $x^2 + y^2 = (x + y)^2 – 2xy = (x – y)^2 + 2xy$
@@ -78,7 +78,7 @@ $(x – y)^3 = x^3 – y^3 – 3xy(x – y)$
 $(x + y)^3 + (x – y)^3 = 2x(x^2 + 3y^2)$ <br>
 $(x + y)^3 – (x – y)^3 = 2y(3x^2 + y^2)$
 
-$x^3 + y^3 = (x + y) (x^2 + y^2 –xy) = (x + y)^3 – 3xy (x + y)$ <br>
+$x^3 + y^3 = (x + y) (x^2 + y^2 – xy) = (x + y)^3 – 3xy (x + y)$ <br>
 $x^3 – y^3 = (x – y) (x^2 + y^2 + xy) = (x – y)^3 + 3xy (x – y)$
 
 {{% alert note %}}

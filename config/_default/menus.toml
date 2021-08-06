@@ -86,6 +86,24 @@
    parent = "grammar-intermediate"
    weight = 22
 
+   [[main]]
+   name = "Adjectives"
+   url = "english-intermediate/adjectives/"
+   parent = "grammar-intermediate"
+   weight = 23
+
+   [[main]]
+   name = "Adverbs"
+   url = "english-intermediate/adverbs/"
+   parent = "grammar-intermediate"
+   weight = 24
+
+   [[main]]
+   name = "Conjunctions"
+   url = "english-intermediate/conjunctions/"
+   parent = "grammar-intermediate"
+   weight = 25
+
 [[main]]
    name = "English - Advanced"
    url = "#"
@@ -99,7 +117,7 @@
    weight = 31
 
    [[main]]
-   name = "Application"
+   name = "Comprehension Skills"
    url = "english-advanced/application/"
    parent = "grammar-advanced"
    weight = 32
@@ -171,7 +189,7 @@
    weight = 40
 
    [[main]]
-   name = "Simplification"
+   name = "Simplification, Indices & Surds"
    url = "arithmetic-beginner/simplification/"
    parent = "arithmetic"
    weight = 42
