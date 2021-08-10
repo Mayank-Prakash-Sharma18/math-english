@@ -237,10 +237,34 @@
    weight = 56
 
    [[main]]
-   name = "Algebra"
+   name = "Algebra and Equations"
    url = "higher-maths/algebra/"
    parent = "higher-maths"
    weight = 57
+
+   # [[main]]
+   # name = "Set Theory and Functions"
+   # url = "higher-maths/functions/"
+   # parent = "higher-maths"
+   # weight = 58
+
+   # [[main]]
+   # name = "Logarithms"
+   # url = "higher-maths/logarithms/"
+   # parent = "higher-maths"
+   # weight = 59
+
+   # [[main]]
+   # name = "Matrices"
+   # url = "higher-maths/matrices/"
+   # parent = "higher-maths"
+   # weight = 60
+
+   # [[main]]
+   # name = "Statistics & Progressions"
+   # url = "higher-maths/statistics/"
+   # parent = "higher-maths"
+   # weight = 61
 
 [[main]]
    name = "Analytical Reasoning"
