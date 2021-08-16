@@ -24,7 +24,7 @@ Based on the highest power of a variable (say x) in an equation, we can have var
 * Cubic equations - They are equations of third degree, e.g. equation having $x^3$
 
 {{% alert note %}}
-Degree of an equation is the highest power of a variable in the equation, or the combined powers of the variables being multiplied. 
+The degree of an equation is the highest power of a variable in the equation, or the combined powers of the variables being multiplied. 
 
 For example, Degree of y + 3 = 0 is 1. <br>
 Degree of $y^2$ + x + 2 = 3 is 2 <br>
@@ -50,7 +50,7 @@ For example, x + 12 = 21.
 Solving linear equations in one variable is pretty easy. Let's see an example.
 
 {{% alert note %}}
-To solve for n variables, we need atleast n distinct equations. So, to solve for 1 variable, we just need 1 equation. 
+To solve for n variables, we need at least n distinct equations. So, to solve for 1 variable, we just need 1 equation. 
 {{% /alert %}}
 
 ##### Q. Solve 4x + 5 = 25
@@ -77,10 +77,10 @@ Equations of the form ax + by + c = 0 are called linear equations in two variabl
 
 For example, 2x + 3y - 32 = 0
 
-Solving linear equations in two variables is pretty easy too. We add of subtract the two equations in such a way that one of the variables gets eliminated. Let's see some examples.
+Solving linear equations in two variables is pretty easy too. We add or subtract the two equations in such a way that one of the variables gets eliminated. Let's see some examples.
 
 {{% alert note %}}
-To solve for n variables, we need atleast n distinct equations. So, to solve for 2 variables, we need 2 distinct equations. 
+To solve for n variables, we need at least n distinct equations. So, to solve for 2 variables, we need 2 distinct equations. 
 {{% /alert %}}
 
 ##### Q. Find the values of x and y.
@@ -97,7 +97,7 @@ On adding equations I and II, we get: <br>
 2x = 9 + 1 = 10 <br>
 or x = 10/2 = 5
 
-Now, we can find the value of y by putting this value of x in any of the two equations. We should choose an equation that will allow us do less calculations. 
+Now, we can find the value of y by putting this value of x in any of the two equations. We should choose an equation that will allow us to do less calculations. 
 
 So, putting the value of x in equation II, we get: <br>
 5 - 2y = 1 <br>
@@ -116,9 +116,9 @@ Explanation:<br>
 I. x + 3y = 32 <br>
 II. 2x - 5y = 20
 
-Unlike earlier example, here we cannot eliminate one of the options by just adding or subtracting. We need multiply one of the equations (or both) in such a manner that the coefficient of the variable being eliminated becomes the same in both the equations. 
+Unlike earlier examples, here we cannot eliminate one of the options by just adding or subtracting. We need to multiply one of the equations (or both) in such a manner that the coefficient of the variable being eliminated becomes the same in both the equations. 
 
-Here, we will multiply first equation by 2. So, now our equations will become: <br>
+Here, we will multiply the first equation by 2. So, now our equations will become: <br>
 I. 2x + 6y = 64 <br>
 II. 2x - 5y = 20
 
@@ -151,7 +151,7 @@ Explanation 1: Traditional Method <br><br>
 I. 4x + 5y = 19 <br>
 II. 5x + 4y = 8
 
-We need multiply one of the equations (or both) in such a manner that the coefficient of the variable being eliminated becomes the same in both the equations. 
+We need to multiply one of the equations (or both) in such a manner that the coefficient of the variable being eliminated becomes the same in both the equations. 
 
 Here, we will multiply first equation by 4, and second equation by 5. So, now our equations will become: <br>
 I. 16x + 20y = 76 <br>
@@ -244,7 +244,7 @@ y = $\frac{D_y}{D}$ = $\frac{(-63)}{(-9)}$ = 7
 
 #### Graph of Linear equation in two variables
 
-Graph of a linear equation in two variables is also a straight line. For us to draw its graph, we need at least two solutions of such equation. 
+Graph of a linear equation in two variables is also a straight line. For us to draw its graph, we need at least two solutions to such an equation. 
 
 For example, the various possible solutions of the equation 2x + y = 6 are:
 <table>

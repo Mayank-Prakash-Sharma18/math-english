@@ -104,6 +104,12 @@
    parent = "grammar-intermediate"
    weight = 25
 
+   [[main]]
+   name = "Prepositions"
+   url = "english-intermediate/prepositions/"
+   parent = "grammar-intermediate"
+   weight = 26
+
 [[main]]
    name = "English - Advanced"
    url = "#"
@@ -242,11 +248,11 @@
    parent = "higher-maths"
    weight = 57
 
-   # [[main]]
-   # name = "Set Theory and Functions"
-   # url = "higher-maths/functions/"
-   # parent = "higher-maths"
-   # weight = 58
+   [[main]]
+   name = "Set Theory and Functions"
+   url = "higher-maths/functions/"
+   parent = "higher-maths"
+   weight = 58
 
    # [[main]]
    # name = "Logarithms"
