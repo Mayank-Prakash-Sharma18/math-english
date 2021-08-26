@@ -81,6 +81,12 @@ In the above figure, on joining the mid-points of the sides of the quadrilateral
 
 Area of parallelogram PQRS = $\frac{1}{2}$ × Area of □ABCD
 
+{{% alert note %}}
+If we join the mid-points of the four sides of a parallelogram, then we will get a parallelogram. The area of this parallelogram will be half of the original parallelogram. 
+
+This is obvious, as a parallelogram is also a quadrilateral. 
+{{% /alert %}}
+
 ### Property 3
 
 Angle made by the bisectors of any two consecutive angles = Half of the sum of the other two angles
@@ -131,6 +137,10 @@ If the two diagonals of a cyclic quadrilateral ABCD intersect each other at a po
 
 AP × PC = DP × PB
 
+### Property 3: In case of Square
+
+Diagonal of inscribed square = Diameter of circle
+<img src="../../../media/geometry/parallelogram-17.png" alt="Geometry" style="width:45%;height:45%;">
 
 ## Properties of Circumscribed Quadrilaterals
 
@@ -140,4 +150,9 @@ Sum of opposite sides of a Circumscribed Quadrilateral are equal.
 <img src="../../../media/geometry/quadrilateral-12.png" alt="Geometry" style="width:72%;height:72%;">
 
 In the above figure, AB + CD = BC + AD 
+
+### Property 2: In case of Square
+
+Side of circumscribed square = Diameter of the inscribed circle
+<img src="../../../media/geometry/parallelogram-18.png" alt="Geometry" style="width:45%;height:45%;">
 

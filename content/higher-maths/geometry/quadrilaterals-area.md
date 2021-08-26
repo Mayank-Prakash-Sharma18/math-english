@@ -14,6 +14,10 @@ menu:
 weight: 45
 ---
 
+Let us see the various formulae that we can use:
+* to find area of any general quadrilateral
+* to find area of some specific kind of a quadrilateral, e.g. trapezium, rhombus etc. 
+
 ## Formulae for Area of Quadrilateral
 
 ### Formula 1 
@@ -43,6 +47,8 @@ Where, s = $\frac{a + b + c + d}{2}$. It is called the semi-perimeter.
 
 ## Formulae for Area of Parallelograms 
 
+Here are a few formulae that we can use for any kind of a parallelogram. 
+
 ### Formula 1
 
 Area of parallelogram = Base × Height
@@ -58,6 +64,41 @@ If the length of two adjacent sides of a parallelogram are a and b, and length o
 Area of parallelogram = 2 $\sqrt{s (s - a) (s - b) (s - d)}$
 
 Where, s = $\frac{a + b + d}{2}$. It is called the semi-perimeter. 
+
+However, there are a few formulae that we can use for some specific kinds of parallelograms. Let's see these too. 
+
+### Formula 3: For Rhombus
+
+If the given parallelogram is a rhombus, the we can also use the following formula to find its area. 
+<img src="../../../media/geometry/parallelogram-12.png" alt="Geometry" style="width:54%;height:54%;">
+
+Area of Rhombus = $\frac{1}{2}$ × Product of diagonals = $\frac{1}{2} × d_1 × d_2$
+
+### Formula 4: For Square
+
+If the given parallelogram is a square, then we can also use the following formula to find its area. 
+<img src="../../../media/geometry/parallelogram-15.png" alt="Geometry" style="width:45%;height:45%;">
+
+Area of Square = $a^2$ = $\frac{d^2}{2}$
+
+{{% alert note %}}
+Diagonal of a square, d = $\sqrt{2}$ a
+{{% /alert %}}
+
+### Formula 5: For Circumscribed Square
+
+<img src="../../../media/geometry/parallelogram-18.png" alt="Geometry" style="width:45%;height:45%;">
+
+Side of circumscribed square, a = Diameter of the inscribed circle, d
+
+Ratio of area of inscribed circle and area of circumscribed square = $\frac{π r^2}{a^2}$ = $\frac{π d^2/4}{a^2}$ = $\frac{π a^2/4}{a^2}$ = $\frac{π}{4}$
+
+### Formula 6: For Rectangle
+
+If the given parallelogram is a rectangle, then we can also use the following formula to find its area. 
+<img src="../../../media/geometry/parallelogram-19.png" alt="Geometry" style="width:63%;height:63%;">
+
+Area of rectangle = Length x Breadth = l x b
 
 
 ## Formulae for Area of Trapezium

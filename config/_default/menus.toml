@@ -116,6 +116,12 @@
    parent = "grammar-intermediate"
    weight = 27
 
+   [[main]]
+   name = "Articles"
+   url = "english-intermediate/articles/"
+   parent = "grammar-intermediate"
+   weight = 28
+
 [[main]]
    name = "English - Advanced"
    url = "#"
