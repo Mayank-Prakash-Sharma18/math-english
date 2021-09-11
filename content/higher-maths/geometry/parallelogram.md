@@ -76,6 +76,8 @@ So, Perimeter of a Square = 4 × Side
 That is, all of its four angles are 90° each, and all of its four sides are equal too. 
 
 So, in a way, square is a special case of rectangle. 
+
+In fact, Square is a Rectangle, as well as a Rhombus. However, vice-versa need not be true, i.e. a Rectangle or a Rhombus need not be a Square.
 {{% /alert %}}
 
 <br><hr><br>

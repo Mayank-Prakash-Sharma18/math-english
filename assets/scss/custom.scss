@@ -150,3 +150,16 @@ body {
   color: white;
 }
 
+// CSS Code for responsive images, with media queries (Source: https://subscription.packtpub.com/book/web-development/9781849695442/1/ch01lvl1sec12/resizing-an-image-using-media-queries)
+@media screen and ( max-width: 1024px ) {
+  img.responsive { width: 100%; height: 100% }
+  }
+  @media screen and ( min-width: 1025px) {
+  img.responsive { width: 25%; height: 25% }
+  }
+  img.responsive { height: auto; }
+
+  // Use the following HTML code with this CSS code
+  // <img src="../../../media/puzzles/circular-arrangement-2.png" alt="robot image" class="responsive">
+
+  

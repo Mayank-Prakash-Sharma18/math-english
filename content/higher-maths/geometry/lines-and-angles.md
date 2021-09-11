@@ -48,6 +48,16 @@ In the above figure, the angle may be denoted as ∠BAC or ∠CAB.
 * Arms of an angle - two lines/line-segments/rays forming the angle.
 * Vertex of an angle - the common point where the two lines/line-segments/rays meet (which is A in the above figure). 
 
+{{% alert note %}}
+#### Relation between Degree and Radian
+
+Angles are often measured in degrees or radian. 
+
+180° = π radian <br>
+1° = $\frac{π}{180°}$ radian <br>
+So, x° = $\frac{πx}{180°}$ radian
+{{% /alert %}}
+
 Now, let us first of all see the various types of lines and angles. Thereafter, we will have a look at their properties too. 
 
 

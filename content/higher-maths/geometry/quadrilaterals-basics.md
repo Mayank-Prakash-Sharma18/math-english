@@ -48,6 +48,19 @@ Isosceles trapezium - A trapezium whose non-parallel sides are equal. <br>
 That is, AB ∥ CD and BC = AD
 {{% /alert %}}
 
+### Kite
+
+It is a quadrilateral in which two pairs of adjacent sides are equal. 
+<img src="../../../media/geometry/quadrilateral-14.png" alt="Geometry" style="width:45%;height:45%;">
+
+In the above figure, AB = AD, and CB = CD
+
+{{% alert note %}}
+* A Kite is not a parallelogram.
+
+* Square and Rhombus are both Parallelogram and Kite. 
+{{% /alert %}}
+
 ### Cyclic Quadrilateral
 
 Cyclic Quadrilateral is a kind of quadrilateral, all of whose vertices lie on the circumference of a circle. 
@@ -118,6 +131,14 @@ Perimeter of a quadrilateral is always greater than the sum of its diagonals.
 <img src="../../../media/geometry/quadrilateral-11.png" alt="Geometry" style="width:72%;height:72%;">
 
 In the above figure, AB + BC + CD + DA > AC + BD
+
+
+## Properties of Kites
+
+### Property 1: Diagonals
+
+Diagonals of a Kite intersect at 90° and the shorter diagonal is bisected by the longer diagonal.
+<img src="../../../media/geometry/quadrilateral-15.png" alt="Geometry" style="width:45%;height:45%;">
 
 
 ## Properties of Cyclic Quadrilaterals

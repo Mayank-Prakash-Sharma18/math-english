@@ -14,6 +14,19 @@ menu:
 weight: 18
 ---
 
+## What is Area?
+
+Area of a plane figure is the amount of surface enclosed within its boundary lines. It is expressed in square units e.g. square meter, square centimeter, square inch, etc.
+
+In case of a triangle, it is the amount of surface enclosed within its three boundary lines.
+
+## What is Perimeter?
+
+The perimeter of a plane figure is the total length of its sides.
+
+In case of a triangle, it is the total length of its three sides.
+
+
 ## Formulae ralated to Area of a Triangle 
 
 There are various formulae to find area of a triangle. Some of them can be applied on any triangle, while others are applicable to only a certain kind of triangle. Let's see a few of them down below. 
@@ -26,11 +39,21 @@ If the length of one of the sides of the triangle, which is the base, is b. And 
 <img src="../../../media/geometry/triangle-10.png" alt="Geometry" style="width:99%;height:99%;">
 Area of triangle = $\frac{1}{2}$ × base × height = $\frac{1}{2}$ × b × h
 
+{{% alert note %}}
+Height (h) measured should be perpendicular to the base (b).
+
+In case of a Right Angled triangle, its two sides are already perpendicular to each other (apart from hypotenuse). So, its area = $\frac{1}{2}$ × Product of the sides containing the right angle
+{{% /alert %}}
+
 #### If all the three sides are known (Heron's formula)
 
 If the length of all the three sides of a triangle are known, say a, b and c, then:
 <img src="../../../media/geometry/triangle-11.png" alt="Geometry" style="width:90%;height:90%;">
 Area of triangle = $\sqrt{s (s - a) (s - b) (s - c)}$, where s = $\frac{a + b + c}{2}$
+
+{{% alert note %}}
+s is the semi-perimeter of a triangle.
+{{% /alert %}}
 
 #### If all the three medians are known
 
@@ -79,6 +102,8 @@ Height of isosceles triangle = $\frac{1}{2} \sqrt{4b^2 - a^2}$
 If we join the midpoints of the sides of a triangle, we get four congruent triangles, each of which is similar to the original bigger triangle.
 <img src="../../../media/geometry/triangle-14.png" alt="Geometry" style="width:90%;height:90%;">
 All the four small triangles are equal in area.
+
+Area of each of these small triangles (formed by joining the mid-points of sides) = $\frac{1}{4}$ × Area of the original triangle
 
 ### Property 2
 

@@ -155,7 +155,7 @@ If there are many enclosures, then write Enclosures and then the number of attac
 In informal letters, we can also add a post-script (P.S.) at the end of the letter. Skip a line at the end, and write in on the left-hand side of the paper. 
 
 P.S. is:
-* something that you might have forgotten to write in the body of the essay, 
+* something that you might have forgotten to write in the body of the letter, 
 * something that does not fits well with the theme of the letter, or 
 * just something that you want to add for extra emphasis or effect. 
 {{% /alert %}}

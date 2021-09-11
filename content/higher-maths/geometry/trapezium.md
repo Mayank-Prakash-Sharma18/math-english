@@ -26,6 +26,8 @@ Isosceles trapezium - A trapezium whose non-parallel sides are equal. <br>
 That is, AB ∥ CD and BC = AD
 {{% /alert %}}
 
+A parallelogram is a trapezium. However, vice-versa need not be true, i.e. a trapezium need not be a parallelogram - as only one pair of opposite sides is parallel in a trapezium and we require both pairs to be parallel in a parallelogram.
+
 <br><hr><br>
 
 ## Properties of Trapezium

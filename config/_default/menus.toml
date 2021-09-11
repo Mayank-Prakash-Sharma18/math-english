@@ -248,11 +248,11 @@
    parent = "higher-maths"
    weight = 53
 
-   # [[main]]
-   # name = "Mensuration"
-   # url = "higher-maths/mensuration/"
-   # parent = "higher-maths"
-   # weight = 54
+   [[main]]
+   name = "Mensuration"
+   url = "higher-maths/mensuration/"
+   parent = "higher-maths"
+   weight = 54
 
    # [[main]]
    # name = "Coordinate Geometry"
