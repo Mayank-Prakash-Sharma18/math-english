@@ -122,6 +122,12 @@
    parent = "grammar-intermediate"
    weight = 28
 
+   [[main]]
+   name = "Verbs"
+   url = "english-intermediate/verbs/"
+   parent = "grammar-intermediate"
+   weight = 29
+
 [[main]]
    name = "English - Advanced"
    url = "#"
@@ -254,11 +260,11 @@
    parent = "higher-maths"
    weight = 54
 
-   # [[main]]
-   # name = "Coordinate Geometry"
-   # url = "higher-maths/coordinate-geometry/"
-   # parent = "higher-maths"
-   # weight = 55
+   [[main]]
+   name = "Coordinate Geometry"
+   url = "higher-maths/coordinate-geometry/"
+   parent = "higher-maths"
+   weight = 55
 
    [[main]]
    name = "Trigonometry"
@@ -290,6 +296,23 @@
    parent = "higher-maths"
    weight = 60
    
+   [[main]]
+   name = "Complex Numbers"
+   url = "higher-maths/complex-numbers/"
+   parent = "higher-maths"
+   weight = 61
+
+   [[main]]
+   name = "Vectors"
+   url = "higher-maths/vectors/"
+   parent = "higher-maths"
+   weight = 62
+
+   # [[main]]
+   # name = "Calculus"
+   # url = "higher-maths/calculus/"
+   # parent = "higher-maths"
+   # weight = 63
 
 [[main]]
    name = "Analytical Reasoning"
