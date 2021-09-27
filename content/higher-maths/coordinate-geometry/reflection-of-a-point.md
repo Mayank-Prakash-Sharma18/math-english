@@ -8,10 +8,10 @@ draft: false
 menu:
   coordinate-geometry:
     parent: 2. Lines
-    weight: 21
+    weight: 24
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 21
+weight: 24
 ---
 
 ## What is Reflection?

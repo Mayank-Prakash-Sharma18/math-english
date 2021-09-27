@@ -308,11 +308,11 @@
    parent = "higher-maths"
    weight = 62
 
-   # [[main]]
-   # name = "Calculus"
-   # url = "higher-maths/calculus/"
-   # parent = "higher-maths"
-   # weight = 63
+   [[main]]
+   name = "Calculus"
+   url = "higher-maths/calculus/"
+   parent = "higher-maths"
+   weight = 63
 
 [[main]]
    name = "Analytical Reasoning"
