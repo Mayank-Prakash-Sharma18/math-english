@@ -128,251 +128,257 @@
    parent = "grammar-intermediate"
    weight = 29
 
+   [[main]]
+   name = "Tenses"
+   url = "english-intermediate/tenses/"
+   parent = "grammar-intermediate"
+   weight = 30
+
 [[main]]
    name = "English - Advanced"
    url = "#"
    identifier = "grammar-advanced"
-   weight = 30
+   weight = 40
 
    [[main]]
    name = "Conditional Sentences"
    url = "english-advanced/conditional-sentences/"
    parent = "grammar-advanced"
-   weight = 31
+   weight = 41
 
    [[main]]
    name = "Question Tags"
    url = "english-advanced/question-tags/"
    parent = "grammar-advanced"
-   weight = 32
+   weight = 42
 
    [[main]]
    name = "Multi-use Words"
    url = "english-advanced/multi-use-words/"
    parent = "grammar-advanced"
-   weight = 37
+   weight = 47
 
    [[main]]
    name = "Comprehension Skills"
    url = "english-advanced/application/"
    parent = "grammar-advanced"
-   weight = 38
+   weight = 48
 
    [[main]]
    name = "Writing Skills"
    url = "english-advanced/writing-skills/"
    parent = "grammar-advanced"
-   weight = 39
+   weight = 49
 
 [[main]]
    name = "Arithmetic"
    url = "#"
    identifier = "arithmetic"
-   weight = 40
+   weight = 60
 
    [[main]]
    name = "Percentage"
    url = "arithmetic-beginner/percentage/"
    parent = "arithmetic"
-   weight = 31
+   weight = 61
 
    [[main]]
    name = "Profit and Loss"
    url = "arithmetic-beginner/profit-and-loss/"
    parent = "arithmetic"
-   weight = 32
+   weight = 62
 
    [[main]]
    name = "Interest"
    url = "arithmetic-beginner/interest/"
    parent = "arithmetic"
-   weight = 33
+   weight = 63
 
    [[main]]
    name = "Ratio and Proportion"
    url = "arithmetic-beginner/ratio-and-proportion/"
    parent = "arithmetic"
-   weight = 34
+   weight = 64
 
    [[main]]
    name = "Average, Mixtures & Alligation"
    url = "arithmetic-beginner/average-mixtures-alligation/"
    parent = "arithmetic"
-   weight = 35
+   weight = 65
 
    [[main]]
    name = "Time, Speed & Distance"
    url = "arithmetic-beginner/time-speed-distance/"
    parent = "arithmetic"
-   weight = 36
+   weight = 66
 
    [[main]]
    name = "Time & Work"
    url = "arithmetic-beginner/time-and-work/"
    parent = "arithmetic"
-   weight = 37
+   weight = 67
 
    [[main]]
    name = "Number System"
    url = "arithmetic-beginner/number-system/"
    parent = "arithmetic"
-   weight = 38
+   weight = 68
 
    [[main]]
    name = "Data Interpretation"
    url = "arithmetic-beginner/data-interpretation/"
    parent = "arithmetic"
-   weight = 40
+   weight = 69
 
    [[main]]
    name = "Simplification, Indices, Surds & Log"
    url = "arithmetic-beginner/simplification/"
    parent = "arithmetic"
-   weight = 42
+   weight = 70
 
 [[main]]
    name = "Higher Maths"
    url = "higher-maths/"
    identifier = "higher-maths"
-   weight = 50
+   weight = 80
 
    [[main]]
    name = "Permutation & Combination"
    url = "higher-maths/permutation-and-combination/"
    parent = "higher-maths"
-   weight = 51
+   weight = 81
 
    [[main]]
    name = "Probability"
    url = "higher-maths/probability/"
    parent = "higher-maths"
-   weight = 52
+   weight = 82
 
    [[main]]
    name = "Geometry"
    url = "higher-maths/geometry/"
    parent = "higher-maths"
-   weight = 53
+   weight = 83
 
    [[main]]
    name = "Mensuration"
    url = "higher-maths/mensuration/"
    parent = "higher-maths"
-   weight = 54
+   weight = 84
 
    [[main]]
    name = "Coordinate Geometry"
    url = "higher-maths/coordinate-geometry/"
    parent = "higher-maths"
-   weight = 55
+   weight = 85
 
    [[main]]
    name = "Trigonometry"
    url = "higher-maths/trigonometry/"
    parent = "higher-maths"
-   weight = 56
+   weight = 86
 
    [[main]]
    name = "Algebra & Equations"
    url = "higher-maths/algebra/"
    parent = "higher-maths"
-   weight = 57
+   weight = 87
 
    [[main]]
    name = "Set Theory & Functions"
    url = "higher-maths/functions/"
    parent = "higher-maths"
-   weight = 58
+   weight = 88
 
    [[main]]
    name = "Matrices & Determinants"
    url = "higher-maths/matrices/"
    parent = "higher-maths"
-   weight = 59
+   weight = 89
 
    [[main]]
    name = "Statistics & Progressions"
    url = "higher-maths/statistics/"
    parent = "higher-maths"
-   weight = 60
+   weight = 90
    
    [[main]]
    name = "Complex Numbers"
    url = "higher-maths/complex-numbers/"
    parent = "higher-maths"
-   weight = 61
+   weight = 91
 
    [[main]]
    name = "Vectors"
    url = "higher-maths/vectors/"
    parent = "higher-maths"
-   weight = 62
+   weight = 92
 
    [[main]]
    name = "Calculus"
    url = "higher-maths/calculus/"
    parent = "higher-maths"
-   weight = 63
+   weight = 93
 
 [[main]]
    name = "Analytical Reasoning"
    url = "#"
    identifier = "analytical-reasoning"
-   weight = 70
+   weight = 110
 
    [[main]]
    name = "Dice"
    url = "reasoning-beginner/dices/"
    parent = "analytical-reasoning"
-   weight = 71
+   weight = 111
 
    [[main]]
    name = "Cubes"
    url = "reasoning-beginner/cubes/"
    parent = "analytical-reasoning"
-   weight = 72
+   weight = 112
 
    [[main]]
    name = "Calendar"
    url = "reasoning-beginner/calendar/"
    parent = "analytical-reasoning"
-   weight = 73
+   weight = 113
 
    [[main]]
    name = "Clocks"
    url = "reasoning-beginner/clocks/"
    parent = "analytical-reasoning"
-   weight = 74
+   weight = 114
 
    [[main]]
    name = "Direction & Distance"
    url = "reasoning-beginner/direction-and-distance/"
    parent = "analytical-reasoning"
-   weight = 75
+   weight = 115
 
    [[main]]
    name = "Syllogism"
    url = "reasoning-beginner/syllogism/"
    parent = "analytical-reasoning"
-   weight = 76
+   weight = 116
 
    [[main]]
    name = "Blood Relations"
    url = "reasoning-beginner/blood-relations/"
    parent = "analytical-reasoning"
-   weight = 77
+   weight = 117
 
    [[main]]
    name = "Venn Diagram"
    url = "reasoning-beginner/venn-diagram/"
    parent = "analytical-reasoning"
-   weight = 78
+   weight = 118
 
    [[main]]
    name = "Puzzles"
    url = "reasoning-beginner/puzzles/"
    parent = "analytical-reasoning"
-   weight = 80
+   weight = 120
 
 
 
@@ -380,25 +386,25 @@
    name = "Pattern Reasoning"
    url = "#"
    identifier = "pattern-reasoning"
-   weight = 90
+   weight = 140
 
    [[main]]
    name = "Number & Alphabet Series"
    url = "reasoning-beginner/number-and-alphabet-series/"
    parent = "pattern-reasoning"
-   weight = 91
+   weight = 141
 
    [[main]]
    name = "Coding-Decoding"
    url = "reasoning-beginner/coding-decoding/"
    parent = "pattern-reasoning"
-   weight = 92
+   weight = 142
 
    [[main]]
    name = "Mathematical Operations & Inequalities"
    url = "reasoning-beginner/mathematical-operations-and-inequalities/"
    parent = "pattern-reasoning"
-   weight = 93
+   weight = 143
 
 [[main]]
    name = "Contact"
