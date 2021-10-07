@@ -141,16 +141,28 @@
    weight = 40
 
    [[main]]
+   name = "Voice"
+   url = "english-advanced/voice/"
+   parent = "grammar-advanced"
+   weight = 41
+
+   # [[main]]
+   # name = "Narration (Reporting)"
+   # url = "english-advanced/narration/"
+   # parent = "grammar-advanced"
+   # weight = 42
+
+   [[main]]
    name = "Conditional Sentences"
    url = "english-advanced/conditional-sentences/"
    parent = "grammar-advanced"
-   weight = 41
+   weight = 44
 
    [[main]]
    name = "Question Tags"
    url = "english-advanced/question-tags/"
    parent = "grammar-advanced"
-   weight = 42
+   weight = 45
 
    [[main]]
    name = "Multi-use Words"
