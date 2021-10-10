@@ -146,11 +146,11 @@
    parent = "grammar-advanced"
    weight = 41
 
-   # [[main]]
-   # name = "Narration (Reporting)"
-   # url = "english-advanced/narration/"
-   # parent = "grammar-advanced"
-   # weight = 42
+   [[main]]
+   name = "Narration (Reporting)"
+   url = "english-advanced/narration/"
+   parent = "grammar-advanced"
+   weight = 42
 
    [[main]]
    name = "Conditional Sentences"
