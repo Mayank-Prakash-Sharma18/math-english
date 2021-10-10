@@ -134,6 +134,12 @@
    parent = "grammar-intermediate"
    weight = 30
 
+   [[main]]
+   name = "Subject-Verb Agreement"
+   url = "english-intermediate/subject-verb-agreement/"
+   parent = "grammar-intermediate"
+   weight = 31
+
 [[main]]
    name = "English - Advanced"
    url = "#"
