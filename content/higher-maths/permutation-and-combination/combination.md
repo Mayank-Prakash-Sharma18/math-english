@@ -1,5 +1,5 @@
 ---
-title: Combination
+title: Problems based on the concept of Combination
 linktitle: Combination 
 toc: true
 type: docs
@@ -13,6 +13,10 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
 ---
+
+In this article, we will have a look at the various problems that are formulated on the concept on ***Combination***. 
+
+Compare this with the next article on Permutation, to further enhance your knowledge regarding the differences between these two closely related concepts. 
 
 ## n distinct items
 

@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Basics of Permutation and Combination
 linktitle: Basics 
 toc: true
 type: docs
@@ -14,7 +14,9 @@ menu:
 weight: 3
 ---
 
-## Concept of P&C
+In this article, we will understand the very basic concepts of Permutation and Combination (P & C), and also learn to differentiate between the two. 
+
+## Concept of P & C
 
 ***Combination*** - Each of the groups or <strong>selections</strong> which can be made by taking some or all of a number of items. 
 
@@ -34,14 +36,15 @@ That is, we will select first and only then we will arrange.
 Suppose there are 3 books: A, B and C. We have to select 2 books out of these 3. This can be done in 3 ways. i.e. (A and B), (B and C), (C and A). – Selection of A & B is the same as selecting B & A etc.<br>
 When we select something, we use the word 'combination', represented by C.
 
-***Arrangement***:
+***Arrangement***:<br>
 If we are to choose the best and the second best book, there will be 6 ways of doing so, i.e. (A, B), (B, A), (B, C), (C, B), (C, A), (A, C). <br>
 Here (A, B) and (B, A) are different because in the first scenario A is the best book, while in the second scenario it is the second best book. <br>
 When we arrange something, we use the word permutation, represented by P.
 
+
 ## Identifying the Problem
 
-When you encounter a P & C problem, the first thing you should do is to find out whether it is a permutation or combination that is being discussed.  
+When you encounter a P & C problem, the first thing you should do is to find out whether it is permutation or combination that is being discussed.  
 
 * Some times the problem states this explicitly:<br><br>
 For permutations, "Find the number of permutations that can be made ..." OR "Find the number of arrangements that can be made....." OR "Find the number of ways in which you can arrange.....” (notice the use of keywords permutation and arrangement)<br><br>
@@ -126,4 +129,4 @@ $C^6_3$ = $\frac{6×5×4}{3×2×1} $
 * $P^n_r$ = $\frac{n!}{(n-r)!} $ <br><br>
 So, $P^6_3$ = $\frac{6!}{(6-3)!} $ - A little time consuming calculation <br><br>
 Better method:<br>
-$P^6_3$ = 6×5×4
+$P^6_3$ = 6 × 5 × 4

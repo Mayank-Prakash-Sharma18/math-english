@@ -14,7 +14,7 @@ menu:
 weight: 3
 ---
 
-Some of the important points to keep in mind while transforming active into passive voice or vice-versa. 
+Here are some of the important points to keep in mind while transforming active into passive voice or vice-versa: 
 
 $M_3$ - Meaning, Mood, Mode <br>
 T – Tense <br>

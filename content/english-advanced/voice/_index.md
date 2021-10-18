@@ -35,6 +35,8 @@ Active Voice Pattern: Subject + Verb + Object
 
 India helps Bhutan. (Indian – subject; helps – verb; Bhutan - object)
 
+<img src="../../../media/voice/active-passive-voice17.png" alt="transformation to passive voice" style="width:99%;height:99%;">
+
 ### Passive Voice
 
 If the form of the verb shows that ***something is done to*** the Subject (subject receives some action, it is passive).
@@ -43,25 +45,27 @@ Passive Voice Pattern: Subject (passive) + Helping verb ‘be’ (according to T
 
 Bhutan is helped by India. (Bhutan – passive subject; is – helping verb; helped – $V_3$; India – object of preposition ‘by’)
 
-So to make Passive voice we use: be + $V_3$
+<img src="../../../media/voice/active-passive-voice18.png" alt="transformation to passive voice" style="width:99%;height:99%;">
+
+So to make Passive voice we use: be + $V_3$ (Past Participle)
 
 Let’s observe these two sentences again:
 
 Active Voice: India helps Bhutan. (Indian – subject; helps – verb; Bhutan - object) <br>
 Passive voice: Bhutan is helped by India. (Bhutan – passive subject; is – helping verb; helped – $V_3$; India – object of preposition ‘by’)
 
-In passive voice, the subject of active voice becomes the object of preposition ‘by’. It is in objective case now and not in subjective case. <br>
-(Note that, though in layman’s terms we say that subject in active voice becomes the object in passive voice, but technically it is the object of the preposition ‘by’ and not that of the verb.). 
+In passive voice, the subject of active voice becomes the object of preposition ‘by’. It is in objective case now and not in subjective case. 
+
+{{% alert note %}}
+Note that, though in layman’s terms we say that subject in active voice becomes the object in passive voice, but technically it is the object of the preposition ‘by’ and not that of the verb.
+{{% /alert %}}
 
 Similarly, in passive voice, the object of active voice becomes a passive subject. It is in subjective case now and not in objective case. The helping verb in passive voice will agree with the number and person of the passive subject.
 
-In passive voice, the object of preposition ‘by’ is also called as the doer (as it does the action). 
-
-Similarly, in passive voice, the passive subject is also called the receiver (as subject of passive voice is passive, it receives the action). 
-
 {{% alert note %}}
-Receiver is also called as Patient, while Doer is also called as Agent.
-{{% /alert %}}
+In passive voice, the object of preposition ‘by’ is also called as the ***Doer*** (as it does the action). 
+
+Similarly, in passive voice, the passive subject is also called the ***Receiver*** (as subject of passive voice is passive, it receives the action). 
 
 So, we can also write the passive voice pattern as follows:
 
@@ -69,12 +73,58 @@ Passive Voice Pattern: Receiver + Helping verb ‘be’ (according to Tense) + $
 
 Bhutan is ***helped*** by India. (Bhutan – passive subject/receiver; is – helping verb; helped – $V_3$; India – object of preposition/doer)
 
+Receiver is also called as ***Patient***, while Doer is also called as ***Agent***.
+{{% /alert %}}
+
 by + object comes for $V_3$,  so it should be kept near $V_3$.
 
 In the middle one or two words can come, but ‘by + object’ should not be very far from $V_3$.
 
 Active voice: He writes a letter here. <br>
 Passive voice: A letter is written here by him. 
+
+{{% alert note %}}
+Remember that ***Voice*** is a property of the verb, and not of the whole sentence. That is, it is the verb that can be in active or passive voice. 
+
+Some students have a misconception that an entire sentence must be either in active or passive voice. However, verbs in the active voice and passive voice can also appear in the same sentence.
+
+My grandfather ***owned*** a pet Bengal tiger, which ***was given*** to him by an Indian king. (owned - verb in active voice; was given - verb in passive voice.)
+
+Our songs ***were considered*** unconventional, but we always ***felt*** a connection with the people in general. (were considered - verb in passive voice; felt - verb in active voice.)
+{{% /alert %}}
+
+
+## Recognizing Passive Voice
+
+We know that to make Passive voice we use: be + $V_3$ (Past Participle) <br>
+For example, am licensed, is played, are killed, was created, were eaten, has been seen, is being repaired, etc.
+
+We can also use modals in this format, i.e. modal + be + $V_3$ (Past Participle) <br>
+For example, might be created, cannot be used, should have been seen, will have been eaten, etc. 
+
+However, be + $V_3$ (Past Participle) will be considered a passive voice form only if the past participle is working as a verb. Sometimes, $V_3$ (Past Participle) also works as an adjective. In that case, we cannot call it a passive voice. 
+
+Not a Passive Voice: All the inventions he has ever made in his life have been when he ***has been*** drunk. (drunk - it is an adjective and not part of the verb)
+
+Passive Voice: I ***have been drunk*** under the table by my old college mates. (drunk - it is part of the verb)
+
+Indians ***were*** scared of drinking tea when it ***was introduced***.
+
+The verb ‘was introduced’ is in the passive voice. However, ’were scared’ is not. Here, ‘scared’ is not part of the verb. It's an adjective meaning afraid. So, ‘were’ is in the active voice. 
+
+### A trick to recognize Passive Voice
+
+So, even experts often make a mistake when it comes to recognizing Passive Voice form. But luckily, we have a simple test to help us out. 
+
+Just include the term 'by vampires' after the verb form. If it still makes sense, then it means that the verb is in passive voice. 
+
+Let's see an example. 
+
+The bike could ***have been stolen***. <br>
+The bike could ***have been stolen*** by vampires. (It makes sense. So, 'have been stolen' is in the passive voice.)
+
+The bike could ***have been*** illicit. <br>
+The bike could ***have been*** illicit by vampires. (It makes no sense. Therefore, 'have been' is in the active voice, and illicit is an adjective.)
 
 
 ## Use of Prepositions other than ‘by’
@@ -102,7 +152,7 @@ Scientists were ***surprised by*** the result of the Young's double slit experim
 
 ### Instrument
 
-We use with (not by) to talk about an instrument used by the agent. 
+We use 'with' (not by) to talk about an instrument used by the agent. 
 
 Compare:
 

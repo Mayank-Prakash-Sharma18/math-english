@@ -1,5 +1,5 @@
 ---
-title: Permutation
+title: Problems based on the concept of Permutation
 linktitle: Permutation 
 toc: true
 type: docs
@@ -13,6 +13,10 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 9
 ---
+
+In this article, we will have a look at the various problems that are formulated on the concept on ***Permutation***. 
+
+Compare this with the previous article on Combination, to further enhance your knowledge regarding the differences between these two closely related concepts. 
 
 ## n distinct items
 

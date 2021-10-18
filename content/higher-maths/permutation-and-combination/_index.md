@@ -34,7 +34,7 @@ They are based on two counting principles:
 Fundamental Principle Of Multiplication - If there are two jobs such that one of them can be completed in m ways and when it has been completed (in any of the m ways), second job can be completed in n ways; then the two jobs can be completed in m × n ways.
 <img src="../../../media/p-and-c/principal-of-multiplication.png" alt="permutation and combination" style="width:81%;height:81%;">
 Notice that the completion of the second job is dependent on the completion of the first job. <br>
-The keyword is AND – We need to finish the first job AND the second job after that.
+The keyword is ***AND*** – We need to finish the first job AND the second job after that.
 
 {{% alert note %}}
 Fundamental principle of multiplication is used in Permutation.
@@ -60,7 +60,7 @@ Answer: (b)
 Fundamental Principle Of Addition - If there are two jobs such that they can be performed independently in m and n ways respectively, then either of the two jobs can be performed in (m + n) ways.
 <img src="../../../media/p-and-c/principal-of-addition.png" alt="permutation and combination" style="width:81%;height:81%;">
 Notice that the completion of each of the two jobs is independent of the completion of the other job. <br>
-The keyword is OR – We need to finish the first job OR the second job.
+The keyword is ***OR*** – We need to finish the first job OR the second job.
 
 {{% alert note %}}
 Fundamental principle of addition is used in Combination.
@@ -112,7 +112,9 @@ n! is called ‘n factorial’.
 3 ! = 1 × 2 × 3 <br>
 4 ! = 1 × 2 × 3 × 4 and so on.
 
+{{% alert note %}}
 Note that, 0 ! = 1
+{{% /alert %}}
 
 ### Recursive factorial formula
 
