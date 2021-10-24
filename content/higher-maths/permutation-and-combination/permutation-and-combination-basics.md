@@ -62,11 +62,36 @@ Here, order of items is not important. E.g. if I invite friend 3 and friend 5, t
 
 Number of combinations of n different things taken r at a time or Selection of r things out of n different things is given by:
 
-$C^n_r$ = $\frac{n!}{r!(n-r)!} $ 
+$C^n_r$ = $\frac{n!}{r!(n-r)!}$ 
 
 Number of arrangements of n different things taken r at a time or Selecting r things out of n different things and then arranging these r things is given by:
 
-$P^n_r$ = $\frac{n!}{(n-r)!} $
+$P^n_r$ = $\frac{n!}{(n-r)!}$
+
+{{% alert note %}}
+#### Understanding $P^n_r$ 
+
+While Combination involves only selection, in Permutation we need to select and then arrange. 
+
+So, Permutation = Selection + Arrangement
+
+* Arrangement of r things out of n different things ≡ first selecting r things out of n things ($C^n_r$) and then arranging these r things (r!).<br>
+$P^n_r$ = $C^n_r$ × r! <br>
+(which is nothing but $\frac{n!}{r!(n-r)!} $ × r! = $\frac{n!}{(n-r)!} $) 
+
+* Arrangement of all n different things:<br>
+$P^n_n$ = $C^n_n$ × n! = n! <br>
+{{% /alert %}}
+
+##### Q. Find the number of permutations and combinations if n = 6 and r = 2.
+
+Explanation:<br>
+<div class="Exp">
+
+$C^n_r$ = $\frac{n!}{r!(n-r)!} = \frac{6!}{2!(6-2)!} = \frac{6!}{2! 4!} = \frac{6 × 5}{2} = 15$  
+
+$P^n_r$ = $\frac{n!}{(n-r)!} = \frac{6!}{(6-2)!} = \frac{6!}{4!} = 6 × 5 = 30$
+</div> <br>
 
 ### Property 1
 
@@ -78,6 +103,14 @@ $C^n_n$ = $\frac{n!}{n!(n-n)!} $ = $\frac{n!}{n!} $ = 1
 
 $C^n_r$ = $C^n_{n-r}$
 (for 0 ≤ r ≤ n)
+
+##### Q. Find the value of $C^9_7$.
+
+Explanation:<br>
+<div class="Exp">
+
+$C^9_7$ = $C^9_2 = \frac{9!}{2!(9-2)!} = \frac{9!}{2! 7!} = \frac{9 × 8}{2} = 36$  
+</div> <br>
 
 ### Property 3
 
@@ -98,28 +131,14 @@ $C^n_{r-1}$ + $C^n_r$ = $C^{n+1}_r$
 
 (n and r are non-negative integers such that r ≤ n)
 
+For example, $C^5_2 + C^5_3 = C^{5+1}_3 = C^6_3$
+
 ### Property 5
 
 $C^n_0$ + $C^n_1$ + $C^n_2$ + ……+ $C^n_n$ = $2^n$
 
-<hr>
-
-## Understanding $P^n_r$ 
-
-While Combination involves only selection, in Permutation we need to select and then arrange. 
-
-So, Permutation = Selection + Arrangement
-
-* Arrangement of r things out of n different things ≡ first selecting r things out of n things ($C^n_r$) and then arranging these r things (r!).<br>
-$P^n_r$ = $C^n_r$ × r! <br>
-(which is nothing but $\frac{n!}{r!(n-r)!} $ × r! = $\frac{n!}{(n-r)!} $) 
-
-* Arrangement of all n different things:<br>
-$P^n_n$ = $C^n_n$ × n! = n! <br>
-
-<hr>
-
-## Calculation Tips
+{{% alert note %}}
+#### Calculation Tips
 
 * $C^n_r$ = $\frac{n!}{r!(n-r)!} $ <br><br>
 So, $C^6_3$ = $\frac{6!}{3!(6-3)!} $ - A little time consuming calculation <br><br>
@@ -130,3 +149,5 @@ $C^6_3$ = $\frac{6×5×4}{3×2×1} $
 So, $P^6_3$ = $\frac{6!}{(6-3)!} $ - A little time consuming calculation <br><br>
 Better method:<br>
 $P^6_3$ = 6 × 5 × 4
+{{% /alert %}}
+

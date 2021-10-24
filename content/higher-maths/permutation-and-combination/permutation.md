@@ -54,16 +54,16 @@ So, total possible ways = 120 × 2 = 240 ways
 
 Number of ways to select and arrange r items from n distinct items (Repetition is not allowed) = $P^n_r$
 
-Solutions are of the type: n × (n-1) × (n - 2) …. × (n - m)
+Solutions are of the type: n × (n - 1) × (n - 2) ... × (n - m)
 
 {{% alert note %}}
 Here we make use of boxes to visualize the situation.
 
 The first box can be filled up in n ways. <br>
 The second box can be filled up again in n-1 ways (because repetition is not allowed) <br>
-The third box can also be filled in n-2 ways and so on.
+The third box can be filled in n-2 ways and so on.
 
-So, the rth box can be filled in n-(r-1) or n-r+1 ways. 
+So, the $r^{th}$ box can be filled in n-(r-1) or n-r+1 ways. 
 
 So, number of ways of filling all the r boxes (i.e. 1st box AND 2nd box AND …. AND rth box) = n × (n-1) × (n-2) × (n-3) ... (n-r+1) times = $\frac{n!}{(n-r)!}$ = $P^n_r$
 {{% /alert %}}
@@ -107,6 +107,7 @@ Hence, number of ways of formulating such a number (i.e. ways to choose 1st digi
 
 The number of permutations (i.e. ways of arranging) of n things, taking r at a time (wherein each item may be repeated once, twice, .... up to r times) = $n^r$
 
+{{% alert note %}}
 Here also we make use of boxes to visualize the situation.
 
 The first box can be filled up in n ways. <br>
@@ -115,6 +116,7 @@ The third box can also be filled in n ways and so on. <br>
 So, the $r^{th}$ box can be filled in n ways too. 
 
 So, number of ways of filling all the r boxes (i.e. 1st box AND 2nd box AND …. AND rth box) = n × n × n × n ... r times = $n^r$
+{{% /alert %}}
 
 ##### Q. In how many ways can 3 different balls be distributed among 4 different boxes, wherein any box can have any number of balls?
 Explanations :<br>
@@ -153,7 +155,9 @@ A Caveat: <br>
 The number of permutations (i.e. ways of arranging) of 3 balls in 4 boxes = $4^3$ and not $3^4$
 
 Correct way of thinking: Each ball can be placed in how many boxes. <br>
-Incorrect way of thinking: Each box can have how many balls. Let’s see why this is incorrect.
+Incorrect way of thinking: Each box can have how many balls. 
+
+Let’s see why this is incorrect.
 
 1st box can contain any of the 3 balls. <br>
 2nd box can contain any of the 3 balls. <br>
@@ -174,11 +178,11 @@ Now, let us study the Permutation of n items, wherein some or all are identical.
 
 Number of ways to arrange all n identical items = 1
 
-(If all the items are identical then there can be only one way in which all these items can be arranged. That is, no matter how you arrange them, the pattern will look the same.)
+(If all the items are identical, then there can be only one way in which all these items can be arranged. That is, no matter how you arrange them, the pattern will look the same.)
 
 ### Some items identical
 
-Number of ways to arrange all n items, wherein p are of one kind and q are of one kind (and rest all are distinct) = $\frac{n!}{(p! q!)}$
+Number of ways to arrange all n items, wherein p are of one kind and q are of other kind (and rest all are distinct) = $\frac{n!}{(p! q!)}$
 
 Here, ‘of one kind’ implies identical items
 
@@ -188,5 +192,5 @@ Here, ‘of one kind’ implies identical items
 Explanation:<br>
 <div class="Exp">
 The word ‘INDIA’ contains 5 letters – 3 distinct (N, D, A) and 2 of the same kind (2 Is). <br><br>
-Number of ways to arrange all n items, wherein p are of one kind and q are of one kind (and rest all are distinct)  = $\frac{n!}{(p! q!)}$ = $\frac{5!}{(2!)}$ = $\frac{120}{2}$ = 60 
+Number of ways to arrange all n items, wherein p are of one kind and q are of other kind (and rest all are distinct)  = $\frac{n!}{(p! q!)}$ = $\frac{5!}{(2!)}$ = $\frac{120}{2}$ = 60 
 </div> <br><br>

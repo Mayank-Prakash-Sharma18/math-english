@@ -56,7 +56,7 @@ Hence, number of ways to select 1 or more items from n distinct items = $2^n$ â€
 
 Explanation:<br>
 <div class="Exp">
-The person needs to select one or more from 5 distinct members. <br>
+The person needs to select one or more from 5 distinct friends. <br>
 So, required number of ways = $2^n$ - 1 = $2^5$ - 1 = 32 â€“ 1 = 31
 </div> <br>
 

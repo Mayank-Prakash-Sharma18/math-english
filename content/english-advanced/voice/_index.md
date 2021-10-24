@@ -21,6 +21,15 @@ menu:
     weight: 1
 ---
 
+In English grammar, verbs have the following properties:
+* Number - Singular, Plural
+* Person - I, II, and III
+* Tense - Past, Present
+* Mood
+* Voice - Active, Passive
+
+In this module, we will focus on the ***Voice***. However, to understand it better, a student must have some basic knowledge of Verbs and Tenses. 
+
 ## What is a Voice?
 
 Voice - form of a Verb which shows whether Subject ***does something*** or ***has something done to it***.
@@ -48,6 +57,10 @@ Bhutan is helped by India. (Bhutan – passive subject; is – helping verb; hel
 <img src="../../../media/voice/active-passive-voice18.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
 So to make Passive voice we use: be + $V_3$ (Past Participle)
+
+{{% alert note %}}
+Sometimes we also form the passive using the verb 'to get' or 'to have' (instead of the verb 'to be').
+{{% /alert %}}
 
 Let’s observe these two sentences again:
 
@@ -91,6 +104,36 @@ Some students have a misconception that an entire sentence must be either in act
 My grandfather ***owned*** a pet Bengal tiger, which ***was given*** to him by an Indian king. (owned - verb in active voice; was given - verb in passive voice.)
 
 Our songs ***were considered*** unconventional, but we always ***felt*** a connection with the people in general. (were considered - verb in passive voice; felt - verb in active voice.)
+{{% /alert %}}
+
+
+## Alternative Ways to form the Passive Voice
+
+We know that, to make Passive voice we use: be + $V_3$ (Past Participle)
+
+However, sometimes we also form the passive using the verb 'to get' or 'to have' (instead of the verb 'to be').
+
+We use such sentence constructions when we get our work done by someone else - the work is more important than the person doing it. The person(s) doing the work often remains unnamed. 
+
+I must ***get my car serviced***. (get + $V_3$) <br>
+I must ***have my car serviced***. (have + $V_3$)
+
+Let's see some more examples.
+
+When are you going to ***get that car serviced***? <br>
+We are ***having the room refurbished***. <br>
+I will ***get those guns delivered*** before next spring. <br>
+He said he would ***have my food delivered*** by midnight.
+
+{{% alert note %}}
+Sometimes, even active voice verb construction can be used to give a passive meaning. 
+
+For example, when we use the verb 'need' with a gerund or a to-infinitive. 
+
+The door ***needs painting***. <br>
+The door ***needs to be painted***.
+
+As you can see, here our focus is on the person or thing receiving the action (i.e. door), rather than the doer of the action. 
 {{% /alert %}}
 
 
