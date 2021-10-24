@@ -289,7 +289,7 @@ plugins_js  = ["custom"]
 ############################
 [marketing]
   google_analytics = ""
-  # google_tag_manager = "GTM-P6R2TKS"
+  google_tag_manager = "GTM-P6R2TKS"
 
 ############################
 ## Content Management System
