@@ -38,3 +38,21 @@ In questions involving population growth or appreciation/depreciation of assets,
 
 In all other cases (e.g. bank loans), if nothing is mentioned, we will assume Simple Interest. 
 {{% /alert %}}
+
+##### Q. Aedes Aegypti mosquitos are responsible for the spread of dengue. A colony of 25,000 such mosquitos increase at a rate of 10% of its population per hour. What will be the count of mosquitos after three hours?
+<pre>(a) 33,275   (b) 33,175    (c) 27,000   (d) 27,335</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Suppose that original population = P, Rate of population rise = r%, and Time = n periods
+
+The given population will rise at a compounded rate, as the new mosquitos will keep adding on to the population growth.
+
+Then the final population after n time periods = P $[1 + (r/100)]^n$
+
+So, the population after three hours = 25000 $[1 + (10/100)]^3$ = 25000 $(11/10)^3$ = 25000 × $(1.1)^3$ = 25000 × 1.331 = 33,275
+
+Answer: (a)
+</div> <br>
+

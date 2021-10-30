@@ -8,10 +8,10 @@ draft: false
 menu:
   profit-and-loss:
     parent: Profit & Loss
-    weight: 3
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 4
 ---
 
 ## Two successive  transactions

@@ -43,6 +43,23 @@ For example, consider the scenario wherein Rs. 1000 is borrowed at 10%.
 
 <img src="../../../media/interest/si-vs-ci.png" alt="simple interest vs. compound interest" style="width:99%;height:99%;">
 
+##### Q. The simple interest on a sum of money for 3 years is Rs. 390, and the compound interest on the same sum at the same rate for 2 years is Rs. 273. What must be the rate percent per annum? 
+<pre>(a) 25%   (b) 30%    (c) 15%   (d) 10%</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+SI earned in 1st year = 390/3 = Rs. 130 (It will also be the CI for the 1st year)
+
+CI for 2 years = Rs. 273 (i.e. 130 + 130 + 13)<br>
+So, extra CI earned in the 2nd year = Rs. 13 (This is the interest on Rs. 130 for 1 year)
+
+So, Rate of Interest = (13/130) × 100 = 10%
+
+Answer: (d)
+</div> <br>
+
+
 ## Concept 1
 
 Difference between CI and SI for 2 years (D) = P ($\frac{r}{100})^2$ or $\frac{(SI × 𝑟)}{200}$ 

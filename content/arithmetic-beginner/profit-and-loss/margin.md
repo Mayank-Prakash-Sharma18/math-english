@@ -8,10 +8,10 @@ draft: false
 menu:
   profit-and-loss:
     parent: Profit & Loss
-    weight: 1
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 3
 ---
 
 Margin - the profit percentage on selling price.

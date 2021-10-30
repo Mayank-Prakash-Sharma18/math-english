@@ -272,3 +272,23 @@ Or k = 7
 
 Larger number = 5k = 5 × 7 = 35
 </div><br>
+
+##### Q. Ratio of the ages of grandfather, father and the son in a family is 6:3:1. Which of the following can be the ratio among their ages 5 years from now?
+(a) 13: 7: 3 <br>
+(b) 15: 5: 2 <br>
+(c) 9: 4: 2	<br>
+(d) 12: 7: 2
+
+Explanation:<br>
+<div class="Exp">
+
+Here a very basic concept of ratios has been utilized. In case where the numerator is bigger than the denominator, adding the same constant (number of years in this case) to both the numerator and the denominator will decrease the value of the ratio. 
+
+Hence, the ratio of the ages of grandfather and father, as well as the ratio of the ages of father and the son should decrease. It happens only in case of option (a).
+
+Eg. Suppose their ages are 60, 30, 10 today. <br>
+So their ages five years from today will be 65, 35, 15 <br>
+Thus Ratio = 13:7:3
+
+Answer: (a)
+</div> <br>

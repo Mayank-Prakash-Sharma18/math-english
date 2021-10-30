@@ -85,6 +85,25 @@ or 1 ratio unit ≡ 38/2 = 19
 So, the sum of these two numbers = 5 × 19 + 7 × 19 = 12 × 19 = 228
 </div><br>
 
+##### Q. Aanya’s expenditure and savings are in the ratio 3:2. Her income increases by 10%, and her expenditure increases by 12%. By what percentage does her savings increase?
+<pre>(a) 5%   (b) 7%    (c) 10%	   (d) 12%</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let Aanya’s expenditure and savings be Rs. 300 and Rs. 200 respectively. So, the income is Rs. 500. 
+
+Now, when income rises by 10% the income will become Rs. 550. <br>
+Similarly, the expenditure increases to Rs. 336 (300 + 12% of 300). 
+
+So, the new savings = Income - Expenditure = 550 - 336 = Rs. 214
+
+Increase in savings = 214 - 200 = Rs. 14 <br>
+∴ Percentage increase = (14/200) × 100 = 7%
+
+Answer: (b)
+</div> <br>
+
 
 ## Type 2: 3 people, 2 ratios
 

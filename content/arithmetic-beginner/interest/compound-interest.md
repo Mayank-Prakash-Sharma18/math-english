@@ -190,7 +190,7 @@ The period will be a year if there is annual compounding, 6 months if semi-annua
 For example: <br>
 If compounding happens every quarter and money is invested at 8% p.a. for 3 years, then <br>
 * r = 8/4 = 2% per quarter and  <br>
-* n = 3 X 4 = 12 quarters.  <br>
+* n = 3 × 4 = 12 quarters.  <br>
 (these are the values of r and n that we will use in the CI formula) <br>
 
 Compare the following two cases of money compounded monthly:
@@ -246,6 +246,38 @@ Effective rate of annual interest for 1 year = x + y + $\frac{xy}{100}$ = 4 + 4 
 Effective rate of annual interest for 2 years = x + y + $\frac{xy}{100}$ = 8.16 + 8.16 + (8.16)(8.16)/100 = 16.99% (i.e. around 17%) <br>
 
 So, Amount = P + 17% of P = 15000 + 17% of 15000 = 15000 + 2550 = Rs. 17,550 (approx)
+</div><br>
+
+##### Q. An amount is lent at 50% compound interest per annum, compounded half yearly. After how many years (approximately) would the amount payable be twice the principal?
+<pre>(a) 3   (b) 4    (c) 2.5   (d) 1.5</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group6 default-tab" onclick="openTab('6Exp-1', this, 'tablink-group6', 'tabcontent-group6')">1</button>
+<button class="mak-tablink tablink-group6" onclick="openTab('6Exp-2', this, 'tablink-group6', 'tabcontent-group6')">2</button>
+
+<div id="6Exp-1" class="Exp-1 mak-tabcontent tabcontent-group6">
+Explanation 1: Formula Method <br><br>
+
+Let the number of years be n.
+
+Amount payable, 2P = P $[1 + (50/200)]^{2n}$ <br>
+or $[1 + 0.25]^{2n}$ = 2 <br>
+or $(1.25)^{2n}$ = 2
+
+The approximate value of 2n that satisfies the above equation is 3. <br>
+Hence, n = 3/2 = 1.5 years
+
+{{% alert note %}}
+50% compound interest per annum, compounded half yearly ≡ 25% compound interest per 6 months
+{{% /alert %}}
+</div>
+
+<div id="6Exp-2" class="Exp-2 mak-tabcontent tabcontent-group6">
+Explanation 2: Using the Options  <br><br>
+
+Let us assume that simple interest is payable. Even under S.I. at the rate of 50%, the amount will double in 2 years. 
+
+Hence, it is obvious that if compound interest is applied, the amount will double sooner. Only 1.5 years fits the bill among the given options.
 </div><br>
 
 <br><hr>
@@ -322,7 +354,7 @@ A certain sum of money becomes ‘k’ times in n years.
 The rate of compound interest, r =  100 ($k^\frac{1}{n}$ – 1) = 100 ($8^\frac{1}{3}$ – 1) = 100 (2 - 1) = 100%
 </div><br>
 
-##### Q. What are the least number of years in which a sum of money will become 1.21 times itself at a rate of 10%? 
+##### Q. What are the least number of years in which a sum of money will become 1.21 times itself at a compound rate of 10%? 
 
 Explanation: Formula Method<br>
 <div class="Exp">
@@ -333,7 +365,7 @@ Or $(1.1)^n$ = 1.21 <br><br>
 So, n = 2 years
 </div> <br>
 
-##### Q. What are the least number of years in which a sum of money will become 2 times itself at a rate of 10%? 
+##### Q. What are the least number of years in which a sum of money will become 2 times itself at a compound rate of 10%? 
 
 Explanation: Short Trick Method<br>
 <div class="Exp">

@@ -331,6 +331,42 @@ So,  if P interest is earned in 4 years <br>
 Then, 7P interest will be earned in 4 × (7P/P) = 28 years
 </div><br>
 
+##### Q. If a sum of money, lent at simple interest, triples in 8 years, then in how many years will it become four times? 
+<pre>(a) 10   (b) 12    (c) 15   (d) 9</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group7 default-tab" onclick="openTab('7Exp-1', this, 'tablink-group7', 'tabcontent-group7')">1</button>
+<button class="mak-tablink tablink-group7" onclick="openTab('7Exp-2', this, 'tablink-group7', 'tabcontent-group7')">2</button>
+
+<div id="7Exp-1" class="Exp-1 mak-tabcontent tabcontent-group7">
+Explanation 1: Formula Method <br><br>
+
+Let the principal be P and the rate of interest be R. As the amount triples in 8 years, it means that interest earned is 2P.
+
+Simple Interest = (P × R × n)/100 <br>
+or 2P = (P × R × 8)/100 <br>
+or R = 25%
+
+Let the number of years in which the amount become four times be N.
+
+Hence, 3P = (P × R × N)/100 <br>
+or 3 = (25 × N)/100 <br>
+or N = 12 years
+
+Answer: (b)
+</div>
+
+<div id="7Exp-2" class="Exp-2 mak-tabcontent tabcontent-group7">
+Explanation 2:  <br><br>
+
+Let the principal be P. As the amount triples in 8 years, it means that S.I. earned is 2P. 
+
+It means that P interest is earned every 4 years. 
+
+Now, to become 4 times the original amount, the interest earned must be 3P. It will take 12 years (3 × 4) to earn it.
+
+Answer: (b)
+</div><br>
 
 ### Formula 3
 

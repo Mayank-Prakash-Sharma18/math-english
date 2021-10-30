@@ -103,7 +103,24 @@ Ratio of salary after second year / salary after first year = 11/10
 Ratio of salary after second year / original salary = (11/10) × (6/5) = 33/25
 
 So, Net percentage increase = [(33 - 25)/25] × 100 = (8/25) × 100 = 32%
-</div><br>
+</div>
+
+##### Q. A person had invested a certain amount in a share. The share rose by 100% one day and fell by 50% the next day. What is the percentage profit/loss made by the person?
+(a) 50% profit <br>				
+(b) 0% profit <br>	
+(c) 50% loss <br>			
+(d) Cannot be determined
+
+Explanation:<br>
+<div class="Exp">
+
+If any number is increased by 100%, it doubles. Similarly, on decreasing by 50%, it halves. 
+
+Hence, the final sum he had will be the same as the original. Hence, no profit, no loss.
+
+Answer: (b)
+</div> <br>
+
 
 {{% alert note %}}
 Tips:

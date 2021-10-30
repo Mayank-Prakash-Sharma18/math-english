@@ -137,5 +137,18 @@ For example, what is the probability that on rolling a dice a face with the digi
 
 The probability of event A not occurring, denoted by P (not A), is given by P (not A) or P(Ā) = 1 – P(A)
 
+##### Q. If monthly salary of a person is Rs. 10,000 and the monthly expenditure has a uniform probability of falling anywhere in the range of Rs. 4,000 to Rs. 6,000. Then, what is the probability that in a given month he will make a saving of Rs. 5,500 or above.
+<pre>(a) 1/4   (b) 1/3    (c) 1/2   (d) 3/4</pre>
 
+Explanation:<br>
+<div class="Exp">
+
+The monthly expenditure has a uniform probability of falling anywhere in the range of Rs. 4,000 to Rs. 6,000. The probability that the expenditure lies between Rs. 4,000 to Rs. 6,000 is 1.
+
+For saving to be Rs. 5,500 or above, the expenditure must lie between Rs. 4,500 and Rs. 4,000. (Note that he cannot save more than Rs. 6,000).
+
+The probability that the expenditure lies between Rs. 4,001 to Rs. 4,500 = (4500-4000)/(6000-4000) = 500/2000 = 1/4.
+
+Answer: (a)
+</div> <br>
 

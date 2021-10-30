@@ -1,5 +1,5 @@
 ---
-title: Problems based on the concept of Permutation
+title: Concepts related to Permutation
 linktitle: Permutation 
 toc: true
 type: docs
@@ -194,3 +194,4 @@ Explanation:<br>
 The word ‘INDIA’ contains 5 letters – 3 distinct (N, D, A) and 2 of the same kind (2 Is). <br><br>
 Number of ways to arrange all n items, wherein p are of one kind and q are of other kind (and rest all are distinct)  = $\frac{n!}{(p! q!)}$ = $\frac{5!}{(2!)}$ = $\frac{120}{2}$ = 60 
 </div> <br><br>
+

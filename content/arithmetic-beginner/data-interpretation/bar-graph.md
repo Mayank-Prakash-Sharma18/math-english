@@ -4,7 +4,7 @@ linktitle: Basic Approach to Bar Graph
 toc: true
 type: docs
 date: "2021-03-19T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   data-interpretation:
     parent: 4. Bar Graph  

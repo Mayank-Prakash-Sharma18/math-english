@@ -81,6 +81,17 @@ So, total number of ways in which one can go from city A to city B or C = 2 + 3 
 Answer: (c)
 </div> <br>
 
+##### Q. The figure shows the various one-way routes between the four cities A, B, C and D. How many routes are possible to travel from the city A to city C?
+<img src="../../../media/p-and-c/principal-of-multiplication3.jpg" alt="permutation and combination" style="width:81%;height:81%;">
+<pre>(a)  7       (b) 8        (c) 12        (d) 11 </pre>
+
+Explanation:<br>
+<div class="Exp">
+Number of ways to go from A to C = Number of ways to go from A to B to C + Number of ways to go from A to D to C = 3 × 1 + 2 × 2 = 3 + 4 = 7 ways
+
+Answer: (a)
+</div> <br>
+
 ##### Q. There are 6 men and 9 women in an office. Find out:
 1. In how many ways can a person be selected?
 2. In how many ways can a team of one man and one woman be selected?

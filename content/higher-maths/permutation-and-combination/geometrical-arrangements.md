@@ -14,7 +14,7 @@ menu:
 weight: 12
 ---
 
-## Circular Arrangements
+## Circular Arrangements (Distinct items)
 
 ### Linear Vs. Circular arrangement
 
@@ -85,6 +85,25 @@ The number of circular arrangements of n distinct items = $\frac{(n - 1)!}{2}$ <
 Explanation:<br>
 <div class="Exp">
 Number of possible circular arrangements = $\frac{(n - 1)!}{2}$ = $\frac{(5 - 1)!}{2}$ = $\frac{4!}{2}$ = $\frac{24}{2}$ = 12
+</div> <br>
+
+<hr>
+
+## Circular Arrangements (Identical items)
+
+If all items in a circular arrangement are identical, then there is only one way in which we can arrange them. 
+
+##### Q. In how many ways can 10 identical red balls and one white ball be symmetrically arranged on a circular table?
+<pre>(a) 1   (b) 10!    (c) 9!   (d) 11!</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Here we are supposed to arrange, i.e. it's a question of permutation. 
+
+However, the 10 red balls are identical. Hence, no matter how we arrange them and the single white ball on the circular table symmetrically, we will effectively get the same kind of arrangement. 
+
+Answer: (a)
 </div> <br>
 
 <hr>

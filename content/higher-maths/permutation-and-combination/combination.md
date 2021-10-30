@@ -1,5 +1,5 @@
 ---
-title: Problems based on the concept of Combination
+title: Concepts related to Combination
 linktitle: Combination 
 toc: true
 type: docs

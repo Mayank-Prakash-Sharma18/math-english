@@ -56,6 +56,29 @@ SP = MP × (1−$\frac{x}{100}$) (1−$\frac{y}{100}$) (1−$\frac{z}{100}$) = 1
 So, discount percentage = [(100 – 36)/100] × 100 = 64%
 </div><br>
 
+##### Q. A trader allows two successive discounts of 20% and 10%. If he sells the article for Rs. 108, then the marked price of the article is:
+(a) Rs. 120	<br>		
+(b) Rs. 135 <br>
+(c) Rs. 140	<br>			
+(d) Rs. 150
+
+Explanation:<br>
+<div class="Exp">
+
+Net discount = -20 - 10 + (200/100) = 28%
+
+SP = MP × [(100 - Discount percentage)/100] <br>
+or 108 = MP × [(100 - 28)/100] <br>
+or 108 = MP × (72/100) <br>
+or MP = 150
+
+{{% alert note %}}
+We can also use the options and apply the two successive discounts of 20% and 10%, and then see which option gives the final value of Rs. 108. This can be done mentally, and would probably be a faster way to solve this question.  
+{{% /alert %}}
+
+Answer: (d)
+</div> <br>
+
 
 ## Concept 2 
 

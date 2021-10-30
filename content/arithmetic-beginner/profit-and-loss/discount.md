@@ -41,7 +41,7 @@ Discount percent = (Discount / MP) x 100
 
 <br><hr>
 
-## Finding net profit/loss%
+## Finding net profit/loss percentage
 
 The shopkeeper buys at CP and then marks the item up by m% (of CP) to get MP. After that he gives a discount of d% (of MP) to get SP.
 
@@ -138,6 +138,7 @@ Hence, loss percentage = 8%
 Explanations :<br>
 <button class="mak-tablink tablink-group2 default-tab" onclick="openTab('2Exp-1', this, 'tablink-group2', 'tabcontent-group2')">1</button>
 <button class="mak-tablink tablink-group2" onclick="openTab('2Exp-2', this, 'tablink-group2', 'tabcontent-group2')">2</button>
+<button class="mak-tablink tablink-group2" onclick="openTab('2Exp-3', this, 'tablink-group2', 'tabcontent-group2')">3</button>
 
 <div id="2Exp-1" class="Exp-1 mak-tabcontent tabcontent-group2">
 Explanation 1: Percentage Method <br><br>
@@ -152,7 +153,6 @@ As 30% discount was given, we can say that 70% is equivalent to Rs. 105 <br>
 Hence, 100% will be equivalent to 105 × (100/70) = Rs. 150 
 
 So, mark-up percentage = (50/100) × 100 = 50%
-
 </div>
 
 <div id="2Exp-2" class="Exp-2 mak-tabcontent tabcontent-group2">
@@ -165,6 +165,22 @@ Explanation 2: Fraction Method  <br><br>
 So, MP/CP = (10/7) × (21/20) = 3/2 = 1.5 <br>
 
 Hence, mark-up percentage = 50% 
+</div>
 
+<div id="2Exp-3" class="Exp-3 mak-tabcontent tabcontent-group2">
+Explanation 3: Traditional Method  <br><br>
+
+<img src="../../../media/profit-and-loss/profit-and-loss7.png" alt="profit and loss - trick method" style="width:72%;height:72%;">
+
+Let C.P. = Rs. 100 and the mark up percentage be x%. <br>
+Hence, M.P. = Rs. 100 + x <br>
+And S.P. = 70% of (100 + x) = 0.70 (100 + x)
+
+As he makes a profit of 5%, his S.P. must be Rs. 105.
+
+So, 0.70 (100 + x) = 105 <br>
+or 70 + 0.7x = 105 <br>
+or 0.7x = 35 <br>
+or x = 50%
 </div><br>
 
