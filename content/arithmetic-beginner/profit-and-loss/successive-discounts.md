@@ -56,6 +56,24 @@ SP = MP × (1−$\frac{x}{100}$) (1−$\frac{y}{100}$) (1−$\frac{z}{100}$) = 1
 So, discount percentage = [(100 – 36)/100] × 100 = 64%
 </div><br>
 
+
+##### Q. A shopkeeper gives successive discounts of 20%, 10% and 5% on an item. What will be the selling price of the item if its cost price is Rs. 800?
+(a) Rs. 523.6	<br>
+(b) Rs. 547.2 <br>
+(c) Rs. 576	<br>
+(d) Rs. 640.5
+
+Explanation:<br>
+<div class="Exp">
+
+Selling price after first discount = 800 - 800 × (20/100) = 800 – 160 = Rs. 640 <br>
+Selling price after second discount = 640 × (90/100) = Rs. 576 <br>
+Selling price after third discount = 576 × (95/100) = Rs. 547.2
+
+Answer: (b)
+</div> <br>
+
+
 ##### Q. A trader allows two successive discounts of 20% and 10%. If he sells the article for Rs. 108, then the marked price of the article is:
 (a) Rs. 120	<br>		
 (b) Rs. 135 <br>

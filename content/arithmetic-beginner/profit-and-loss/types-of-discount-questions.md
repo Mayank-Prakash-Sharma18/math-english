@@ -16,7 +16,7 @@ weight: 7
 
 In this article, we are going to have a look at the various kinds of questions formed on Discount. 
 
-## Type 1
+## Type 1: Discount percent and Profit/Loss percent given
 
 ##### Q. A shopkeeper is selling his goods at 40% discount, but still able to make 20% profit. Marked price is how much percent more than the cost price?
 <pre>(a) 60%        (b) 40%          (c) 80%          (d) 100%</pre>
@@ -70,7 +70,53 @@ So, Marked price is 100% more than the Cost price.
 </div><br>
 
 
-## Type 2
+##### Q. A shopkeeper gives 50% discount on the market Price of a product and bears a loss of 40% as a result. If the product is sold at market Price only, then what will be the profit percentage?
+<pre>(a) 10%   (b) 20%    (c) 16%   (d) 18.33%</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let us assume the market price and cost price of that object to be Rs. 100 and Rs. x respectively. <br>
+Selling price of the object after discount = Rs. 50
+
+After offering 50% discount the shopkeeper suffered a loss of 40%. <br>
+Loss percentage = [(CP - SP)/CP] × 100 = [(x - 50)/x] × 100 = 40 <br>
+or 10x – 500 = 4x <br>
+or 6x = 500 <br>
+x = 500/6 = Rs. 83.33 
+
+Hence, if sold at the market Price, the profit percentage = [(SP - CP)/CP] × 100 = [(100 - 83.33)/83.33] × 100 = 20%.
+
+Answer: (b)
+</div> <br>
+
+
+##### Q. The marked price and the cost price of a product are in the ratio 5 : 4. The shopkeeper makes a profit even by selling it on a discounted price. The profit percentage and the discount percentage were in the ratio 5 : 4. What is the profit percentage?
+<pre>(a) 10%   (b) 16.67%     (c) 15%   (d) 12.5%</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let the marked price be Rs. 5x, then cost price = Rs. 4x <br>
+Similarly, let the profit percentage and the discount percentage be 5y% and 4y% respectively.
+
+Discount is given on the Marked price. <br>
+Selling Price = Marked price – Discount = 5x – (4y × 5x)/100 = 5x (1 – 4y/100)   ...(i)
+
+Profit is counted on the Cost price. <br>
+Selling price = Cost price + profit = 4x + (5y × 4x)/100 = 4x (1 + 5y/100)   ...(ii)
+
+Equating equations (i) and (ii), we get: <br>
+5x (1 – 4y/100) = 4x (1 + 5y/100) <br>
+or y = 100/40 = 5/2.
+
+Now, profit percentage = 5y% = 25/2% = 12.5%
+
+Answer: (d)
+</div> <br>
+
+
+## Type 2: Difference between two Discount percentages given
 
 ##### Q. While selling a pen, a shopkeeper gives a discount of 6%. If he had given a discount of 8%, he would have got Rs. 12 less as profit. What must be the marked price of the pen?
 <pre>(a) Rs. 500   (b) Rs. 600    (c) Rs. 700   (d) Rs. 750</pre>

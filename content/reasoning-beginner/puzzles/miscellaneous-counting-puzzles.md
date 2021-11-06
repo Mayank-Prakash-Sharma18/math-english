@@ -68,3 +68,27 @@ Hence, the minimum number of balls that have to be drawn to ensure that at least
 Answer: (c)
 </div> <br>
 
+
+## Type 3
+
+##### Q. Consider the following figure and answer the item that follows :
+<img src="../../../media/puzzles/counting-puzzles-2.png" alt="Counting Puzzles" style="width:45%;height:45%;">
+In the given figure, the balls can occupy the positions numbered 1, 2, 3, 4, 5 and 6. Suppose at every stage the white ball moves by jumping over one position in the clockwise direction and the black ball moves by jumping over three positions in the counter-clockwise direction. After how many stages, will the two balls lie at the same position?
+<pre>(a) 2   (b) 3    (c) 4   (d) Never</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The white ball moves by jumping over one position in the clockwise direction. Thus it will occupy the following positions: <br>
+1, 3, 5, 1, 3, 5……… and so on.
+
+The black ball moves by jumping over 3 positions in the counter-clockwise direction. Thus, it will occupy following positions: <br>
+5, 1, 3, 5, 1, 3……… and so on.
+
+We can represent the scenario in the form of a table as given below:
+<img src="../../../media/puzzles/counting-puzzles-3.png" alt="Counting Puzzles" style="width:72%;height:72%;">
+
+Thus, there will be no overlap between the positions of the two balls and they will never lie at the same position simultaneously.
+
+Answer: (d)
+</div> <br>

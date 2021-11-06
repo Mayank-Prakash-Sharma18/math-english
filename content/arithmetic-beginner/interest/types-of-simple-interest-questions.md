@@ -16,7 +16,38 @@ weight: 7
 
 In this article, we are going to have a look at the various kinds of questions formed on Simple Interest. 
 
-## Type 1
+## Type 1: Find Simple Interest
+
+<!-- ### Type 1b: Down payment given -->
+
+##### Q. A man bought a mobile phone for Rs. 12,000. He gave Rs. 4,000 down payment and the rest after 20 months on which he was charged 10% per annum. What is the total amount he paid for the mobile phone?
+(a) Rs. 12,000 <br>	
+(b) Rs. 13,000 <br>
+(c) Rs. 13,333.33	<br>
+(d) Rs. 14,000
+
+Explanation:<br>
+<div class="Exp">
+
+Cost of the mobile phone = Rs. 12,000 <br>
+Down payment = Rs. 4,000 <br>
+Hence, the money still to be paid = 12000 – 4000 = Rs. 8,000
+
+Time after which the rest of the amount is paid = 20/12 years = 5/3 years
+
+Simple Interest = (Principle × Rate of interest × Time duration)/100 = [8000× 10 × (5/3)]/100 = Rs. 1,333.33
+
+Hence, the total money still due to be paid = 8000 + 1333.33 = Rs.9,333.33
+
+So, the total cost of mobile paid = 9333.33 + 4000 = Rs. 13,333.33  
+
+Answer: (c)
+</div> <br>
+
+
+## Type 2: Find r when Amounts given
+
+### Type 2a
 
 ##### Q. Rohan invested a sum of money in a simple interest bond. The money grew to Rs. 4000 in 3 years and to Rs. 5600 in 7 years. What was the rate of interest?
 <pre>(a) 12.36%   (b) 14.28%    (c) 15%   (d) 17.68%</pre>
@@ -48,8 +79,7 @@ Interest rate (%) = [(5600 – X) /(7X)] × 100 = 100 / 7 = 14.28 %
 Answer: (b)
 </div> <br>
 
-
-## Type 2
+### Type 2b
 
 ##### Q. Nicole invests a certain amount of money for two years at simple interest. He gets a total of Rs. 2,400 at the end of two years when annual rate of interest is 10%. What should be the rate of interest to get a total sum of Rs. 3,200 at the end of two years?
 <pre>(a) 20%   (b) 30%    (c) 24%   (d) 32%</pre>

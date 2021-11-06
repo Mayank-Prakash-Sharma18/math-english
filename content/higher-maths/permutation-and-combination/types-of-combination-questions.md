@@ -24,6 +24,24 @@ In such questions, you will be asked to find the number of ways in which you can
 
 ### Type 1a: Making a team
 
+##### Q. From a group of 40 people, in how many ways can a team be formed having one boss and 4 juniors?
+(a) 40 × $C^{39}_4$ <br>
+(b) 41 × $C^{39}_4$ <br>
+(c) 41 × $C^{40}_4$ <br>
+(d) None of these.
+
+Explanation:<br>
+<div class="Exp">
+
+One boss can be selected in 40 ways. <br>
+Remaining 4 juniors can be selected from 39 remaining members in $C^{39}_4$ ways.
+
+Total number of ways in which team can be formed = 40 × $C^{39}_4$
+
+Answer: (a)
+</div> <br>
+
+
 ##### Q. A team for mixed doubles tennis match has one male and one female player. You have to make a mixed doubles team from amoung 5 men and 6 women. There is exactly one married couple amongst them. In how many ways can you do so, if the couple cannot play as a team?
 (a) $C^{5}_1$ × $C^{6}_1$ - 1 <br>
 (b) $C^{11}_2$ + 1 <br>

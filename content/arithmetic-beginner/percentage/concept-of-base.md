@@ -43,3 +43,37 @@ Then, 4% of y > 3% of y <br>
 Answer: (d)
 </div>
 
+##### Q. In a trade fair, exactly 20.25% of the visitors visited the books section. What must be the minimum number of people who must have visited the trade fair?
+<pre>(a) 100         (b) 400          (c) 200         (d) 800</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group1 default-tab" onclick="openTab('1Exp-1', this, 'tablink-group1', 'tabcontent-group1')">1</button>
+<button class="mak-tablink tablink-group1" onclick="openTab('1Exp-2', this, 'tablink-group1', 'tabcontent-group1')">2</button>
+
+<div id="1Exp-1" class="Exp-1 mak-tabcontent tabcontent-group1">
+Explanation 1: <br><br>
+
+Here we have to find the base, such that the final result is an integer. 
+
+Let the number of people who visited the trade fair be x. 
+
+Now, the number of people (i.e. x) must be a natural number. Also, the number of visitors that visited the books section (i.e. 20.25% of x) must be a natural number too.
+
+20.25% of x = (20.25/100) × x = (81/400) × x <br>
+(81/400) × x must be an integer, so x must be a multiple of 400.
+
+Hence, the minimum value that x may attain = 400. 
+
+Answer: (b)
+</div>
+
+<div id="1Exp-2" class="Exp-2 mak-tabcontent tabcontent-group1">
+Explanation 2: <br><br>
+
+20.25% of x must be a natural number. Hence, 0.25% of x must be a natural number too.
+
+Minimum possible value of x that allows it is x = 400. (then 0.25% of 400 = 1, i.e. the least possible natural number).
+
+Answer: (b)
+</div><br>
+

@@ -81,12 +81,12 @@ In polar form, the real and complex components or a complex number are represent
 
 ### Power of Iota (i)
 
-We already know that, value of i is √-1. That is, i = -1. We can generalize this further. 
+We already know that, value of i is √-1. That is, $i^2$ = -1. We can generalize this further. 
 
 If k is an integer, then: <br>
 $i^{4k + 1} = i$ <br>
 $i^{4k + 2} = i^2 = -1$ <br>
-$i^{4k + 3} = i^3 = (-1)i = -1$ <br>
+$i^{4k + 3} = i^3 = (-1)i = -i$ <br>
 $i^{4k + 4} = i^4 = 1$
 
 We can find negative powers of i too. <br>

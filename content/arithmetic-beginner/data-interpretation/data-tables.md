@@ -28,7 +28,31 @@ You will often encounter the following types of questions based on a Data Table:
 
 ## Types of Data Table based Questions
 
-### Type 1: Data Table DI Set
+### Type 1: Just Add 
+
+##### Q. The table represented below shows the number of students of five schools A, B, C, D and E, who appeared in the examination of four subjects, Science, Maths, English and Hindi. Study it and answer the 2 item that follows.
+<img src="../../../media/di/data-table-question-2.png" alt="Data Table based Data Interpretation (DI)" style="width:72%;height:72%;">
+Equal number of students appeared in case of which of the following pair of subjects’ examination? <br>
+(a) Science and Maths <br>
+(b) English and Hindi <br>
+(c) Science and English <br>
+(d) Maths and Hindi
+
+Explanation:<br>
+<div class="Exp">
+
+Total number of students that appeared for Science = 1,980 <br>
+Total number of students that appeared for Maths = 1,660 <br>
+Total number of students that appeared for English = 1,550 <br>
+Total number of students that appeared for Hindi = 1,660
+
+So, we can see that the same number of students appeared in the examination of Maths and Hindi.
+
+Answer: (d)
+</div> <br>
+
+
+### Type 2: Data Table DI Set
 
 ##### Q. Directions for the following 2 (two) questions:
 Observe the table given below, regarding the salary and expenditure of Mr. X and answer the items that follow. The figures shown are in thousands.

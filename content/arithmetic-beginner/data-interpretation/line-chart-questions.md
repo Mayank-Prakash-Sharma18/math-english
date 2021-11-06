@@ -209,3 +209,25 @@ The question does not provide any information regarding the comparative cost ben
 Answer: (d)
 </div> <br>
 
+
+## Type 2: Line Chart Calculation
+
+Now let's see some DI sets involving line charts where we need to do some calculation, e.g. based on percentage, average, ratio, etc. 
+
+##### Q. A train was travelling at a speed of 25 m/s. On seeing red light, the driver applied the brakes and the train came to a halt after travelling for some distance in 10 seconds. The speed time graph for the period after applying the brakes, is given below. 
+<img src="../../../media/di/line-chart-question-17.png" alt="Line Chart Questions" style="width:99%;height:99%;">
+What is the distance travelled by the train after the driver applied the brakes?
+<pre>(a) 250 m   (b) 125 m    (c) 300 m   (d) 100 m</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The distance travelled is given by the area under the curve of speed v/s time graph.
+
+In this case, the area under the triangle with base 10 seconds and height 25 m/s is the required distance.
+
+Area = ½ × 10 × 25 = 125 m.
+
+Answer: (b)
+</div> <br>
+

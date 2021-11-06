@@ -183,6 +183,21 @@ Explanation 2: <br><br>
 Smaller number = 42 × $\frac{3}{(3 + 4)}$ = 42 × $\frac{3}{7}$ = 18
 </div><br>
 
+##### Q. A class has boys and girls in the ratio 7:3. Two girls were absent on one particular day and the total strength of the class on that day was 198. What is the percentage of girls in the class?
+<pre>(a) 70%   (b) 28%    (c) 30%   (d) 32%</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Number of students on the given day = 198. <br>
+Total number of students = 198 + 2 = 200.  [Since two girls were absent on that day]
+
+Number of girls in the class = (3/10) × 200 = 60 <br>
+So, percentage of girl students = (60/200) × 100 = 30%
+
+Answer: (c)
+</div> <br>
+
 <br><hr>
 
 ## Types of Ratios

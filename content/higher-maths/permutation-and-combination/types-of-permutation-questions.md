@@ -20,6 +20,30 @@ But you must be aware of the basic concepts of Permutation before we do so. If y
 
 ## Type 1: Arranging all n distinct items
 
+### Type 1a: Selecting and then Arranging
+
+##### Q. How many eight letter words (meaningful or meaningless) in English can be formed that have 2 different vowels and 6 different consonants? 
+(a) $C^5_2$ × $C^{21}_6$ × 2! × 6! <br>
+(b) $P^5_2$ × $P^{21}_6$ <br>
+(c) $C^5_2$ × $C^{21}_6$ × 8! <br>
+(d) $C^{26}_8$ × 8!
+
+Explanation:<br>
+<div class="Exp">
+
+First step will be to select: <br>
+English language has 5 vowels and 21 consonants. <br>
+2 vowels can be chosen in $C^5_2$ ways and 6 consonants may be chosen in $C^{21}_6$ ways.
+
+Now, these eight letters may be rearranged in 8! ways. <br>
+Total number of words that can be formed = $C^5_2$  × $C^{21}_6$  × 8!
+
+Answer: (c)
+</div> <br>
+
+
+### Type 1b: Just Arranging required
+
 ##### Q. The letters of the word LUCKNOW are rearranged to generate all possible words (meaningful or meaningless). In the list of all the words generated, how many words have the word ‘NOW’ embedded in them?
 <pre>(a) 7!   (b) 24    (c) 720   (d) 120</pre>
 
