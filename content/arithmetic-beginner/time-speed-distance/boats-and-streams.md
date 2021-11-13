@@ -82,6 +82,27 @@ Time taken to travel downstream = distance / downstream speed = d / (8 + 5) = d/
 So, time taken in travelling upstream and downstream will be in the ratio (d/3) : (d/13) = 13 : 3
 </div><br>
 
+
+##### Q. The speed of a boat in still water is 12 km/h and the speed of the stream is 8 km/h. Total distance covered by a boat in travelling from its source to destination and coming back from destination to source is 120 km. What is the total time taken by the boat in the journey?
+<pre>(a) 18 hours   (b) 12 hours    (c) 20 hours   (d) 16 hours</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Downstream speed = Speed of boat + Speed of stream = (12 + 8) = 20 km/hr. <br>
+Upstream speed = Speed of boat - Speed of stream = (12 - 8) = 4 km/hr. <br>
+One-side distance = 120/2 = 60 km
+
+Time = Distance/Speed <br>
+So, Time taken by the boat to cover downstream distance = 60/20 = 3 hours <br>
+And Time taken by the boat to cover upstream distance = 60/4 = 15 hours
+
+So, Total time taken by the boat to cover upstream distance and downstream distance = 3 + 15 = 18 hours
+
+Answer: (a)
+</div> <br>
+
+
 ### Finding Average speed
 
 If a man rows the same distance up and down, then

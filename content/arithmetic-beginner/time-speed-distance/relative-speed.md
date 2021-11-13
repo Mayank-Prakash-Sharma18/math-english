@@ -44,6 +44,28 @@ Relative speed = 3 – 2 = 1 m/sec  (as both are running in the same direction)
 Time needed for them to meet = $\frac{Relative \hspace{1ex} Distance}{Relative \hspace{1ex} Speed}$ = 150/1 = 150 seconds (or 2 minutes and 30 seconds)
 </div> <br>
 
+
+##### Q. Two trains of length 300 m each are going in the same direction. If the speeds of two trains are 50 km/hr and 68 km/hr, then in how much time will the faster train completely cross the slower train?
+(a) 1 minute 48 seconds <br>
+(b) 2 minutes <br>
+(c) 1 minute 30 seconds <br>
+(d) 3 minutes 
+
+Explanation:<br>
+<div class="Exp">
+
+When a train crosses another train, the distance travelled is the sum of the length of those two trains. <br>
+So, Distance = 300 + 300 = 600 m
+
+When trains are moving in the same direction, then Relative Speed = |Difference of the speeds of those two trains| = (68 - 50) km/hr. = 18 km/hr = 18 × (5/18) m/s = 5 m/s
+
+Time taken = Distance/Speed = 600/5 = 120 seconds = 2 minutes <br>
+So, The faster train will cross the slower train completely in 2 minutes.
+
+Answer: (b)
+</div> <br>
+
+
 ## Objects moving in opposite directions 
 
 Consider two objects A and B separated by a distance of d metres.

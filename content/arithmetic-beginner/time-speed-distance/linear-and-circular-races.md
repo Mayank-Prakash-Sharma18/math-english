@@ -51,6 +51,53 @@ So, Speed of Bhaskar = 100/10 = 10 m/sec <br>
 And Speed of Anand = 10 × (10/9) = 100/9 = 11.11 m/sec
 </div> <br>
 
+##### Q. In a 100 metres race, Gargi starts 25 metres ahead of Karizma, but Karizma wins the race while Gargi is still 15 metres behind. What must be the ratio of the speeds of Karizma and Gargi?
+<pre>(a) 2 : 3   (b) 4 : 3    (c) 5 : 3   (d) 3 : 5</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Total distance = 100 m <br>
+Karizma starts the race from the start line. So, distance covered by Karizma = 100 m
+
+Distance covered by Gargi = 100 – 25 – 15 = 60 m <br>
+So, Ratio of distances covered by Karizma and Gargi = 100 : 60 = 5 : 3
+
+We know that, if the time taken is the same (i.e. time is constant), then the ratio of speeds and distances covered is the same. 
+
+So, Ratio of the speeds of Karizma and Gargi = Ratio of distances covered by Karizma and Gargi = 5 : 3
+
+Answer: (c)
+</div> <br>
+
+
+##### Q. In a race, Mayank touches the finish line in 60 seconds and beats Aakash by 20 seconds. If Mayank gives Aakash a head-start of 10 seconds, then in how much time will he be able to catch up with Aakash?
+(a) Mayank catches up with Aakash in 25 seconds. <br>
+(b) Mayank catches up with Aakash in more than 30 seconds. <br>
+(c) Mayank catches up with Aakash in less than 25 seconds. <br>
+(d) Mayank catches up with Aakash in 30 seconds.
+
+Explanation:<br>
+<div class="Exp">
+
+Time taken by Mayank to complete the race = 60 seconds <br>
+So, Time taken by Aakash to complete the race = 60 + 20 = 80 seconds
+
+Let total distance = 1200 meters <br>
+So, Speed of Mayank = 1200/60 = 20 m/s <br>
+And Speed of Aakash = 1200/80 = 15 m/s
+
+As they are moving in the same direction, so Relative speed of Mayank and Aakash = 20 – 15 = 5 m/s 
+
+Now, Mayank gives Aakash a start of 10 seconds. <br>
+Distance covered by Aakash in 10 seconds = 10 × 15 = 150 metres 
+
+Time taken by Mayank to catch up with Aakash = Distance covered by Aakash in 10 seconds / Relative speed of Mayank and Aakash = 150/5 = 30 seconds.
+
+Answer: (d)
+</div> <br>
+
+
 <br><hr><br>
 
 ## Races on circular track

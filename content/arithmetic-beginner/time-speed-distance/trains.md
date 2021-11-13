@@ -14,9 +14,9 @@ menu:
 weight: 18
 ---
 
-In this article, we will cover the various kinds of Time, Speed, Distance (TSD) questions that based on the theme of Trains. 
+In this article, we will cover the various kinds of Time, Speed, Distance (TSD) questions that are based on the theme of Trains. 
 
-## Time taken by the train to cross a stationary object
+## Type 1: Time taken by the train to cross a stationary object
 
 ### Stationary object of negligible length
 
@@ -54,7 +54,8 @@ Time needed by the train to cross the platform = $\frac{Length \hspace{1ex} of \
 
 <br><hr><br>
 
-## Time taken by the train to cross a moving object 
+
+## Type 2: Time taken by the train to cross a moving object 
 
 ### Moving object of negligible length
 
@@ -171,3 +172,24 @@ Speed of faster train, $S_1$ = $(\frac{L_1 + L_2}{2})(\frac{1}{t_1} + \frac{1}{t
 Speed of slower train, $S_2$ = $(\frac{L_1 + L_2}{2})(\frac{1}{t_1} - \frac{1}{t_2})$ 
 = $(\frac{700}{2}) (\frac{1}{20} - \frac{1}{140})$ = 350 × (6/140) = 15 m/sec
 </div><br>
+
+
+## Type 3: Stoppages
+
+##### Q. Excluding stoppages, the speed of a train is 60 kmph and including stoppages, it is 54 kmph. For how many minutes does the train stop per hour?
+<pre>(a) 10 minutes   (b) 8 minutes    (c) 15 minutes   (d) 6 minutes</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Speed of the train excluding stoppages = 60 km/hr. <br>
+Speed of the train including stoppages = 54 km/hr. <br>
+So, Loss in speed of the train due to stoppages = 60 - 54 = 6 km/hr. <br>
+That is, due to stoppages, the train covers 6 km less in 1 hour.
+
+Time taken to cover 6 km = 6/60 = 1/10 hours = (1/10) × 60 minutes = 6 minutes <br>
+So, the train stops for 6 minutes per hour.
+
+Answer: (d)
+</div> <br>
+

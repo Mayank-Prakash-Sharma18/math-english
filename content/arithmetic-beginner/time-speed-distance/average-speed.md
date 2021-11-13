@@ -31,8 +31,28 @@ Average speed = $\frac{Total \hspace{1ex} distance \hspace{1ex} travelled}{Total
 
 If one part of the distance is covered at a speed of $v_1$ in time $t_1$ and the other part of the distance is covered at a speed of $v_2$ in time $t_2$, then 
 
-the average speed = $\frac{Total \hspace{1ex} distance \hspace{1ex} travelled}{Total \hspace{1ex} time \hspace{1ex} taken \hspace{1ex} in \hspace{1ex} travelling \hspace{1ex} that \hspace{1ex} distance}$
+Average speed = $\frac{Total \hspace{1ex} distance \hspace{1ex} travelled}{Total \hspace{1ex} time \hspace{1ex} taken \hspace{1ex} in \hspace{1ex} travelling \hspace{1ex} that \hspace{1ex} distance}$
 = $\frac{v_1 t_1 + v_2 t_2}{t_1 + t_2}$
+
+##### Q. The speed of a man for the first 2 hours is 30 km/hr, and for the next 3 hours his speed is 50 km/hr. What is the ratio of average of his speeds to his average speed?
+<pre>(a) 10 : 11   (b) 21 : 23    (c) 20 : 21   (d) 20 : 23</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The speed of a man for the first 2 hours is 30 km/hr, and for the next 3 hours is 50 km/hr.
+
+Distance = Speed × Time <br>
+So, Total distance = 2 × 30 + 3 × 50 = 60 + 150 = 210 km <br>
+Average speed = Total distance/Total time = 210/(2 + 3) = 210/5 = 42 km/hr     
+
+Now, Average of speeds = (30 + 50)/2 = 80/2 = 40 km/hr            
+
+So, required ratio = 40 : 42 = 20 : 21
+
+Answer: (c)
+</div> <br>
+
 
 ### Scenario 3
 
@@ -48,6 +68,26 @@ Average speed = $\frac{nD}{(\frac{D}{S_1} + \frac{D}{S_2} + \frac{D}{S_3} + … 
 
 where n = number of equal parts and $S_1$, $S_2$, $S_3$, ............. $S_n$ are speeds.
 {{% /alert %}}
+
+
+##### Q. Mak covered 275 km of his journey at 25 km/hr and the remaining distance at 35 km/hr. If the total distance covered by him was 590 km, then what must have been his average speed for the whole journey?
+<pre>(a) 32.5 km/hr   (b) 30 km/hr    (c) 34.5 km/hr   (d) 29.5 km/hr</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Speed for first 275 km is 25 km/hr. <br>
+Time taken to cover 275 km = 275/25 = 11 hrs.
+
+Speed for next 315 km = 35 km/hr. <br>
+Time taken to cover 315 km = 315/35 = 9 hrs.
+
+Average Speed = Total distance covered / Total time taken = 590/(11 + 9) = 590/20 = 29.5 km/hr. <br>
+Thus, his average speed for the whole journey must have been 29.5 km/hr.
+
+Answer: (d)
+</div> <br>
+
 
 ## Finding Average Speed when distance or time are same
 
