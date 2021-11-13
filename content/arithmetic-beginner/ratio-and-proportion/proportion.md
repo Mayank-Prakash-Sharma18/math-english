@@ -106,7 +106,7 @@ If a/b = b/c, then
 
 * a = $\frac{b^2}{c}$   (first proportional)
 
-* b = √ac  (second proportional or geometric mean)
+* b = √ac  (second proportional, or mean proportional, or geometric mean)
 
 * c = $\frac{b^2}{a}$   (third proportional)
 
@@ -117,3 +117,41 @@ If a/b = c/d, then
 {{% alert note %}}
 First proportional × Fourth proportional = Second proportional × Third proportional 
 {{% /alert %}}
+
+##### Q. By how much is the fourth proportional of 11, 121 and 36 more than the third proportional of 6 and 24?
+<pre>(a) 300   (b) 396    (c) 96   (d) 192</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let fourth proportional to 11, 121 and 36 be P. <br>
+Or, 11/121 = 36/P <br>
+Or, P = 11 × 36 = 396
+
+Let third proportional to 6 and 24 be Q. <br>
+Or, 6/24 = 24/Q <br>
+Or, Q = 96
+
+So, Required difference = P - Q = 396 – 96 = 300
+
+Answer: (a)
+</div> <br>
+
+
+##### Q. If M is the mean proportional between 18 and 8, and N is the mean proportional between 9 and 1, then what is the mean proportional between M and N?
+<pre>(a) 16   (b) 6    (c) 64   (d) 8</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+If mean proportional between a and b is M, then M = √ab <br>
+Mean Proportional is also known by the name of Geometric Mean.
+
+Mean proportional between 18 and 8, M = √(18 × 8) = 12 <br>
+Mean proportional between 9 and 1, N = √(9 × 1) = 3 
+
+So, Mean proportional between M and N = √(12 × 3) = 6  
+
+Answer: (b)
+</div> <br>
+

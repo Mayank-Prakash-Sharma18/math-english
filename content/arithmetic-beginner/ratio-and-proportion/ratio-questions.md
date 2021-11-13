@@ -16,7 +16,49 @@ weight: 4
 
 In this article, we are going to have a look at the various types of questions that are framed in aptitude examinations from the chapter of ratio. 
 
-## Type 1: Adding/Subtracting to a ratio
+## Type 1
+
+##### Q. Which of the following statements is correct?
+(a) Two natural numbers whose sum is 64 cannot be in the ratio 13:3. <br>
+(b) Two natural numbers whose sum is 64 cannot be in the ratio 5:3. <br>
+(c) Two natural numbers whose sum is 64 cannot be in the ratio 3:2. <br>
+(d) Two natural numbers whose sum is 64 cannot be in the ratio 1:3.
+
+Explanation:<br>
+<div class="Exp">
+
+For dividing 64 into two natural numbers, the sum of the terms of the ratio must be a factor of 64.
+
+Only (3 + 2), i.e. 5 is not a factor of 64. So, two natural numbers whose sum is 64 cannot be in the ratio 3: 2.
+
+Answer: (c)
+</div> <br>
+
+
+## Type 2: Using Ratio to find Average
+
+##### Q. Ankur, Ben and Christopher charge Rs. 200, Rs. 150 and Rs. 180 per day respectively for their work. They work done by them is in the ratio of 3:2:4 respectively. What must be the average labour earning for all three workers per day?
+<pre>(a) Rs. 160   (b) Rs. 175    (c) Rs. 200   (d) Rs. 180</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Labour cost of Ankur = Rs. 200 <br>
+Labour cost of Ben = Rs. 150 <br>
+Labour cost of Christopher = Rs. 180
+
+Ratio of the work of Ankur, Ben and Christopher = 3:2:4 <br>
+So, let the work done by Ankur in one day = 3x units <br>
+The work done by Ben in one day = 2x units <br>
+The work done by Christopher in one day = 4x units 
+
+∴ The average labour earning of all the three workers per day = (200×3x + 150×2x + 180×4x)/(3x + 2x + 4x) = (600x + 300x + 720x)/9x = 1620x/9x = Rs. 180
+
+Answer: (d)
+</div> <br>
+
+
+## Type 3: Adding/Subtracting to a ratio
 
 ##### Q. In an animal farm, the ratio of cows to pigs was 1:3. After 125 more cows were brought to the farm, the ratio of cows to pigs became 2:1. What is the total number of cows in the farm now?
 <pre>(a) 75   (b) 100    (c) 150   (d) Cannot be determined</pre>
@@ -105,7 +147,7 @@ Answer: (b)
 </div> <br>
 
 
-## Type 2: 3 people, 2 ratios
+## Type 4: 3 people, 2 ratios
 
 ##### Q. Three friends A, B and C have an amount of Rs. 7,400 with them. The ratio of the amount that A has to what B has is 4:3. Similarly, the ratio of the amount that B has to what C has is 4:3 too. What must be the difference in the amounts that A and C hold?
 <pre>(a) Rs. 1,200   (b) Rs. 1,400    (c) Rs. 1,600   (d) Rs. 1,800</pre>
@@ -154,3 +196,33 @@ Total units = 16 + 12 + 9 = 37 <br>
 Value per unit = Total amount / Total Unit = 7400/37 = Rs. 200 <br>
 Difference between the amounts that A and C hold = 16 - 9 = 7 units = 7 × 200 = Rs. 1,400
 </div><br>
+
+
+## Type 5: 4 people, 3 ratios
+
+##### Q. Read the following information regarding the ages of 4 persons A, B, C, D and answer the item that follows:
+
+1. A is 2/5th the age of B.
+2. C is 3/4th the age of D.
+3. A is 5/3rd the age of C.
+
+Who is the youngest of them?
+<pre>(a) A   (b) B    (c) C   (d) D</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let the ages of A, B, C and D be a, b, c and d.
+
+So, a = (2/5) b <br>
+or a : b = 2:5 = 10:25
+
+Similarly, c : d = 3:4 = 6:8 
+
+Now, a : c = 5:3 = 10:6 <br>
+Thus, a : b : c : d = 10:25:6:8 <br>
+We can see that, B is the eldest and C is the youngest of them all.
+
+Answer: (c)
+</div> <br>
+

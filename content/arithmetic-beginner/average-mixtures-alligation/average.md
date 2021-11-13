@@ -86,6 +86,29 @@ Algebraic sum of deviations = 18 + 2 – 14 – 4 + 0 + 10 = 12
 So, average score of cricketer = 80 + 12/6 = 82 runs
 </div><br>
 
+
+##### Q. The average of 10 numbers is zero. Which of the following can be concluded about the numbers?
+(a) At least 9 numbers are positive. <br>
+(b) At most 5 numbers are positive. <br>
+(c) At most 9 numbers are positive. <br>
+(d) At most 1 number is positive. 
+
+Explanation:<br>
+<div class="Exp">
+
+Let the 10 numbers be $N_1$, $N_2$, ..., $N_{10}$.
+
+We know that the average of 10 numbers is zero. <br>
+Therefore, ($N_1$ + $N_2$ + …….. + $N_{10}$)/10 = 0 <br>
+Or, $N_1$ + $N_2$ + ... + $N_{10}$ = 0 <br>
+Or, $N_1$ + $N_2$ + ... + $N_9$ = − $N_{10}$
+
+Therefore, at the most 9 numbers can be greater than zero.
+
+Answer: (c)
+</div> <br>
+
+
 ## Properties of Averages
 
 ### Addition 
@@ -161,6 +184,68 @@ That is, age of new boy = New average + Amount needed to raise the average of re
 = New average + Difference in averages × Original number of boys <br>
 = 13 + (13 - 12) × 8 = 13 + 8 = 21 years
 </div><br>
+
+
+##### Q. In a cricket tournament Ponting scored 135, 125, 150, 230 and 160 runs in 5 consecutive innings. If after his next innings his average score increased by 3 runs, then which of the following is correct?
+(a) Runs scored in the next innings is 180. <br>
+(b) Runs scored in the next innings is 186. <br>
+(c) Runs scored in the next innings is 188. <br>
+(d) Runs scored in the next innings is 178.
+
+Explanations :<br>
+<button class="mak-tablink tablink-group4 default-tab" onclick="openTab('4Exp-1', this, 'tablink-group4', 'tabcontent-group4')">1</button>
+<button class="mak-tablink tablink-group4" onclick="openTab('4Exp-2', this, 'tablink-group4', 'tabcontent-group4')">2</button>
+<button class="mak-tablink tablink-group4" onclick="openTab('4Exp-3', this, 'tablink-group4', 'tabcontent-group4')">3</button>
+
+<div id="4Exp-1" class="Exp-1 mak-tabcontent tabcontent-group4">
+Explanation 1: Traditional Method <br><br>
+
+Total score of 5 innings = 135 + 125 + 150 + 230 + 160 = 800 runs <br>
+Average score in 5 innings = 800/5 = 160 
+
+According to the question, <br>
+Average score after next innings = 160 + 3 = 163 <br>
+Runs scored in next innings = 163 × 6 – 800 = 978 – 800 = 178 runs
+
+Answer: (d)
+</div>
+
+<div id="4Exp-2" class="Exp-2 mak-tabcontent tabcontent-group4">
+Explanation 2: Formula Method <br><br>
+
+Total score of 5 innings = 135 + 125 + 150 + 230 + 160 = 800 runs <br>
+Average score in 5 innings = 800/5 = 160 
+
+Average of n quantities is equal to X and on adding a new entity/quantity to the group the average becomes Y (i.e. number of entities in the group increases by 1), then: 
+
+Value of new entity = Y + (Y - X)n     OR       X + (Y - X)(n + 1) 
+
+So, runs scored in the next innings = X + (Y - X)(n + 1) = 160 + (3)(5 + 1) = 160 + 18 = 178 runs 
+</div>
+
+<div id="4Exp-3" class="Exp-3 mak-tabcontent tabcontent-group4">
+Explanation 3: Short Trick Method <br><br>
+
+Total score of 5 innings = 135 + 125 + 150 + 230 + 160 = 800 runs <br>
+Average score in 5 innings = 800/5 = 160 
+
+The average of the batsman increased by 3 runs.
+
+So, the runs scored in the 6th innings must be atleast 160 plus the runs needed to raise the average of the rest of the innings. 
+
+That is, runs scored in the next innings = New average + Runs needed to raise the average of rest of the innings <br>
+= New average + Difference in averages × Original number of innings <br>
+= 163 + (3) × 5 = 163 + 15 = 178 runs
+
+{{% alert note %}}
+We could also have done this:
+
+Runs scored in the next innings = Old average + Runs needed to raise the average of all of the innings <br>
+= Old average + Difference in averages × New total number of innings <br>
+= 160 + (3) × 6 = 160 + 18 = 178 runs
+{{% /alert %}}
+</div><br>
+
 
 ### Removal of an existing item
 

@@ -41,6 +41,25 @@ The ratio will come out to be: <br>
 A : B :: 40 : 36 <br>
 Or A : B :: 10 : 9
 
+
+##### Q. Aanya invested Rs. 50,000 in a business. After 9 months, Meenakshi joined her with a capital of Rs. 40,000. At the end of the year, what must have been the ratio in which the profit was divided between them? 
+<pre>(a) 2 : 5   (b) 5 : 1    (c) 2 : 3   (d) 3 : 4</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Capital of Aanya worked for 12 months and Capital of Meenakshi worked for 3 months. <br>
+So, Effective investment of Aanya = Rs. 50,000 × 12 <br>
+And Effective investment of Meenakshi = Rs. 40,000 × 3
+
+We know that, Ratio of Profits = Ratio of Effective Investments <br>
+So, Ratio of Profits = (50,000 × 12)/(40,000 × 3) = 5/1 <br>
+Therefore, the total profit must have been divided between them in the ratio of 5:1.
+
+Answer: (b)
+</div> <br>
+
+
 {{% alert note %}}
 Have a look at the following peculiar example:
 

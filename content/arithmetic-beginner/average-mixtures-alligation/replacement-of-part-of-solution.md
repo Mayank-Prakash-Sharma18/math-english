@@ -80,6 +80,19 @@ If you observe the formula, you will notice that replacement of a part of soluti
 Rate of interest depends on the fraction of the solution being replaced, i.e. the value of y/x. 
 {{% /alert %}}
 
+##### Q. A container contains 5000 litres of diesel. From this container 500 litres of diesel was taken out and replaced by petrol. This process was repeated further two times. How much diesel is now there in the container?
+<pre>(a) 3645 liters   (b) 2545 liters    (c) 3245 liters   (d) 3825 liters</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+After n operations, the amount of the solute (that is not getting replaced) = Initial volume of solute × (1 - $\frac{y}{x})^n$ <br><br>
+So, Amount of diesel left after 3 operations = 5000 × (1 - $\frac{500}{5000})^3$ = 5000 × ($\frac{9}{10})^3$ = (9 × 9 × 9) × 5 = 3645 liters
+
+Answer: (a)
+</div> <br>
+
+
 ## Formulae for Final Concentration of Solute
 
 We know that, after n operations, the amount of the solute (that is not getting replaced, alcohol in our case) is: <br>

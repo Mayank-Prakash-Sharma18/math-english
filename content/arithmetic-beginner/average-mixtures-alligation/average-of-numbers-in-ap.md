@@ -49,6 +49,43 @@ Thus, the 23rd number = 12th number + (11 × 2) = 91 + 22 = 113
 Answer: (a)
 </div> <br>
 
+
+##### Q. The average of 15 consecutive numbers is 26. What must be the difference between the second highest and the fourth lowest number in this series? 
+<pre>(a) 6         (b) 8          (c) 7         (d) 10</pre>
+
+Explanations :<br>
+<button class="mak-tablink tablink-group1 default-tab" onclick="openTab('1Exp-1', this, 'tablink-group1', 'tabcontent-group1')">1</button>
+<button class="mak-tablink tablink-group1" onclick="openTab('1Exp-2', this, 'tablink-group1', 'tabcontent-group1')">2</button>
+
+<div id="1Exp-1" class="Exp-1 mak-tabcontent tabcontent-group1">
+Explanation 1: <br><br>
+
+Average of 15 consecutive numbers is 26. <br>
+Middle term = (15 + 1)/2 = 8th term <br>
+Here, middle term i.e. 8th term must be 26 and difference between each term is 1.
+
+Hence, the numbers will be: <br>
+19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+
+2nd highest of these numbers = 32 <br>
+4th lowest of these numbers = 22
+
+Required difference = 32 – 22 = 10
+
+Answer: (d)
+</div>
+
+<div id="1Exp-2" class="Exp-2 mak-tabcontent tabcontent-group1">
+Explanation 2: <br><br>
+
+Let the first number in the series be x. 
+
+As the numbers are consecutive, the fourth lowest number must be x + 3, and the second highest number must be x + 13.
+
+So, Required difference = (x + 13) – (x + 3) = 10
+</div><br>
+
+
 ### Series having even number of terms
 
 When the number of terms is even then the average will be the average of two middle terms.

@@ -28,7 +28,7 @@ You will often encounter the following types of questions based on a Data Table:
 
 ## Types of Data Table based Questions
 
-### Type 1: Just Add 
+### Type 1: Just Add or Subtract
 
 ##### Q. The table represented below shows the number of students of five schools A, B, C, D and E, who appeared in the examination of four subjects, Science, Maths, English and Hindi. Study it and answer the 2 item that follows.
 <img src="../../../media/di/data-table-question-2.png" alt="Data Table based Data Interpretation (DI)" style="width:72%;height:72%;">
@@ -49,6 +49,36 @@ Total number of students that appeared for Hindi = 1,660
 So, we can see that the same number of students appeared in the examination of Maths and Hindi.
 
 Answer: (d)
+</div> <br>
+
+
+##### Q. Directions for the following 2 (two) questions:
+Observe the table given below, regarding the height of students in a school and answer the items that follow.
+<img src="../../../media/di/data-table-question-3.png" alt="Data Table based Data Interpretation (DI)" style="width:72%;height:72%;">
+
+Q1. How many boys and girls have height greater than or equal to 150 cm but below 160 cm?
+<pre>(a) 17   (b) 21    (c) 25   (d) Cannot be determined</pre>
+
+Q2.	If no one is below 140 cm of height, then how many boys and girls are there in the school?
+<pre>(a) 192   (b) 156    (c) 80   (d) 63</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Answer 1: (b)
+
+We have to subtract number of boys and girls who are 160 cm and above from those having height 150 cm and above. 
+
+Thus, boys with height greater than or equal to 150 cm but below 160 cm = 35 – 25 = 10 <br>
+Girls with height greater than or equal to 150 cm but below 160 cm = 28 – 17 = 11
+
+Hence, the total number of such boys and girls = 10 + 11 = 21
+
+Answer 2:	(c)
+
+As no one in the school is below 140 cm of height, it means that everyone must be either 140 cm long or more. The last column of the table represents boys and girls who are 140 cm and above.
+
+Thus, total number of boys and girls in the school = 42 + 38 = 80
 </div> <br>
 
 

@@ -127,3 +127,22 @@ m : n = 15 : 20 = 3 : 4
 
 Concentration of milk in final solution = 10% + $\frac{3}{(3 + 4)}$ × (20 - 10) = 10 + 30/7 = 14.28%
 </div><br>
+
+##### Q. Average marks of students in two classes are 20 and 30 respectively. If the students in these two classes are combined together to form a new class, then the resultant class has an average marks of 24. What must be the ratio of the number of students in first class to the number of students in second class?
+<pre>(a) 3 : 1   (b) 3 : 2    (c) 2 : 1   (d) 4 : 3</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+According to the allegation rule,
+<img src="../../../media/mixtures/alligation-method2.png" alt="alligation method" style="width:63%;height:63%;">
+
+So, Required ratio = 6 : 4 = 3 : 2
+
+Answer: (b)
+
+{{% alert note %}}
+Note: When the ratio is not given, we should prefer to use the allegation method instead of the weighted average method. 
+{{% /alert %}}
+</div> <br>
+
