@@ -62,9 +62,9 @@ Moreover, all these tutorials are free of cost. So, if want to learn, we are her
 
 Remember aspirants, if you can find yourself a good reading material, it's half the work done. You are already way ahead of the others!
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 You may also follow us on our YouTube Channels:
 - [Our English *YouTube* channel](https://youtube.com/channel/UCxMFUcM1jBl9byccUb4f2nQ/).
 - [Our Hindi *YouTube* channel](https://youtube.com/channel/UCkwGJqyYGXZuouXJoCGzlaQ/). <br>
 (Though there are not many video tutorials as of now, as our priority is our website. But we will add more soon.)
-{{% /alert %}}
+{{% /alert %}} -->

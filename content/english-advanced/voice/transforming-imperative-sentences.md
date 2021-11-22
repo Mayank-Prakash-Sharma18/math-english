@@ -14,7 +14,11 @@ menu:
 weight: 9
 ---
 
-In imperative sentences subject ‘you’ is hidden.
+Imperative sentences are used to give orders, request, or advice. In such sentences subject ‘you’ is hidden.
+
+All the imperative sentences start either with the main verb, or the word 'you'. For example:<br>
+Show it. (show - main verb; it - object) <br>
+It basically means - You show it. 
 
 There are three categories of imperative sentences from active-passive perspective:
 

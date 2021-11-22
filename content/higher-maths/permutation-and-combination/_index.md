@@ -37,7 +37,7 @@ Notice that the completion of the second job is dependent on the completion of t
 The keyword is ***AND*** – We need to finish the first job AND the second job after that.
 
 {{% alert note %}}
-Fundamental principle of multiplication is used in Permutation.
+Fundamental principle of multiplication is used in Permutation, as well as Combination.
 {{% /alert %}}
 
 ##### Q. There are 2 roads connecting cities A and B and 3 roads connecting cities B and C. In how many ways can one travel from city A to C?
@@ -46,7 +46,8 @@ Fundamental principle of multiplication is used in Permutation.
 
 Explanation:<br>
 <div class="Exp">
-The person needs to travel to city B AND then city C
+
+The person needs to travel to city B ***AND*** then city C
 
 Number of ways to go from city A to city B = 2 <br>
 Number of ways to go from city B to city C = 3
@@ -55,11 +56,29 @@ So, total number of ways in which one can go from city A to city C = 2 × 3 = 6 
 Answer: (b)
 </div> <br>
 
+
+##### Q. A teacher has to select 1 boy and 1 girl out of 5 boys and 6 girls. In how many ways can this be done?
+<pre>(a)  30        (b) 36        (c) 28        (d) 29 </pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The teacher has to select 1 boy ***AND*** 1 girl.
+
+Number of ways to select 1 boy = 5 <br>
+Number of ways to select 1 girl = 6
+
+So, total number of ways in which the required selection can be made = 5 × 6 = 30 ways <br>
+Answer: (a)
+</div> <br>
+
+
 ### Fundamental Principle Of Addition
 
 Fundamental Principle Of Addition - If there are two jobs such that they can be performed independently in m and n ways respectively, then either of the two jobs can be performed in (m + n) ways.
 <img src="../../../media/p-and-c/principal-of-addition.png" alt="permutation and combination" style="width:81%;height:81%;">
 Notice that the completion of each of the two jobs is independent of the completion of the other job. <br>
+
 The keyword is ***OR*** – We need to finish the first job OR the second job.
 
 {{% alert note %}}
@@ -72,13 +91,33 @@ Fundamental principle of addition is used in Combination.
 
 Explanation:<br>
 <div class="Exp">
-The person can go to city B OR city C
+
+The person can go to city B ***OR*** city C
 
 Number of ways to go from city A to city B = 2 <br>
 Number of ways to go from city A to city C = 3
 
 So, total number of ways in which one can go from city A to city B or C = 2 + 3 = 5 ways <br>
 Answer: (c)
+</div> <br>
+
+##### Q. A teacher has to select 1 boy or 1 girl out of 5 boys and 6 girls. In how many ways can this be done?
+<pre>(a)  30        (b) 36        (c) 10        (d) 11 </pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The teacher has to select 1 boy ***OR*** 1 girl.
+
+Number of ways to select 1 boy = 5 <br>
+Number of ways to select 1 girl = 6
+
+So, total number of ways in which the required selection can be made = 5 + 6 = 11 ways <br>
+Answer: (d)
+
+{{% alert note %}}
+Basically, the teacher has to select 1 student out of 11 students. So, this can be done in 11 ways. 
+{{% /alert %}}
 </div> <br>
 
 ##### Q. The figure shows the various one-way routes between the four cities A, B, C and D. How many routes are possible to travel from the city A to city C?
@@ -101,10 +140,10 @@ Explanation:<br>
 The number of ways in which a man can be selected = 6 <br>
 The number of ways in which a woman can be selected = 9
 
-So, number of ways in which a Man OR a Woman can to be selected = 6 + 9  <br>
+So, number of ways in which a Man ***OR*** a Woman can to be selected = 6 + 9  <br>
 (remember with OR we will do addition)
 
-And number of ways in which a Man AND a Woman can be selected = 6 × 9 = 54 <br>
+And number of ways in which a Man ***AND*** a Woman can be selected = 6 × 9 = 54 <br>
 (remember with AND we will do multiplication) <br>
 </div> <br>
 

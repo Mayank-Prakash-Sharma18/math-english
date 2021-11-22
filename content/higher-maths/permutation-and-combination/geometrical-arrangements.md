@@ -112,3 +112,47 @@ Answer: (a)
 
 Rectangular arrangements may be akin to linear arrangement or circular arrangement. They may even have eccentricities of their own. 
 
+##### Q. In how many ways can 16 guests be seated on a rectangular table, such that 8 guests are sitting on either side?
+(a) $C^{16}_8$ × 8! <br>
+(b) $C^{16}_8$ × 8! × 8! <br>
+(c) 8! × 8! <br>
+(d) 16!
+
+Explanation:<br>
+<div class="Exp">
+
+We have to place 16 guests on a rectangular table, such that 8 are sitting on one side, and the other 8 on the other side. 
+
+We can choose 8 guests out of the 16 in $C^{16}_8$ ways. Once selected, they can be arranged in 8! ways.
+
+Similarly, the remaining 8 guests may also be arranged in 8! ways. 
+
+So, total number of ways of selecting and then arranging these 16 guests = $C^{16}_8$ × 8! × 8!
+
+Answer: (b)
+</div> <br>
+
+
+##### Q. 16 guests have to be seated on a rectangular table, such that 8 guests are sitting on either side. If 5 guests want to sit on a particular side, and 2 guests want to sit on the other side, then in how many ways can they be seated?
+(a) $C^9_3$ × 8! <br>
+(b) 5! 2! 8! <br>
+(c) 8! × 7! <br>
+(d) $C^9_3$ × 8! × 8!
+
+Explanation:<br>
+<div class="Exp">
+
+We have to place 16 guests on a rectangular table, such that 8 are sitting on one side, and the other 8 on the other side. 
+
+As 5 guests want to sit on a particular side (say Side I), and 2 on the other side (say Side II). So, we just need to make our selection from the remaining (16 - 7) = 9 guests. 
+
+Number of ways to choose the 3 remaining guests to be placed on Side I from among 9 guests = $C^9_3$ <br>
+Now, (9 - 3) = 6 guests remain to be seated. <br>
+Number of ways to choose the 6 remaining guests to be placed on Side II from among 6 guests = $C^6_6$ = 1
+
+Once selected, guests sitting on each side of the table can be arranged in 8! ways amongst themselves.
+
+So, total number of ways of selecting and then arranging these 16 guests = $C^9_3$ × 8! × 8!
+
+Answer: (d)
+</div> <br>

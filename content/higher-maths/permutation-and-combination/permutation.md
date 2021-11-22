@@ -32,6 +32,15 @@ Obviously all the 9 persons are distinct. <br>
 So, Number of possible ways = $P^9_9$ = 9!
 </div> <br>
 
+##### Q. In how many ways can we arrange the letters of the word ‘BHUTAN’?
+
+Explanation:<br>
+<div class="Exp">
+All the 6 letters in the word ‘BHUTAN’ are distinct. <br>
+
+Number of possible ways to arrange these 6 distinct letters = 6! = 720 ways <br>
+</div> <br>
+
 #### Cases of Subgroups
 
 In some cases n distinct items are provided, but there are subgroups within the larger group.
@@ -77,6 +86,15 @@ Explanations :<br>
 Explanation 1: Using formula Method <br><br>
 All the 5 digits are distinct. <br><br>
 Number of ways to select and arrange r items from n distinct items (Repetition is not allowed) = $P^n_r$ = $P^5_3$ = 5 × 4 × 3 =  60
+
+{{% alert note %}}
+The problem can also be visualized as follows:
+
+* Do Selection of 3 digits out of 5: $C^5_3$
+* Then Arrange those 3 digits: 3!
+
+So, Required answer = $C^5_3$ × 3! = 5!/2! = 60 ways
+{{% /alert %}}
 </div>
 
 <div id="1Exp-2" class="Exp-2 mak-tabcontent tabcontent-group1">
@@ -102,6 +120,52 @@ Similarly, 3rd digit of the number can be any of the remaining 3 digits (as repe
 Hence, number of ways of formulating such a number (i.e. ways to choose 1st digit AND 2nd digit AND 3rd digit) = 5 × 4 × 3 =  60 <br>
 (Remember with ‘AND’ we use multiplication)
 </div>
+
+
+##### Q. How many three letter words can be made using the letters of the word 'BRAHMIN', if repetition of letters is not allowed?
+Explanations :<br>
+<button class="mak-tablink tablink-group3 default-tab" onclick="openTab('3Exp-1', this, 'tablink-group3', 'tabcontent-group3')">1</button>
+<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-2', this, 'tablink-group3', 'tabcontent-group3')">2</button>
+
+<div id="3Exp-1" class="Exp-1 mak-tabcontent tabcontent-group3">
+Explanation 1: Using formula Method <br><br>
+All the 7 letters are distinct. <br><br>
+Number of ways to select and arrange r items from n distinct items (Repetition is not allowed) = $P^n_r$ = $P^7_3$ = 7 × 6 × 5 = 210
+
+{{% alert note %}}
+The problem can also be visualized as follows:
+
+* Do Selection of 3 letters out of 7: $C^7_3$
+* Then Arrange those 3 letters: 3!
+
+So, Required answer = $C^7_3$ × 3! = 7!/4! = 210 ways
+{{% /alert %}}
+</div>
+
+<div id="3Exp-2" class="Exp-2 mak-tabcontent tabcontent-group3">
+Explanation 2: Using diagram Method<br><br>
+All the 7 letters are distinct. <br><br>
+The 1st letter of the word can be any of the given 7 letters. So, number of ways = 7 <br>
+The 2nd letter of the word can be any of the remaining 6 letters (as repetition of letters is not allowed). So, number of ways = 6 <br>
+Similarly, 3rd letter of the word can be any of the remaining 5 letters (as repetition of letters is not allowed). So, number of ways = 5 <br><br>
+
+<table>
+  <tr>
+    <th>Letter 1</th>
+    <th>Letter 2</th>
+    <th>Letter 3</th>
+  </tr>
+  <tr>
+    <td>7 possible ways</td>
+    <td>6 possible ways</td>
+    <td>5 possible ways</td>
+  </tr>
+</table>
+
+Hence, number of ways of formulating such a word (i.e. ways to choose 1st letter AND 2nd letter AND 3rd letter) = 7 × 6 × 5 = 210 <br>
+(Remember with ‘AND’ we use multiplication)
+</div>
+
 
 ### Arranging r items out of n (repetition allowed)
 

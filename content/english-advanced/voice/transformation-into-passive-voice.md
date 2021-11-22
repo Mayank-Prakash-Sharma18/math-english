@@ -282,9 +282,10 @@ Let us consider them both one by one.
 
 ### Case 1: Verb + to-infinitive + Object
 
+Consider the following patterns and examples:
 <img src="../../../media/voice/active-passive-voice15.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-So, basically this is how the infinitive verb changes its form: <br>
+It's evident from above, that this is how the infinitive verb changes its form: <br>
 Active: To + $V_1$ (to respect) <br> 
 Passive: 	To + be + $V_3$ (to be respected)
 
@@ -308,9 +309,10 @@ Jadeja ***hoped to be selected*** by Saurav Ganguly. (passive voice; active and 
 
 ### Case 2: Verb + Object + to-infinitive
 
+Consider the following patterns and examples:
 <img src="../../../media/voice/active-passive-voice16.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-So, the infinitive verb may or may not change its form: <br>
+It's evident, that the infinitive verb may or may not change its form: <br>
 Active: To + $V_1$ <br>
 Passive: 	To + $V_1$  OR To + be + $V_3$
 

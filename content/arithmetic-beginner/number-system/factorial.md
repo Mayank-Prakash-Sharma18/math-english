@@ -62,6 +62,28 @@ Largest power of 3 in 24! = sum of all quotient in all steps = 8 + 2 = 10
 Let us double check it. The powers of 3 in 24! can be found in these factors of 24!:
 3, 6, 9, 12, 15, 18, 21, 24  (9 and 18 account for 2 powers of 3 each)
 
+{{% alert note %}}
+We can also write the above method as follows:
+
+Largest power of 3 in 24! = $[\frac{24}{3}] + [\frac{24}{3^2}] = 8 + 2 = 10$
+{{% /alert %}}
+
+
+##### Q. Find the largest power of 7 in $C^{50}_{25}$.
+
+Explanation:<br>
+<div class="Exp">
+
+$C^{50}_{25} = \frac{50!}{25! \hspace{1ex} 25!}$
+
+Largest power of 7 in 50! = $[\frac{50}{7}] + [\frac{50}{7^2}] = 7 + 1 = 8$
+
+Largest power of 7 in 25! = $[\frac{25}{7}] = 3$
+
+So, Largest power of 7 in $C^{50}_{25}$ = 8 - (2 × 3) = 8 - 6 = 2
+</div> <br>
+
+
 ## Largest power of a composite number in N!
 
 To find the largest power of a composite number in N!, we need to factorize it into prime factors and then find the largest power of that prime factor which is in least supply (generally the largest prime factor is in least supply). 
@@ -72,7 +94,7 @@ Find the largest power of 6 in 24! <br>
 6 = 3 × 2; <br><br>
 Largest power of 2 in 24! = 12 + 6 + 3 + 1 = 22 <br>
 Largest power of 3 in 24! = 8 + 2 = 10 <br><br>
-As we need both 3 and 2 to form 6, and the power of 3 are in less supply, so the largest power of 6 in 24! Will depend on the largest power of 3 in 24!  <br>
+As we need both 3 and 2 to form 6, and the power of 3 are in less supply, so the largest power of 6 in 24! will depend on the largest power of 3 in 24!  <br>
 So the largest power of 6 in 24! is 10.
 
 {{% alert note %}}
