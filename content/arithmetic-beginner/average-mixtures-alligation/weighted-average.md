@@ -43,6 +43,8 @@ So, average marks of class X = 30 marks
 In class XI – 2 students with 70 and 80 marks respectively. <br>
 So, average marks of class XI = 75 marks
 
+Their Combined/Weighted Average = $\frac{A_1 n_1 + A_2 n_2}{n_1 + n_2}$ = $\frac{30 x 3 + 75 x 2}{3 + 2}$ = $\frac{240}{5}$ = 48 marks
+
 Let's see another formula:
 
 If the average of n quantities is A and the average of $n_1$ quantities out of n quantities is $A_1$, then: 

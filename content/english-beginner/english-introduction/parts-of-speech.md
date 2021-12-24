@@ -151,5 +151,5 @@ They don’t have any real meaning.
 
 Interjections are used more commonly in speech and less in writing.
 
-In writing they are often followed by an exclamation point. 
+In writing they are often followed by an exclamation point (i.e. !). 
 

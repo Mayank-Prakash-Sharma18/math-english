@@ -201,3 +201,63 @@ However, these five points are collinear. So, now $C^{5}_2$ has to be considered
 
 Answer: (b)
 </div> <br>
+
+### Type 3b: Selecting 4 Points
+
+##### Q. Nine points are there on a given plane, out of which four are collinear. How many quadrilaterals can be formed using these nine points?
+<pre>(a) 40   (b) 100    (c) 105   (d) 60</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Number of ways to select r items from n distinct items (wherein r ≤ n) = $C^n_r$ = n!/[r! × (n−r)!]
+
+A quadrilateral can be formed in following cases:
+
+Case I: All four points are non-collinear. <br>
+Number of ways in which this can be done = $C^{9 - 4}_4 = C^5_4 = 5$
+
+Case II: One point is from the set of collinear points, and three points are from the set of non-collinear points. <br>
+Number of ways in which this can be done = $C^4_1 × C^{9 - 4}_3 = C^4_1 × C^5_3 = 4 × 10 = 40$
+
+Case III: Two points are from the set of collinear points, and two points are from the set of non-collinear points. <br>
+Number of ways in which this can be done = $C^4_2 × C^{9 - 4}_2 = C^4_2 × C^5_2 = 6 × 10 = 60$
+
+So, Total number of quadrilaterals that can be formed = 5 + 60 + 40 = 105.
+
+{{% alert note %}}
+If three points are from the set of collinear points, then a triangle will be formed, and not a quadrilateral.
+
+If all four points are from the set of collinear points, then a line will be formed, and not a quadrilateral.
+{{% /alert %}}
+
+Answer: (c)
+</div> <br>
+
+
+## Miscellaneous Questions
+
+##### Q. How many terms will be there having only a single x in them, if we simplify the following product?
+$(x_1 + y_1) (x_2 + y_2) ... (x_{10} + y_{10})$
+
+<pre>(a) 1   (b) 10    (c) 100   (d) 50</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+We need to select x out of 10 terms.
+Selecting 1 out of 10 terms = $C^{10}_1$ = 10!/(1! × 9!) = 10
+
+∴ Required terms are 10 in number.
+
+{{% alert note %}}
+We can also solve this question by observing the pattern we get on simplifying the given expression. 
+
+For example, $(x_1 + y_1) (x_2 + y_2)$ gives 2 terms that have only one x in them. <br>
+$(x_1 + y_1) (x_2 + y_2) (x_3 + y_3)$ gives 3 terms that have only one x in them. <br>
+And so on. 
+{{% /alert %}}
+
+Answer: (b)
+</div> <br>
+

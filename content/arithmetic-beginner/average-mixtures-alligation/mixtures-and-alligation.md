@@ -71,7 +71,7 @@ This is the alligation formula.
 
 The above formula can be represented as follows:
 <img src="../../../media/mixtures/alligation-method.png" alt="alligation method" style="width:81%;height:81%;">
-Please note that since we took dearer price on the top left comer, the ratio of the bottom left figure to that of the bottom right figure will give the ratio of dearer quantity to cheaper quantity.
+Please note that since we took dearer price on the top left corner, the ratio of the bottom left figure to that of the bottom right figure will give the ratio of dearer quantity to cheaper quantity.
 
 {{% alert note %}}
 Alligation does not give the actual volumes to be mixed, but only the ratio in which volumes are to be mixed. 
@@ -79,7 +79,7 @@ Alligation does not give the actual volumes to be mixed, but only the ratio in w
 
 ## Weighted Average Vs. Alligation Method
 
-Wherever Weighted Average can be used, Alligalion can also be used and wherever Alligation can be used, Weighted average can also be used as basically both are the same. 
+Wherever Weighted Average can be used, Alligation can also be used and wherever Alligation can be used, Weighted average can also be used as basically both are the same. 
 
 But one method can be faster than the other based on the kind of question we encounter. 
 

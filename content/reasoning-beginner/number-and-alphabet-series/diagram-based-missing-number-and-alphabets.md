@@ -101,7 +101,7 @@ Column III: 7 × 9 = 63; 63 ÷ 3 = 21
 Answer: (b)
 </div> <br>
 
-##### Q. Find the missing number out of the given options: <br>
+##### Q. Find the missing letter out of the given options: <br>
 <img src="../../../media/series/diagram-based-number-series16.png" alt="Diagram-based number series" style="width:45%;height:45%;">
 <pre>(a) X   (b) V  (c) Y  (d) W</pre>
 

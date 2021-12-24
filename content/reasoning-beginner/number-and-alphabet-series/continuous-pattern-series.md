@@ -71,7 +71,7 @@ Let us consider a few cases ...
 
 These questions are the easiest and the most common of Continuous pattern series questions. 
 
-##### Q. Find the missing letter in the following series: <br>
+##### Q. Find the missing letters in the following series: <br>
 m _ m _ am _ a _
 <pre>(a) mama  (b) amaa  (c) ammm  (d) amam</pre>
 
@@ -89,7 +89,7 @@ Answer: (c)
 
 ### Type 2: Repetition of two groups in same form 
 
-##### Q. Find the missing letter in the following series: <br>
+##### Q. Find the missing letters in the following series: <br>
 l_n_mllm_n_l
 <pre>(a) mnmm  (b) nmmm  (c) mnmn  (d) mnnm</pre>
 
@@ -107,7 +107,7 @@ Answer: (d)
 
 ### Type 3: Cyclic Series   
 
-##### Q. Find the missing letter in the following series: <br>
+##### Q. Find the missing letters in the following series: <br>
 _ ab _ b _ bc _ ca _
 <pre>(a) abacb  (b) cacab  (c) accbb  (d) abcca</pre>
 <pre>(SSC Question)</pre>
@@ -128,7 +128,7 @@ Answer: (b)
 
 ### Type 4: Swap Series   
 
-##### Q. Find the missing letter in the following series: <br>
+##### Q. Find the missing letters in the following series: <br>
 _ cb _ ca _ bacb _ ca _ bac_ d
 <pre>(a) addddb   (b) addbbb  (c) bbbddd  (d) badddb</pre>
 <pre>(SSC Question)</pre>
@@ -153,7 +153,7 @@ Answer: (a)
 
 ### Type 5: Increasing/Decreasing Series     
 
-##### Q. Find the missing letter in the following series: <br>
+##### Q. Find the missing letters in the following series: <br>
 ZX_TR_NLJ_F
 <pre>(a) VRH   (b) UPJ  (c) VPH  (d) UPJ</pre>
 <pre>(SSC Question)</pre>

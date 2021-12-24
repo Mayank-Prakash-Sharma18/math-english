@@ -224,3 +224,43 @@ Profit percentage = [(125 - 80) / 80] × 100% = (45/80) × 100% = 56.25%
 {{% alert note %}}
 The approaches and concepts discussed in this article are not limited to only problems with faulty weights, but in any problem where the amount sold and that charged for is different. 
 {{% /alert %}}
+
+
+## Some More Questions 
+
+##### Q. Which of the following trick would maximize the profit of a businessman, when he sells a certain item?
+
+I. Sell that item at 8% profit <br>
+II. Use an incorrect weight which is 100 grams less than 1 kg, but is marked as 1 kg <br>
+III. Mix 10% impurities in that item and sell that item at cost price <br>
+IV. Increase the price by 5%, and use an incorrect weight whose real value is 5% less than what is marked on it. 
+
+Select the answer using the correct code.
+
+<pre>(a) I   (b) II    (c) III   (d) IV</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Case I: <br>
+In the first case, it is directly given that the profit is 8%.
+
+Case II: <br>
+For second case, let the CP of 1 kg of item be Rs. 100 <br>
+Then CP of 900 g of item= (100/1000) x 900 = Rs. 90 <br>
+Hence, profit percentage = {(100 - 90)/90} x 100 = 11.11%
+
+Case III: <br>
+Let the CP of 1 kg of pure item be Rs. 100 <br>
+If he adds 10% impurity, then CP of 1 kg = {(1000/1100) x 100} = Rs. 90.90 <br>
+Hence, profit percent = {(100 - 90.90)/90.90} x 100 = 10.01%
+
+Case IV: <br>
+If he reduces weight by 5%, then cost price of 950g = {(100/1000) x 950} = Rs. 95 and SP = Rs. 105 <br>
+Hence, profit percent = {(105 – 95)/95} X 100 = 10.52%
+
+Hence, the profit is maximum in second case.
+
+Answer: (b)
+</div> <br>
+

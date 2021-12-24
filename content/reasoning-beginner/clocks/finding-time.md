@@ -135,7 +135,7 @@ Explanation 1: Using Relative Speed Method <br><br>
 
 At 3:00 pm, the distance between the minute hand and the hour hand is 90°, as shown below:
 <img src="../../../media/clocks/relative-speed4.png" alt="clocks" style="width:45%;height:45%;">
-Therefore, the minute hand is 90° behind at 4:00 pm and then it starts closing the gap by 5.5° every minute. <br><br>
+Therefore, the minute hand is 90° behind at 3:00 pm and then it starts closing the gap by 5.5° every minute. <br><br>
 
 Therefore, the time taken by the minute hand to catch up with the hour hand = $\frac{Relative Distance}{Relative Speed}$ = $\frac{90^o}{5.5^o}$ = $\frac{180^o}{11^o}$ = 16 $\frac{4}{11}$ minutes. 
 

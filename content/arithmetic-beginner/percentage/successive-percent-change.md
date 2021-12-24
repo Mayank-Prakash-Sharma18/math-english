@@ -339,7 +339,7 @@ If the population of a town is P and increases at the rate of $r_1%$ in first ye
 
 <br>
 
-If present value of a machine is P and it’s depreciation rates are $r_1%$, $r_2%$ and $r_3%$ yearly (i.e. growth rate varies over the years), then
+If present value of a machine is P and it’s depreciation rates are $r_1%$, $r_2%$ and $r_3%$ yearly (i.e. depreciation rate varies over the years), then
 
 (a) Value of machine after 3 years, $P_3 = P (1 - \frac{r_1}{100}) (1 - \frac{r_2}{100}) (1 - \frac{r_3}{100})$
 

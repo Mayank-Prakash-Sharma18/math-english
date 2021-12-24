@@ -4,7 +4,7 @@ linktitle: Average Question Types
 toc: true
 type: docs
 date: "2021-07-15T00:00:00+01:00"
-draft: true
+draft: false
 menu:
   average-mixtures-alligation:
     parent: 1. Average
@@ -56,4 +56,29 @@ So, the average marks of the remaining 15 students = Group Average + 10 = 60 + 1
 
 Answer: (b)
 </div><br>
+
+
+## Type 2
+
+##### Q. There are two group of boys namely A and B with 45 and 55 boys respectively. In group A the tallest boy is 130 centimetres in height and the height of shortest boy is 120 centimetres. In group B height of the tallest boy is 180 centimetres and that of shortest boy is 140 centimetres. Two boys are shifted from Group-A to Group-B.
+
+Consider the following statements:
+1. The average height of Group B will definitely decrease.
+2. The average height of Group A will definitely increase.
+
+Which of the above statements is/are correct?
+
+<pre>(a) 1   (b) 2    (c) Both   (d) None</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Average = Sum of observations / Number of observations
+
+Since 2 students are moved from A to B, therefore average height of group B will definitely decrease. The new students must be having less height than the previous minimum height of Class B. Statement 1 is correct.
+
+However, we cannot be sure regarding the heights of the 2 students that have been moved from group A. They may have height close to 130 cm, which will lead to decrease in the average height of group A. If they have height close to 120, it will lead to increase in the average height of group A. Therefore, we cannot determine whether average height of group A will increase or decrease. Statement 2 is incorrect.
+
+Answer: (a)
+</div> <br>
 

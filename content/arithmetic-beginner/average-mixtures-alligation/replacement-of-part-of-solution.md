@@ -27,7 +27,7 @@ In most of the questions we encounter, we will not only be taking out a part of 
 
 These are a few of the guidelines that we can follow to ease out our work:
 
-* We will focus on the solute which is not replaced, alcohol in our case (as it is easier to work on that salute which is only being removed and not added back).
+* We will focus on the solute which is not replaced, alcohol in our case (as it is easier to work on that solute which is only being removed and not added back).
 * We will prefer to work in fractions rather than percentages, to ease out our calculation. 
 
 ***Let’s consider an example:***

@@ -43,7 +43,7 @@ The man laughed. (man – subject; laughed – verb; Where is the object?)
 
 Intransitive verbs do not require an object to act upon (i.e. sentence will make sense even without an object).
 
-All of them can end a sentence. Some imperative forms of verbs can even make comprehensible one-word sentences. <br>
+All of them can end a sentence. Some intransitive verbs can even make comprehensible one-word sentences. <br>
 Run! <br>
 Sing! <br>
 
@@ -68,6 +68,7 @@ His bike <b>was stolen</b> by thieves. (passive)
 * Intransitive verbs never have a passive form (because there is no direct object). 
 
 He <b>lives</b> like a king.  (active)
+
 
 ## Transitive – Intransitive Interchangeability 
 

@@ -22,10 +22,36 @@ In this article we will try to learn RC in more detail, by solving some RC sets.
 * How to select the most appropriate option, if more than 1 option are correct.
 * How to select the least incorrect option, if all the given options seem incorrect. 
 
+## How to select the most appropriate option? 
+
+##### Q. Read the following passage and answer the question that follows. Your answer to the given question should be based on the passage only.
+
+Adverse childhood experiences are the most important determinants of poor educational attainment, violent behaviors and mental health problems. The lack of nurturing environments and the exposure to toxic stress that is, when a child experiences intense, frequent or prolonged adversity such as emotional abuse or neglect, it directly impacts the development of a healthy brain architecture that is most sensitive to environmental influences in the early years of life. 
+
+Q. Which one of the following statements best reflects the crux of the passage given above?
+
+(a) Unpleasant shocks to any child can impact his learning capabilities. <br>
+(b) Negative childhood blows can impact nature of a child in an adverse way. <br>
+(c) The stress caused by adverse childhood trauma can lead to aggressive behaviors in children. <br>
+(d) Childhood traumas can make a tremendous impact on psychophysical development.
+
+Explanation:<br>
+<div class="Exp">
+
+Option (a) is incorrect. The option is true in the context of the first line of the passage. But this option covers only learning aspects. It does not cover behavior, stress and mental health. 
+ 
+Option (b) is incorrect. The option is true in the context of the passage. But the option covers only nature of a child, which is a very vague term. It may or may not cover psychological and physical development. Also, there’s no mention of the term “development”, which is the central idea of the passage. When we compare it with option (d), it looks a less likeable candidate. ***It’s not incorrect, but less correct.*** 
+ 
+Option (c) is incorrect. The option is true as the passage mentions ‘violent behaviors’ as an outcome of adverse childhood experiences. But again, this option does not cover other aspects like mental health, learning and psychological development. It is very narrow. 
+ 
+Option (d) is correct. The option mentions psychophysical development. The psychophysical development here covers educational attainment or learning level, behavior, mental health, stress and healthy brain. So, this option best reflects the crux of the passage, as it covers almost every aspect mentioned in the passage. 
+
+Answer: (d)
+</div> <br>
 
 ## How to select the least incorrect option? 
 
-##### Q. Read the following passage and answer the question that follows. Your answer to the given question should be based on the passage only.
+##### Read the following passage and answer the question that follows. Your answer to the given question should be based on the passage only.
 
 Prioritizing sanitation is critical for multiple reasons. The lack of sanitation is the leading cause of diarrhea among children under five, leading to stunting among children and also results in several preventable child deaths. Sanitation is also critical for the safety and dignity of women. With India making massive strides towards becoming an economic superpower, ending the practice of open defecation is absolutely imperative. Unlike earlier-era sanitation programs, the Swachh Bharat Mission (SBM) is not a toilet construction program but a behavior-change mass movement.
 

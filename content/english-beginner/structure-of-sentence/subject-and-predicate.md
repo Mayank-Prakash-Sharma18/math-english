@@ -80,7 +80,7 @@ Birds  <b>fly</b>. (Birds - subject; fly - verb)
 
 I <b>know</b>. (I - subject; know - verb)
 
-Here  Predicate  =  Verb
+Here, Predicate  =  Verb
 
 {{% alert note %}}
 Every sentence must have a verb. <br>

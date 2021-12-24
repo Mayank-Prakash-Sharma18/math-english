@@ -90,6 +90,21 @@ The number of possible combinations = 3 × 2 × 2 = 12 <br>
 Since there are 12 different combinations of the powers of 2, 3 and 5, there are 12 distinct factors of 60. <br>
 We will get the same answer if we apply the formula given above. 
 
+##### Q. Find the number of factors of the product $2^5 × 3^6 × 5^2$, which are perfect squares. 
+
+Explanation:<br>
+<div class="Exp">
+
+Any factor of this expression should be of the form $2^a × 3^b × 5^c$. <br>
+For the factor to be a perfect square a, b, and c have to be even.
+
+a can take these values: 0, 2, 4 <br>
+b can take these values: 0, 2, 4, 6 <br>
+c can take these values: 0, 2
+
+So, Total number of perfect square factors of the given product = 3 × 4 × 2 = 24
+</div> <br>
+
 ### Finding Number of odd factors
 
 To find the number of odd factors we should ignore the power of the even prime factor (i.e. 2). 
