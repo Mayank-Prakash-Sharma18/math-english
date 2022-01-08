@@ -47,7 +47,7 @@ Any point lying on a line will satisfy the equation of that line. That is, if we
 
 There are a few terms that we must be aware of regarding line equations. 
 
-* ***Angle of inclination and Slope*** - The angle that a line makes with the X-axis in the anti-clockwise direction is called the inclination of that line. In the figure given above, line PQ makes and angle of θ with the X-axis. Slope of the line will be tan θ. 
+* ***Angle of inclination and Slope*** - The angle that a line makes with the X-axis in the anti-clockwise direction is called the inclination of that line. In the figure given above, line PQ makes an angle of θ with the X-axis. Slope of the line will be tan θ. 
 
 * ***Intercepts on Axes*** - The distance between the point where a line intercepts an axis and the origin is called the Intercept of that line on that particular axis. In the figure given above, OP and OQ are the X-axis intercept and Y-axis intercept respectively, made by the line PQ. 
 

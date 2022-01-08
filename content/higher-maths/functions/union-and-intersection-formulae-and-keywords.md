@@ -234,7 +234,7 @@ Required answer = Number of students who passed in Mathematics only (but did fai
 
 (iii) The number of people who failed in at least one of the subjects = number of students who failed in Maths (but passed in Hindi) + the number of students who failed in Hindi (but passed in Maths) + the number of students who failed in both subjects = 80 + 40 + 20 = 140.
 
-Or this can be obtained by subtracting the total number of students from the students who passed in both = 150 – 10 = 140
+Or this can be obtained by subtracting the students who passed in both the subjects from the total number of students = 150 – 10 = 140
 </div> <br>
 
 
@@ -278,7 +278,7 @@ Number of candidates passed in both Chemistry and Electronics = 600 - 167 = 437
 Number of candidates passed in both Electronics and English = 600 - 240 = 360
 
 (ix) Number of candidates failed in both Chemistry and English = 27 + 28 + 90 + 10 + 22 + 15 = 192 <br>
-Number of candidates passed in both Chemistry and English 600 - 192 = 408
+Number of candidates passed in both Chemistry and English = 600 - 192 = 408
 
 (x) Number of candidates passed in at least two subjects = candidates passed in at least two subjects + candidates passed in at least three subjects = 27 + 65 + 90 + 343 = 525
 

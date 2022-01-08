@@ -112,13 +112,13 @@ $\sqrt[p]{\frac{a}{b}} = \frac{\sqrt[p]{a}}{\sqrt[p]{b}}$
 
 #### Rule 1
 
-If two numbers are equal, and there bases are also equal, then their powers will be equal too. (given that the base is not 0 or ±1)<br>
+If two numbers are equal, and their bases are also equal, then their powers will be equal too. (given that the base is not 0 or ±1)<br>
 So, if $a^n$ = $a^m$ (where a ≠ 0 & a ≠ ±1), then n = m <br>
 For example, if $3^n$ = $3^5$, then n = 5
 
 #### Rule 2
 
-If two numbers are equal, and there powers are also equal, then two cases may arise (given that the power is not 0): 
+If two numbers are equal, and their powers are also equal, then two cases may arise (given that the power is not 0): 
 
 * Case I: If the power is an odd number, then the bases will be equal too. <br>
 So, if $a^n$ = $b^n$ (where n ≠ 0), then a = b <br>

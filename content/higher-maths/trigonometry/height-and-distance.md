@@ -122,7 +122,7 @@ Consider a straight/vertical pole AB, and two points C and D on the ground. Two 
 * Distance of point C from the bottom of the pole, BC = c. And, the angle of elevation of the top of the pole from point C is θ°.
 * Distance of point D from the bottom of the pole, BD = d. And, the angle of elevation of the top of the pole from point D is Φ°. 
 
-If θ and Φ are complimentary to each other, i.e. θ + Φ = 90°, then: <br>
+If θ and Φ are complementary to each other, i.e. θ + Φ = 90°, then: <br>
 The height of the pole, h = $\sqrt{cd}$
 
 ### Case 9
@@ -135,7 +135,7 @@ Consider two straight/vertical poles AB and CD, both standing on the same ground
 * Angle of elevation of the top of pole AB from bottom of pole CD is θ°. 
 * Angle of elevation of the top of pole CD from bottom of pole AB is Φ°.
 
-If θ and Φ are complimentary to each other, i.e. θ + Φ = 90°, then: <br>
+If θ and Φ are complementary to each other, i.e. θ + Φ = 90°, then: <br>
 The distance between the two poles, x = $\sqrt{h_1 × h_2}$
 
 ### Case 10

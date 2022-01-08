@@ -186,7 +186,7 @@ As far as grouped data, or frequency distribution is concerned, there are variou
 
 * Histograms - It is used to represent a grouped frequency distribution with continuous classes. Unlike a bar graph, here there is no gap between bars. The height of the bars is proportional to their class frequencies (if class intervals are equal). 
 
-* Frequency Polygons - It is also a graph of frequency distribution. We can draw frequency plygons either by using histograms or without them. 
+* Frequency Polygons - It is also a graph of frequency distribution. We can draw frequency polygons either by using histograms or without them. 
 
 * Cumulative frequency curve or Ogive - It is used to showcase cumulative frequency distribution of grouped data. 
 

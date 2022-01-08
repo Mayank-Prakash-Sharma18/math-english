@@ -287,7 +287,7 @@ Answer: (b)
 
 If digit sum of two or more options is same, then we will use unit digit rule to eliminate the rest of the options.
 
-In unit digit rule we just focus on unit digits of the numbers (i.e. only the last digit), and ignore the rest. 
+In unit digit rule, we just focus on unit digits of the numbers (i.e. only the last digit), and ignore the rest. 
 
 ##### Q. 4368 + 2158 – 596 – x = 3421 + 1262
 <pre>(a) 1066   (b) 1274    (c) 1247   (d) 1384</pre>
@@ -304,8 +304,8 @@ or 3 + 7 – 2 – x = 1 + 2 <br>
 or 8 - x = 3 <br>
 or x = 5
 
-Now, digit sum of only option (b) is 5: 1 + 2 + 7 + 4 = 14 = 1 + 4 = 5. <br>
-Now, digit sum of only option (c) is also 5: 1 + 2 + 4 + 7 = 14 = 1 + 4 = 5. 
+Now, digit sum of option (b) is 5: 1 + 2 + 7 + 4 = 14 = 1 + 4 = 5. <br>
+Now, digit sum of option (c) is also 5: 1 + 2 + 4 + 7 = 14 = 1 + 4 = 5. 
 
 So, options (b) and (c) have the same digit sum as x. 
 
@@ -325,7 +325,7 @@ Answer: (c)
 
 If unit digit is also same, then we will use tens digit rule.
 
-In unit digit rule we just focus on unit and tens digits of the numbers (i.e. only the last two digits), and ignore the rest. 
+In tens digit rule, we just focus on unit and tens digits of the numbers (i.e. only the last two digits), and ignore the rest. 
 
 ##### Q. 7960 + 2956 – 8050 + 4028 = x
 <pre>(a) 6984   (b) 6884    (c) 6894   (d) 5884</pre>
@@ -340,8 +340,8 @@ or 13 + 13 - 13 + 14 = x <br>
 or (1 + 3) + (1 + 4) = x <br>
 or x = 4 + 5 = 9 = 0 <br>
 
-Now, digit sum of only option (a) is 0: 6 + 9 + 8 + 4 = 27 = 2 + 7 = 9 = 0. <br>
-Now, digit sum of only option (c) is also 0: 6 + 8 + 9 + 4 = 27 = 2 + 7 = 9 = 0. 
+Now, digit sum of option (a) is 0: 6 + 9 + 8 + 4 = 27 = 2 + 7 = 9 = 0. <br>
+Now, digit sum of option (c) is also 0: 6 + 8 + 9 + 4 = 27 = 2 + 7 = 9 = 0. 
 
 So, options (a) and (c) have the same digit sum as x. 
 
@@ -350,16 +350,16 @@ Now, let's try to solve this by using ***unit digit rule***.
 0 + 6 - 0 + 8 = x <br>
 or x = 14 = 4 (we will just focus on the unit digit)
 
-Unit digit of only option (a): 4 <br>
-Unit digit of only option (c): 4
+Unit digit of option (a): 4 <br>
+Unit digit of option (c): 4
 
 So, in options (a) and (c) digit sum & unit digit are same. So, now we will go for ***tens digit rule***.
 
 60 + 56 – 50 + 28 = x <br>
 or x = 94
 
-Tens digit of only option (a): 84 <br>
-Tens digit of only option (c): 94
+Tens digit of option (a): 8 <br>
+Tens digit of option (c): 9
 
 Hence, option (c) is the correct answer.
 

@@ -88,7 +88,7 @@ It will be over ***by*** then. (by – preposition; then – adverb of time)
 ***Since*** then he has not talked to me. (since – preposition; then – adverb of time) 
 
 Move away ***from*** there. (from – preposition; there – adverb of place)
- 
+
 ### Object is an Adverbial Phrase
 
 She had not met him ***till*** a few days ago. (till – preposition; a few days ago – adverb phrase)

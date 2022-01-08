@@ -109,7 +109,7 @@ N! is basically the product of first 'n' natural numbers.
 
 A 'zero' at the end will get generated as per the combination of 2 and 5. In any factorial, the number of 5’s will always be less than the number of 2’s and so the number of 5’s will determine the number of zeroes at the end. 
 
-How many zeros at the end of 24! ? <br>
+How many zeros at the end of 26! ? <br>
 Largest power of 5 in 26! = 5 + 1 = 6 <br>
 So, there will be 6 zeros at the end of 26!
 

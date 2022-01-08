@@ -34,9 +34,9 @@ They are generally formed by prefixing a preposition (usually a = no or be = by)
 
 These are groups of words used with the force of a single preposition.
 
-according to; in accordance with; in place of; in addition to;	in reference to; along with; in (on) behalf of; in regard to; away from;	 in case of; in spite of; because of; in comparison to; 	instead of; by dint of;	in compliance with; in the event of; by means of; in consequence of; on account of; by reason of; in course of; owing to; by virtue of; in favour of; with a view to; by way of; in front of; with an eye to;	conformably to; in lieu of; with reference to; for the sake of; in order to; with regard to
+according to; in accordance with; in place of; in addition to;	in reference to; along with; in (on) behalf of; in regard to; away from; in case of; in spite of; because of; in comparison to; instead of; by dint of;	in compliance with; in the event of; by means of; in consequence of; on account of; by reason of; in course of; owing to; by virtue of; in favour of; with a view to; by way of; in front of; with an eye to;	conformably to; in lieu of; with reference to; for the sake of; in order to; with regard to
 
-### Type 4: Participial Prepositions 
+### Type 4: Participle Prepositions 
 
 Present participles of verbs, are used absolutely with out any noun or pronoun being attached to them. For all practical purposes, they have become prepositions, and are sometimes distinguished as Participial Prepositions.
 
@@ -79,7 +79,7 @@ That is the man (***whom***) I was speaking ***of***. (of – preposition; whom 
 
 * When the object is an interrogative pronoun, the preposition is often placed at the end. <br><br>
 ***What*** are you looking ***at***? (at – preposition; what – interrogative pronoun, which is the object of the preposition)
- 
+
 * Sometimes the object is placed first for the sake of emphasis. <br><br>
 ***This*** the customer is insisting ***on***. (on – preposition; this – pronoun, which is the object of the preposition) <br>
 Nicole Kidman is known all the ***world over***. (over – preposition; world – noun, which is the object of the preposition)

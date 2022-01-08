@@ -205,7 +205,7 @@ To do so, we follow the following steps:
 
 * ***Step 2***: If the things are still not clear, then we square the new surds and subtract the rational parts again. In most of the cases, we can easily compare the surds now. 
 
-However, if we cannot, then we will square them, and subtract the rational parts again. We will repeat this process still we can compare their values with certainity. 
+However, if we cannot, then we will square them, and subtract the rational parts again. We will repeat this process till we can compare their values with certainity. 
 
 Let's see an example.
 

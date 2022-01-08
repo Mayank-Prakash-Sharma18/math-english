@@ -28,7 +28,7 @@ They are all the numbers on the number line. In other words a real number is any
 
 ### Complex Numbers
 
-Real numbers are of the form a + bi, where a and b are the real numbers and i is the imaginary unit whose value is √-1. 
+Complex numbers are of the form a + bi, where a and b are the real numbers and i is the imaginary unit whose value is √-1. 
 
 The solutions of equations of the form $x^2$ = -9 are not real numbers (as in real number system squares cannot be negative). Hence, we introduced complex numbers to cater to such cases.
 

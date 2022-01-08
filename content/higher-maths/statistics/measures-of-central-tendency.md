@@ -90,7 +90,7 @@ Geometric Mean = $\sqrt[3]{3 × 4 × 18}$ = $\sqrt[3]{3^3 × 2^3}$ = 3 × 2 = 6
 
 Harmonic mean is the reciprocal of the Arithmetic mean of the reciprocals of given numbers. 
 
-To find the geometric mean of n numbers, $x_1, x_2, x_3, ..... , x_n$, we can use the following formula:
+To find the harmonic mean of n numbers, $x_1, x_2, x_3, ..... , x_n$, we can use the following formula:
 
 Harmonic Mean = $\frac{n}{\frac{1}{x_1} + \frac{1}{x_2} + \frac{1}{x_3} + ... + \frac{1}{x_n}}$
 

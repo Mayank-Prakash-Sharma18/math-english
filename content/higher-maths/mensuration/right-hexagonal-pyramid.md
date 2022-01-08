@@ -16,7 +16,7 @@ weight: 39
 
 ## What is a Right Hexagonal Pyramid?
 
-Right Square Pyramid has an hexagon as its base. Rest of its faces are congruent (exactly same) isosceles or equilateral triangles. So, its apex is directly above the center of its base.
+Right Hexagonal Pyramid has an hexagon as its base. Rest of its faces are congruent (exactly same) isosceles or equilateral triangles. So, its apex is directly above the center of its base.
 <img src="../../../media/mensuration/pyramid-10.png" alt="Mensuration" style="width:81%;height:81%;">
 
 
