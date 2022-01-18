@@ -51,7 +51,7 @@ The symbol we use for Integration is: ∫
 
 You may have noticed that it looks like 'S', as it represents the idea of summation of slices. 
 
-If we want to find the integral of a function f(x), then we will represent is as follows: <br>
+If we want to find the integral of a function f(x), then we will represent it as follows: <br>
 ∫ f(x) dx
 
 dx means that the slices have to be added in the direction of the x-axis, and also that their width approaches zero. 
@@ -62,7 +62,7 @@ For example, ∫ 2x dx = $x^2$ + c <br>
 {{% alert note %}}
 #### Why do we write a constant in the integral value?
 
-We already know that the process of integration is the reverse of the process of differenciation. 
+We already know, that the process of integration is the reverse of the process of differentiation. 
 
 $\frac{d}{dx} x^2$ = 2x 
 
@@ -85,16 +85,16 @@ For example, we know that $\frac{d}{dx} tan x = sec^2 x$ <br>
 So, ∫ $sec^2 x$ dx = tan x + c
 {{% /alert %}}
 
-### Derivative of a Constant
+### Integral of a Constant
 
 ∫ a dx = ax + c <br>
 (where a and c are constants)
 
-### Derivatives of Variables
+### Integral of Variables
 
 ∫ x dx = $\frac{x^2}{2}$ + c
 
-### Derivative of Squares, Cubes, Roots, etc. 
+### Integral of Squares, Cubes, Roots, etc. 
 
 ∫ $x^n$ dx = $\frac{x^{n + 1}}{n + 1}$ + c <br>
 (Here, n should not be equal to -1)
@@ -105,11 +105,11 @@ So, let's see the integrals of some of the functions based on the above rule.
 
 ∫ $x^3$ dx = $\frac{x^4}{4}$ + c
 
-### Derivative of Reciprocal
+### Integral of Reciprocal
 
 ∫ $x^{-1}$ dx = ln |x| + c
 
-### Derivative of Exponentials and Logarithms
+### Integral of Exponentials and Logarithms
 
 ∫ $e^x$ dx = $e^x$ + c
 
@@ -117,7 +117,7 @@ So, let's see the integrals of some of the functions based on the above rule.
 
 ∫ ln x dx = x ln x - x + c
 
-### Derivative of Trigonometry functions
+### Integral of Trigonometry functions
 
 ∫ cos x dx = sin x + c
 

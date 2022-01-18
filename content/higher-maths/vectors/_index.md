@@ -21,6 +21,8 @@ menu:
     weight: 1
 ---
 
+<img src="../../../media/vectors/vectors.png" alt="Vectors" style="width:99%;height:99%;">
+
 ## What are Vectors in Maths?
 
 Vectors are the objects that are denoted by an arrow. They have both:

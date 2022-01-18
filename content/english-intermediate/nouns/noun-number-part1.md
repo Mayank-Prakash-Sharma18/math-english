@@ -20,7 +20,7 @@ weight: 12
   }
 </style>
 
-Thus there are two Numbers in English - Singular and Plural.
+There are two types of Noun Numbers in English - Singular and Plural.
 
 * A Noun in Singular Number – a noun that denotes one person, place or thing.
 E.g. boy, cat, tree, book, city.

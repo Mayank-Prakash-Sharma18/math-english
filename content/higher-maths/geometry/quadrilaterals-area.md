@@ -159,7 +159,7 @@ If two parallelograms have the same base (or same base length), and are between 
 <img src="../../../media/geometry/parallelogram-7.png" alt="Geometry" style="width:99%;height:99%;">
 If AB ∥ PQ, then, Area of □ABCD = Area of □ABEF
 
-This is beacuse area of a parallelogram is equal to the product of its base and height. If heights of two parallelograms are the same and the length of their bases too (as is the case above), then they obviously will have the same area. 
+This is because area of a parallelogram is equal to the product of its base and height. If heights of two parallelograms are the same and the length of their bases too (as is the case above), then they obviously will have the same area. 
 
 ### Property 2
 

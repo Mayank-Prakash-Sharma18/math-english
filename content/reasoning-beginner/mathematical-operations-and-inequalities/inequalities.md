@@ -14,6 +14,8 @@ menu:
 weight: 6
 ---
 
+<img src="../../../media/mathematical-operations/inequalities.png" alt="direction and distance" style="width:99%;height:99%;">
+
 Here's a list of most commonly used inequality signs: 
 
 <table>

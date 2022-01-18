@@ -132,6 +132,7 @@ II. ∠AVD and ∠BVC form the second pair of vertically opposite angles. So, �
 
 If a line (say CD) passes through the mid-point of a line segment (say AB) and is perpendicular to it, then the line is called the perpendicular bisector of the line segment.
 <img src="../../../media/geometry/line-8.png" alt="Geometry" style="width:54%;height:54%;">
+
 In the above figure, CD is perpendicular bisector of AB, that is:
 * CD is perpendicular to AB (CD ⊥ AB) and 
 * CD bisects AB in two equal halves (AD = BD).
@@ -172,6 +173,7 @@ Corresponding angles are equal.
 
 In the following figure, AB ∥ CD & XY is a transversal line.
 <img src="../../../media/geometry/line-11.png" alt="Geometry" style="width:54%;height:54%;">
+
 In the above figure, the corresponding angles are:
 * ∠Angle 1 = ∠Angle 5 = x°
 * ∠Angle 2 = ∠Angle 6 = y°
@@ -186,6 +188,7 @@ The other way round is also true. If two lines are intersected by a transversal 
 
 Pairs of alternate (interior or exterior) angles are equal.
 <img src="../../../media/geometry/line-11.png" alt="Geometry" style="width:54%;height:54%;">
+
 In the above figure, the alternate angles are:
 * ∠Angle 3 = ∠Angle 5 = x° (interior alternate angles)
 * ∠Angle 4 = ∠Angle 6 = y° (interior alternate angles)

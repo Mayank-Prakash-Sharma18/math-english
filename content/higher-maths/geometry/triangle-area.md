@@ -111,7 +111,7 @@ If two triangles have the same base (or same base length), and are between the s
 <img src="../../../media/geometry/triangle-15.png" alt="Geometry" style="width:90%;height:90%;">
 If AB ∥ PQ, then, Area of ∆ABC = Area of ∆ABD
 
-This is beacuse area of a triangle is half of the product of its base and height. If heights of two triangles are the same and the length of their bases too (as is the case above), then they obviously will have the same area. 
+This is because area of a triangle is half of the product of its base and height. If heights of two triangles are the same and the length of their bases too (as is the case above), then they obviously will have the same area. 
 
 {{% alert note %}}
 If a triangle and a parallelogram have the same base (or same base length), and are between the same parallel lines (i.e. their height is the same), then the area of the triangle will be half of area of the parallelogram.
@@ -130,7 +130,7 @@ That is, $\frac{Area \hspace{1ex} of \hspace{1ex} ∆ABD}{Area \hspace{1ex} of \
 For Example, Median of a triangle will divide it into two triangles having equal area.
 {{% /alert %}}
 
-This is beacuse area of a triangle is half of the product of its base and height. If heights of two triangles are the same (as is the case above), then their area will be in the same ratio as their bases. 
+This is because area of a triangle is half of the product of its base and height. If heights of two triangles are the same (as is the case above), then their area will be in the same ratio as their bases. 
 
 ### Property 4: Maximum Possible Area
 

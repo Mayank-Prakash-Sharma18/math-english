@@ -75,7 +75,7 @@ has/have/had + been ($V_3$) + $V_4$ – perfect continuous tenses
 {{% alert note %}}
 be + $V_3$ – passive voice 
 
-We will study active-passive voice is a separate module.
+We will study active-passive voice in a separate module.
 {{% /alert %}}
 
 {{% alert note %}}

@@ -14,6 +14,8 @@ menu:
 weight: 3
 ---
 
+<img src="../../../media/articles/article-types.png" alt="types of articles" style="width:99%;height:99%;">
+
 There are two Articles – a (or an) and the.
 
 <img src="../../../media/articles/types-of-articles.png" alt="types of articles" style="width:72%;height:72%;">

@@ -33,7 +33,7 @@ There are some adjectives that we can use with both countable and uncountable no
 In case of uncountable nouns we generally use ‘a lot’ of instead of ‘much’. <br>
 There is ***a lot of*** milk left for all of us. (milk – uncountable noun)
 
-We can use ‘a lot’ of even in case of countable nouns. <br>
+We can use ‘a lot of' even in case of countable nouns. <br>
 There are ***a lot of*** bullets in his pocket. (bullets – countable noun)
 
 Similarly, ‘some’ can be used with both countable and uncountable nouns. <br>

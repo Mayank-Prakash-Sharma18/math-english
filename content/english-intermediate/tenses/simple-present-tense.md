@@ -293,7 +293,7 @@ In general, in case of simple present tense, we use “do/does” to make a sent
 Virat ***does*** not like Rohit. <br>
 ***Do*** you know?
 
-Exception: In case of “is/am/are” use only these helping verbs (is/am/are) to make the sentence negative and interrogative.
+Exception: In case of “is/am/are” use only these helping verbs (is/am/are) to make the sentence negative or interrogative.
 
 Mragank ***is*** a gambler. (Positive Declarative Sentence) <br>
 Mragank ***is*** not a gambler. (Negative Declarative Sentence) <br>

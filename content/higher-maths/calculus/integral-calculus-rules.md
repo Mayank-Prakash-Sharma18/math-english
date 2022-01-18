@@ -63,9 +63,9 @@ We use this rule to integrate product of two functions.
 {{% alert note %}}
 Here, we need to choose which function will take the place of f and which one will come in place of g. Our aim will be to ensure that our calculation is the least complex. 
 
-So, f should be a function that gets simpler after differenciation, and g should be a function that gets simpler after integration. 
+So, f should be a function that gets simpler after differentiation, and g should be a function that gets simpler after integration. 
 
-In general, we should choose the following functions in place of f (i.e. for differenciation), in that order:
+In general, we should choose the following functions in place of f (i.e. for differentiation), in that order:
 * Inverse trigonometric functions: $sin{-1}x, cos{-1}x, tan{-1}x$
 * Logarithmic functions: ln x, log x
 * Algebraic functions: $x^2$, $x^3$, $x^4$

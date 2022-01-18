@@ -160,7 +160,7 @@ These are of 6 types. (we use these modals to give a specific advise)
 * Would better / Would rather / Would sooner
 
 {{% alert note %}}
-In helping verbs, except auxiliary verbs, all the other three (modals, marginal and idiomatic modals) are used to change the mood in a sentence.  
+In helping verbs, except auxiliary verbs, all the other three (pure, marginal and idiomatic modals) are used to change the mood in a sentence.  
 
 So, Modals are “Mood makers” and not “Sentence Makers”. There won’t be a grammatical error in a sentence even if modal is removed.
 

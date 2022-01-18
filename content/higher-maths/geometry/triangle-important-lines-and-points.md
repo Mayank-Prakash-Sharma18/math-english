@@ -70,6 +70,7 @@ Medians divide the triangle into six small triangles. Each of these small triang
 
 A line segment (AQ) joining any vertex and midpoint of a median (P), if extended, divides the third side (CB) into a ratio of 1 : 2.
 <img src="../../../media/geometry/triangle-lines-points-10.png" alt="Geometry" style="width:90%;height:90%;">
+
 If CD is median, and P is midpoint of CD then: 
 * CQ : QB = 1 : 2 OR
 * CQ = $\frac{1}{3}$ CB
@@ -165,9 +166,9 @@ The three altitudes of any triangle are always concurrent. That is, they always 
 
 * In any equilateral triangle, the centroid and orthocentre are the same point.
 
-*	In isosceles triangle vertex, centroid and orthocentre are collinear points.
+*	In isosceles triangle, vertex, centroid and orthocentre are collinear points.
 
-*	In scalene triangle vertex, centroid and orthocentre are three non-collinear points.
+*	In scalene triangle, vertex, centroid and orthocentre are three non-collinear points.
 
 {{% alert note %}}
 Sum of three altitudes of a triangle < Sum of three sides of the triangle
@@ -254,7 +255,7 @@ The angle made by angular bisectors of any two exterior angles = 90° - $\frac{1
 
 ##### Angular Bisectors of interior angle and exterior angle
 
-The angle made by angular bisectors of one interior and one exterior angle = $\frac{1}{2}$ × Third angle..
+The angle made by angular bisectors of one interior and one exterior angle = $\frac{1}{2}$ × Third angle.
 <img src="../../../media/geometry/triangle-lines-points-26.png" alt="Geometry" style="width:99%;height:99%;">
 ∠ADB = $\frac{1}{2}$ ∠ACB
 

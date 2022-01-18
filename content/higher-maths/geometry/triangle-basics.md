@@ -18,6 +18,7 @@ weight: 6
 
 A triangle is a plane and closed geometrical figure having three sides, i.e. it is bounded by three line segments. 
 <img src="../../../media/geometry/triangle-1.png" alt="Geometry" style="width:72%;height:72%;">
+
 So, a triangle has: 
 * three sides 
 * three angles  
@@ -99,7 +100,7 @@ In other words, we can also say that if you ever find that in a triangle, the su
 In an obtuse angled triangle, one of the angles is an obtuse angle, i.e. more than 90°. 
 <img src="../../../media/geometry/triangle-6.png" alt="Geometry" style="width:99%;height:99%;">
 
-In acute angled triangle:
+In obtuse-angled triangle:
 
 * Sum of two other angles (apart from the obtuse angle) would be less than 90°. (Reason: If it's not, then the third angle will have to be less than 90°. In that case, the triangle will not be an obtuse-angled triangle.)
 

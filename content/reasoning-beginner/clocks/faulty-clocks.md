@@ -14,6 +14,8 @@ menu:
 weight: 9
 ---
 
+<img src="../../../media/clocks/faulty-clocks.png" alt="clock" style="width:99%;height:99%;">
+
 The questions framed on this topic will generally ask you to find:
 * the time at which the inaccurate clock will show the correct time. 
 * the total time gained or lost in an inaccurate clock.
@@ -49,7 +51,7 @@ Explanation 1: <br><br>
 
 Both hands of a clock overlap every 65$\frac{5}{11}$ 𝑚𝑖𝑛 when the clock is working perfectly.<br>
 But the minute and hour hands of the clock in question overlap every 66 minutes. <br>
-Thus in 66 minutes, the time lost = 66 𝑚𝑖𝑛⁡ - 65$\frac{5}{11}$ 𝑚𝑖𝑛 = $\frac{6}{11}$ minutes. <br><br>
+Thus in 66 minutes, the time lost = 66 𝑚𝑖𝑛 - 65$\frac{5}{11}$ 𝑚𝑖𝑛 = $\frac{6}{11}$ minutes. <br><br>
 
 Then, time lost in 1 minute = $\frac{6}{11}$ x $\frac{1}{66}$ = $\frac{1}{121}$ minutes <br>
 So, time lost in 60 minutes (i.e. in 1 hr) = 60 x $\frac{1}{121}$ = $\frac{60}{121}$ minutes <br>

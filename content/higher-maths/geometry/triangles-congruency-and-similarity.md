@@ -140,7 +140,7 @@ Corresponding angles are similar/equal: ∠A = ∠P; ∠B = ∠Q; ∠C = ∠R
 Corresponding sides may or may not be equal. 
 
 
-### Properties related to Congruency of triangles
+### Properties related to Similarity of triangles
 
 #### Property 1
 
