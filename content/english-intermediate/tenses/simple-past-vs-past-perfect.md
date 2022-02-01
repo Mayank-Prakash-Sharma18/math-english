@@ -67,7 +67,7 @@ We can rephrase the previous paragraph as follows:
 
 My parents ***migrated*** to India in September. There ***had been*** large scale riots in Rawalpindi in August 1947. Thereafter, we ***moved*** to Ireland in 1983. (migrated, moved – simple past tense; had been – past perfect tense)
 
-The riots too place earlier, but we mentioned it later in the paragraph. That’s why we used past perfect for it. 
+The riots took place earlier, but we mentioned it later in the paragraph. That’s why we used past perfect for it. 
 
 So keep in mind that to refer to an event out of order, we use past perfect (i.e. for something that happened before the last event we talked about). 
 

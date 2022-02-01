@@ -71,7 +71,7 @@ She cooks the food ***herself***. (herself – emphasizing the subject ‘she’
 
 ##### Emphasising the Object
 
-But when an emphatic pronoun emphasizes an object, we will put reflexive pronoun just after the object only.
+But when an emphatic pronoun emphasizes an object, we will put emphatic pronoun just after the object only.
 
 I met Aanya ***herself***. (correct; Aanya – object; herself – emphasizing the object)
 

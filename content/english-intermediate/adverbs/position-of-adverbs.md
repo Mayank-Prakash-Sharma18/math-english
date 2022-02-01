@@ -79,7 +79,7 @@ The President ***yesterday*** announced that Article 2893 will be abolished.
 
 #### Concept 1
 
-Some verbs go in end position too.
+Some adverbs go in end position too.
 
 Subject + Verb + Adverb 
 

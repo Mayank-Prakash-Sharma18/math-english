@@ -1,6 +1,6 @@
 ---
-title: Comparison of Adverbs  
-linktitle: Comparison of Adverbs  
+title: Degrees of Comparison of Adverbs  
+linktitle: Degrees of Comparison of Adverbs  
 toc: true
 type: docs
 date: "2021-03-27T00:00:00+01:00"

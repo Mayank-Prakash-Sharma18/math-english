@@ -309,7 +309,7 @@ There are a couple of ways in which we can compare things/persons using Superlat
 
 Compare the following sentences:
 
-Matthew is the ***<span class="mak-text-color-incorrect">laziest</span>*** boy in the team. (correct) <br>
+Matthew is the ***<span class="mak-text-color">laziest</span>*** boy in the team. (correct) <br>
 Matthew is the ***<span class="mak-text-color">least industrious</span>*** boy in the team. (correct)
 {{% /alert %}}
 

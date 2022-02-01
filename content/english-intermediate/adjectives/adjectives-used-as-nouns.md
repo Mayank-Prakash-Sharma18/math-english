@@ -22,7 +22,7 @@ The poor ***<span class="mak-text-color-incorrect">is</span>*** better than the 
 The poor ***<span class="mak-text-color">are</span>*** better than the rich. (correct; are – plural verb)
 
 Blessed ***<span class="mak-text-color-incorrect">is</span>*** the ignorant. (incorrect) <br>
-Blessed ***<span class="mak-text-color">are</span>*** the ignorant. (incorrect; are – plural verb)
+Blessed ***<span class="mak-text-color">are</span>*** the ignorant. (correct; are – plural verb)
 
 We should never look down upon the ***<span class="mak-text-color-incorrect">poors</span>***. (incorrect) <br>
 We should never look down upon the ***<span class="mak-text-color">poor</span>***. (correct)
@@ -49,7 +49,7 @@ He is a lover of ***the beautiful***. (i.e. beauty in general)
 
 ## Adjectives that actually become nouns
 
-Some adjectives actually become nouns. So, we can use them in singular, as well as plural forms. 
+Some adjectives actually became nouns. So, we can use them in singular, as well as plural forms. 
 
 Here are some of such adjectives working as noun:
 

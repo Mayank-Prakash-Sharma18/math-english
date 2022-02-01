@@ -130,7 +130,7 @@ E.g. besides, to-day, to-morrow; overboard.
 
 Some adverbs have two forms:
 
-* one ending -ly and 
+* one ending in -ly and 
 * the other not ending in -ly (which is the same as the Adjective). 
 
 ### Both forms with same meaning

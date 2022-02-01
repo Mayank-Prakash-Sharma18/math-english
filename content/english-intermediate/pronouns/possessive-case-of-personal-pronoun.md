@@ -71,7 +71,7 @@ his + noun → his ; her + noun → hers <br>
 their + noun → theirs 
 
 {{% alert note %}}
-Unlike other personal pronouns (e.g. ours, yours, its, hers, theirs), the possessive adjective one’s requires an apostrophe before the ‘s’. 
+Unlike possessive pronouns (e.g. ours, yours, its, hers, theirs), the possessive adjective one’s requires an apostrophe before the ‘s’. 
 
 Also, just like other possessive adjectives (e.g. my, our, your, his, her, its, their), we need to use a noun/gerund after it. 
 
@@ -94,7 +94,7 @@ Your brother is an inspector but ***<span class="mak-text-color">my brother</spa
 {{% alert note %}}
 Some books refer both Possessive Adjectives and Possessive Pronouns as Possessive Pronouns only. As per them, there are two types of Possessive Pronouns:
 * Dependent form of Possessive Pronouns, i.e. those Possessive pronouns that need a noun.
-* Independednt form of Possessive Pronouns, i.e. those Possessive pronouns that do not need a noun.
+* Independent form of Possessive Pronouns, i.e. those Possessive pronouns that do not need a noun.
 {{% /alert %}}
 
 <br><hr><br>

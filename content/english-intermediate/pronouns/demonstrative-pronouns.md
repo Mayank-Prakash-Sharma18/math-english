@@ -50,7 +50,7 @@ this, these, that, those, such etc. can also function as (Demonstrative) adjecti
 
 'This' is singular and so it is used for a singular object/person that is placed closer. 
 
-'These' is plural and is used for more than one object/person that are placed far.
+'These' is plural and is used for more than one object/person that are placed closer.
 
 ***This*** is a dog. (dog – singular noun, so we used this) <br>
 ***These*** are dogs. (dogs – plural noun, so we used these)

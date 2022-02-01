@@ -20,10 +20,10 @@ In this article we will study how to make possessives of nouns and pronouns.
 
 ### When noun is singular
 
-When the noun is singular, the possessive case is formed by adding ‘s to the noun. <br>
+When the noun is singular, the possessive case is formed by adding 's to the noun. <br>
 E.g. the ***girls’s*** laptop; the ***king's*** crown. 
 
-To make the possessive form of names ending in -s we can add either apostrophe (‘) or ‘s’. <br>
+To make the possessive form of names ending in -s, we can add either apostrophe (') or 's. <br>
 E.g. It’s Sam ***Jones'*** (or Sam ***Jones’s***) villa.
 
 The letter s is omitted in a few words where <strong>too many hissing sounds</strong> would come together. <br>
