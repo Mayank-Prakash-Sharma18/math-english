@@ -22,6 +22,70 @@ In this article we will try to learn RC in more detail, by solving some RC sets.
 * How to select the most appropriate option, if more than 1 option are correct.
 * How to select the least incorrect option, if all the given options seem incorrect. 
 
+
+## Understanding Assumption
+
+Assumption is something that was kept in mind (taken into consideration) by the author when he wrote that passage. 
+
+Assumptions are things that we presume/presuppose and take for granted. There may be no fact, observation or evidence backing up the assumptions. So, assumptions may be justified or unjustified, logical or illogical.
+
+They are kind of a prism through which we see the world around us. Same is true for an author who writes a RC passage. 
+
+{{% alert note %}}
+When we are asked to find out the assumption(s) in a passage, it basically means that we have to find out the assumption(s) that the writer/author had in mind while writing that literary piece. 
+{{% /alert %}}
+
+Let's see an example.
+
+##### Q. Read the following passage and answer the question that follows. Your answer to the given question should be based on the passage only.
+
+Currently, Indian society is divided into those who feel that an insidious Western influence has turned us into stunted copycats and that we should carefully reexamine our glorious past to appreciate our uniqueness. The others, a far smaller number, fear that self-congratulatory ethnocentrism prevails, closing our minds to facts from around the world. The truth, as always, lies somewhere in between. Even in India, the winds of change are impossible to miss. The stories we have been told about ourselves, family diktats on how we should live, seem unconvincing, at odds with global reality. Laws support LGBTQ rights, single working women are a potent force and you get the sense that the youth are impatiently shedding all inhibition. The ‘wise elder’ of Indian households commands respect but has lost the control he once exerted.
+
+Q. With reference to the above passage, the following assumptions have been made:
+
+1. A section of the Indian population consider their culture superior to any other culture. <br>
+2. Our culture has been completely influenced by western culture.
+
+Which of the above assumptions is/are valid? <br>
+(a) 1 only <br>
+(b) 2 only <br>
+(c) Both 1 and 2 <br>
+(d) Neither 1 nor 2
+
+
+Explanation:<br>
+<div class="Exp">
+
+Assumption 1 is incorrect. The passage nowhere mentions such a feeling of superiority. The lines, *“those who feel that an insidious Western influence has turned us into stunted copycats and that we should carefully reexamine our glorious past to appreciate our uniqueness.”* mean that such population does not want a blind copying of the west. Here, there is talk of a glorious i.e. valuable past. However, this cannot be equated with a feeling of superiority. There is a difference between valuing something and a feeling of superiority about it. 
+
+Assumption 2 is incorrect. The passage mentions, *“The truth, as always, lies somewhere in between.”* This implies the present situation lies somewhere in between the influence of western culture and holding on to our culture. So, this assumption is incorrect due to the use of the term ‘completely’. 
+
+{{% alert note %}}
+If you think that Assumption 1 is correct, then you probably are confused between:
+* Assumption of the passage
+* Assumption of the author
+
+Well, they are the same. Whenever we are asked to find the assumption(s) behind a passage, we are basically being asked about the assumption(s) that the author had while he wrote that passage. 
+
+Let's analyze what the author has written. 
+
+He's basically mentioning two kinds of people in Indian society:
+* For the first group he writes - *Currently, Indian society is divided into those who feel that an insidious Western influence has turned us into stunted copycats and that we should carefully reexamine our glorious past to appreciate our uniqueness.* These people do not want to be copycats. They want to preserve their uniqueness. It does not mean that they feel superior. They just want to preserve their way of life. 
+* For the second group he writes - *The others, a far smaller number, fear that self-congratulatory ethnocentrism prevails, closing our minds to facts from around the world.* They think that the first group has ***, which entails in it a sense of superiority. However, it's just the opinion of the second group regarding the first group. The author has not assumed this to be true. He's just writing what different groups of people think. 
+
+The author starts giving his views from the third line onwards, where he says *"The truth, as always, lies somewhere in between."* 
+
+So, the author has written the first two lines just to share with us what various sections of Indian society think. He's sharing this as a fact. These are not his assumptions. 
+
+In fact, the author seems to disagree with both of them, when he says *"The truth, as always, lies somewhere in between."* 
+
+This is a tactic that many good authors and columnists in leading newspapers adopt. ***They will present you some views and opinions of others at the start of the article, only to refute them one by one in the rest of the article.*** 
+{{% /alert %}}
+
+Answer: (d)
+</div> <br>
+
+
 ## How to select the most appropriate option? 
 
 ##### Q. Read the following passage and answer the question that follows. Your answer to the given question should be based on the passage only.
@@ -48,6 +112,7 @@ Option (d) is correct. The option mentions psychophysical development. The psych
 
 Answer: (d)
 </div> <br>
+
 
 ## How to select the least incorrect option? 
 

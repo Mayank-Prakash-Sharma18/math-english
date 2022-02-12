@@ -135,7 +135,7 @@ Assumptions are something that we have already learnt, or experienced and do not
 
 For example, a leftist person will try to find economic causes for all the problems in the world, while a religious person may assume that everything happens due to the 'will' of the God. 
 
-While we make conclusions and inferences based on facts, evidences or observations; assumptions are things that we presume/presuppose and take for granted. There is no fact, observation or evidence backing up the assumptions. So, assumptions may be justified or unjustified, logical or illogical. 
+While we make conclusions and inferences based on facts, evidences or observations; assumptions are things that we presume/presuppose and take for granted. There may be no fact, observation or evidence backing up the assumptions. So, assumptions may be justified or unjustified, logical or illogical. 
 
 For example, if you see anyone sad, you can infer that the person must be having problems in his life. You have inferred it using your observation, by seeing the gloom on his face. However, if you think that he must be said because of financial issues or relationship issues, then this is your assumption. Probably because you have had been sad or depressed due to these reasons in the past, and so you believe that the other person may also be sad because of the same reasons. You cannot tell the reason of someone's sadness by just observing his face. 
 
@@ -146,8 +146,8 @@ That is, Assumption + Facts/Evidences = Conclusion/Inference
 So, assumption is the base, using which a writer writes a passage and gives his critical message. Then using that information provided in the passage, we draw conclusions and inferences.
 
 In summary, we can say that: <br>
-* Inference/Conclusion is drawn (understood)  by the reader.
-* Assumption is something that was kept in mind (taken into consideration) by the author when he wrote that.
+* Inference/Conclusion is drawn (understood) by the reader.
+* Assumption is something that was kept in mind (taken into consideration) by the author when he wrote that passage.
 
 {{% alert note %}}
 ###### Strengthening and Weakening of Argument

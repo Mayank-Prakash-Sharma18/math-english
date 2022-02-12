@@ -75,6 +75,35 @@ So, if the first day is Friday, the last day will also be Friday.<br>
 Answer: (a)
 </div> <br>
 
+##### Q. If in a particular year December had 9 weekend days (Saturdays and Sunday), then in that year January had how many weekends?
+<pre>(a) 8     (b) 9    (c) 10    (d) None of these </pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Here we have two cases:
+
+***Case I:***
+
+If December starts with Thursday, then it will have 5 Saturdays and 4 Sundays, i.e. a total of 9 weekend days. In this case 31st December will be Saturday.
+
+So, the 1st January of that year must have been either Saturday (For non-leap year) or Friday (For leap year). 
+
+So, January must have had 10 weekend days. 
+
+***Case II:*** 
+
+If December starts with Sunday, then it will have 4 Saturdays and 5 Sundays, i.e. a total of 9 weekend days. In this case 31st December will be a Tuesday. 
+
+Hence, 1st January will be either Tuesday (For non-leap year) or Monday (For leap year). 
+
+So, January will have 8 weekend days. 
+
+Hence, the number of weekend days in January of that year must have been 8 or 10.
+
+Answer: (d)
+</div> <br>
+
 ##### Q. Ram was born on 29th February. He celebrated his birthday falling on exactly 29th February 2008 for the fourth time. In which year he was born?
 <pre>(a) 1992     (b) 2004    (c) 2000    (d) 1996 </pre>
 

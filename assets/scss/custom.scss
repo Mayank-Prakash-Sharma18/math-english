@@ -150,6 +150,17 @@ body {
   color: white;
 }
 
+
+// To block Disqus Ads. 
+// The Disqus ad section comes with an iframe tag which has an attribute sandbox. So you just need to set the display of any iframe element to none that has sandbox defined. 
+// Caution: Be careful if you have any other iframe tags defined in your website which has the sandbox attribute. This might remove all of them.
+//Source: https://stackoverflow.com/questions/49131980/how-do-i-disable-or-hide-the-unwanted-disqus-ads-on-my-website
+
+iframe[sandbox]:not([sandbox=""]) {
+  display: none !important;
+}
+
+
 // CSS Code for responsive images, with media queries (Source: https://subscription.packtpub.com/book/web-development/9781849695442/1/ch01lvl1sec12/resizing-an-image-using-media-queries)
 @media screen and ( max-width: 1024px ) {
   img.responsive { width: 100%; height: 100% }
