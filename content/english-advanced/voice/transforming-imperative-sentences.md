@@ -45,12 +45,14 @@ Passive Voice I: Let the lights be switched off.
 Method II: You are ordered + (to + $V_1$) + object. <br>
 Passive Voice II: You are ordered to switch off the lights. 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Apart from ordered, we can use requested, forbidden, commanded, suggested, advised, prescribed, recommended, offered, proposed, allowed, permitted, referred etc, depending on the context and the kind of imperative sentence.  
-{{% /alert %}}
+{{% /alert %}} -->
 
-Method III: Passive subject + is/am/are/was/were + to be + $V_3$ <br>
-Passive Voice III: The lights are to be switched off. 
+<!-- Commented out for ebook sake -->
+<!-- Method III: Passive subject + is/am/are/was/were + to be + $V_3$ <br>
+Passive Voice III: The lights are to be switched off.  --> -->
 
 ### Negative orders
 
@@ -68,8 +70,9 @@ Passive Voice II: You are ordered not to switch off the lights.
 We can also say – You are forbidden to switch off the lights.
 {{% /alert %}} 
 
-Method III: Passive subject + is/am/are/was/were + not to be + $V_3$ <br>
-Passive Voice III: The lights are not to be switched off. 
+<!-- Commented out for ebook sake -->
+<!-- Method III: Passive subject + is/am/are/was/were + not to be + $V_3$ <br>
+Passive Voice III: The lights are not to be switched off.  -->
 
 ### Positive request
 
@@ -81,9 +84,10 @@ Please switch off the lights.
 Passive Voice: You are requested+ (to + $V_1$) + object. <br>
 You are requested to switch off the lights. 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 When ‘please’ is used in active voice then we use ‘requested’ in passive voice. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Negative request
 

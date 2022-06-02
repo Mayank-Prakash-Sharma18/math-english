@@ -22,11 +22,12 @@ There are three categories of interrogative sentences from active-passive perspe
 
 * Type 3: interrogative sentence of ‘non-wh family’
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 * The Passive voice of Affirmative sentences will be in Affirmative form.
 * The Passive voice of Negative sentences will be in Negative form.
 * The Passive voice of Interrogative sentences will be in Interrogative form.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ## Type 1 'wh family'
 

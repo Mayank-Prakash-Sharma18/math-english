@@ -77,15 +77,16 @@ We use Pattern 2: modal + have + $V_3$ → modal + have + been + $V_3$, in case 
 could have, should have, would have, must have, may have, might have. 
 {{% /alert %}}
 
-{{% alert note %}}
-If any form of 'be' is used as main verb, then that sentence cannot be turned into passive voice.
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
+If any form of 'be' is used as the main verb, then that sentence cannot be turned into passive voice.
 
 For example, have a look at the following active voice sentences:
 
 I ***am*** rich. (am – main verb)
 
 She should ***be*** grateful. (be – main verb)
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### two- and three-word verbs
 
@@ -95,7 +96,8 @@ We must not forget to use these adverbs and prepositions in passive voice.
 
 <img src="../../../media/voice/active-passive-voice10.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-### Passive Voice with Infinitives and Gerunds
+<!-- Commented out for ebook sake -->
+<!-- ### Passive Voice with Infinitives and Gerunds
 
 Apart from modals, there are some other verbs that are followed by Infinitives. With them we use Infinitive Passive Voice. 
 
@@ -111,9 +113,11 @@ The kids are excited ***about being taken*** to the museum.
 We can also rewrite the above sentence as:
 
 The kids are excited ***to be taken*** to the museum.
-{{% /alert %}}
+{{% /alert %}} -->
 
-### Verbs bid, help and make
+
+<!-- Commented out for ebook sake -->
+<!-- ### Verbs bid, help and make
 
 Verbs bid, help and make:
 
@@ -132,8 +136,7 @@ Active voice: They must help us ***win***. (win – bare infinitive) <br>
 Passive voice: We must be helped by them ***to win***. (to win – to-infinitive)
 
 Active voice: I made him ***clean*** all the dishes. (clean – bare infinitive) <br> 
-Passive voice: He was made ***to clean*** all the dishes by me. (to clean – to-infinitive)
-
+Passive voice: He was made ***to clean*** all the dishes by me. (to clean – to-infinitive) -->
 
 <br><hr><br>
 
@@ -156,7 +159,8 @@ Examples:
 
 <img src="../../../media/voice/active-passive-voice12.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 ***A Miscellaneous concept***
 
 Active voice: Subject + need/want/require + $V_4$ <br>
@@ -164,7 +168,7 @@ Passive voice: Subject + need/want/require + to be + $V_3$
 
 Your hair needs cutting. <br>
 Your hair needs to be cut.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Active-Passive patterns with Perfect Tenses 
 
@@ -185,7 +189,7 @@ Examples:
 
 When a verb is changed from active voice to passive voice, the object of the transitive verb in the active voice becomes the subject of the verb in the passive voice.
 
-We cannot make passive voice of sentences having no object (e.g. in case of intransitive verbs). Thus ***only transitive verbs can be used in the passive voice***. 
+We cannot make passive voice of sentences having no object (e.g. in case of intransitive verbs). Thus, ***only transitive verbs can be used in the passive voice***. 
 
 <img src="../../../media/voice/active-passive-voice.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
@@ -199,7 +203,7 @@ Verbs that can be followed by either ***indirect object + direct object*** or **
 
 <img src="../../../media/voice/active-passive-voice1.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-An indirect object usually denotes the person to whom or for whom something is given or done, while a direct object usually denotes a thing. The passive form we choose depends on which one is more appropriate in a particular context. But, it is more usual for passive constructions to begin with the person, i.e. indirect object.
+An indirect object usually denotes the person to whom or for whom something is given or done, while a direct object usually denotes a thing. The passive form we choose depends on which one is more appropriate in a particular context. But it is more usual for passive constructions to begin with the person, i.e. indirect object.
 
 Let’s see some more examples:
 
@@ -213,8 +217,8 @@ Some verbs can’t be followed by two objects. They are always followed by a sin
 Other verbs like this are: give, lend, offer, promise, sell, teach, tell, throw. 
 {{% /alert %}}
 
-
-### Verb + Preposition + Object
+<!-- Commented out for ebook sake -->
+<!-- ### Verb + Preposition + Object
 
 Some sentences have no direct or indirect objects but only prepositional objects. 
 
@@ -243,7 +247,7 @@ I ***call*** my dog tiger. (active voice)   (I – subject; call – verb; my �
 My dog ***is called*** tiger by me. (passive voice) (dog  - receiver in subjective case; me – doer in objective case)
 
 Selectors ***have elected*** Mr. A.B. de Villiers captain of the South African cricket team. (active voice) <br>
-Mr. A.B. de Villiers ***has been elected*** captain of the South African cricket team by selectors. (passive voice)
+Mr. A.B. de Villiers ***has been elected*** captain of the South African cricket team by selectors. (passive voice) -->
 
 ### Subject vague/understood
 
@@ -261,11 +265,12 @@ Sometimes, the subject is not clear (vague noun / indefinite pronoun), e.g. peop
 
 <img src="../../../media/voice/active-passive-voice5.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 Sometimes, we are given a sentence in passive voice without ‘by object’ (i.e. without the doer). In such cases, we are supposed to use that subject in active voice that generally does that work (because in active voice subject is necessary). 
 
-<img src="../../../media/voice/active-passive-voice6.png" alt="transformation to passive voice" style="width:99%;height:99%;">
+<img src="../../../media/voice/active-passive-voice6.png" alt="transformation to passive voice" style="width:99%;height:99%;"> -->
 
 <br><hr><br>
 

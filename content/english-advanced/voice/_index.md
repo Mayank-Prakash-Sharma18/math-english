@@ -34,6 +34,7 @@ In this module, we will focus on the ***Voice***. However, to understand it bett
 
 Voice - form of a Verb which shows whether Subject ***does something*** or ***has something done to it***.
 
+
 ## Types of Voices
 
 ### Active Voice
@@ -56,7 +57,7 @@ Bhutan is helped by India. (Bhutan – passive subject; is – helping verb; hel
 
 <img src="../../../media/voice/active-passive-voice18.png" alt="transformation to passive voice" style="width:99%;height:99%;">
 
-So to make Passive voice we use: be + $V_3$ (Past Participle)
+So, to make Passive voice we use: be + $V_3$ (Past Participle)
 
 {{% alert note %}}
 Sometimes we also form the passive using the verb 'to get' or 'to have' (instead of the verb 'to be').
@@ -89,7 +90,7 @@ Bhutan is ***helped*** by India. (Bhutan – passive subject/receiver; is – he
 Receiver is also called as ***Patient***, while Doer is also called as ***Agent***.
 {{% /alert %}}
 
-by + object comes for $V_3$,  so it should be kept near $V_3$.
+'by + object' comes for $V_3$,  so it should be kept near $V_3$.
 
 In the middle one or two words can come, but ‘by + object’ should not be very far from $V_3$.
 
@@ -185,15 +186,16 @@ Passive voice: The whole posh community of Orange county was ***engulfed in*** t
 Active voice: He knows me. <br>
 Passive voice: I am ***known to*** him. 
 
-### Surprised
+<!-- Commented out for ebook sake -->
+<!-- ### Surprised
 
 'Surprised' is followed by 'at' when the action was contrary to our expectation. <br>
 All guests in the party were ***surprised at*** his rude behavior.
 
 In all other cases 'surprised by' is used. <br>
-Scientists were ***surprised by*** the result of the Young's double slit experiment.
+Scientists were ***surprised by*** the result of the Young's double slit experiment. -->
 
-### Instrument
+<!-- ### Instrument
 
 We use 'with' (not by) to talk about an instrument used by the agent. 
 
@@ -203,5 +205,5 @@ Active Voice: Somebody hit the cat with a stick. <br>
 Passive Voice: The cat was hit ***with a stick***. 
 
 Active Voice: A boy hit the cat. <br>
-Passive Voice: The cat was hit ***by a boy***. 
+Passive Voice: The cat was hit ***by a boy***.  -->
 
