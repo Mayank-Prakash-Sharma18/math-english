@@ -67,6 +67,20 @@ Hence, the total number of ways in which these men and women can be arranged = 2
 Answer: (b)
 </div> <br>
 
+##### Q. How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5 ? 
+<pre>(a) 8   (b) 12    (c) 16   (d) 24</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+We need to find three-digit numbers in which:
+* All digits are different, and all digits are odd. So, the three digits must be from amongst 1, 3, 5, 7, and 9. 
+* The number is divisible by 5, i.e. the units digit is 5. 
+
+The number of ways we can fill the first two digits from amongst 4 distinct digits = 4 × 3 = 12.
+
+Answer: (b)
+</div> <br>
 
 ### Type 1c: Just Arranging required (Without any Condition)
 
@@ -308,5 +322,38 @@ Total number of possible arrangements when both As are together = 4! = 24
 Total number of permutations when A’s are apart = Total number of permutations possible – Total number of permutations when A’s are together = 60 - 24 = 36
 
 Answer: (c)
+</div> <br>
+
+
+## Miscellaneous Questions
+
+##### Q. There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. In how many ways can they be arranged so that each row should contain at least one cup of coffee?
+<pre>(a) 18   (b) 27    (c) 54   (d) 81</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+The cups will be arranged in a 3 × 3 matrix. 
+<img src="../../../media/p-and-c/permutation-1.png" alt="Permutation Questions" style="width:27%;height:27%;">
+
+Now, let’s consider all the possible cases.
+
+Case 1: Each row has 2 cups of coffee and 1 cup of tea.
+<img src="../../../media/p-and-c/permutation-2.png" alt="Permutation Questions" style="width:27%;height:27%;">
+
+One tea cup can be placed in a row in 3 ways. <br>
+So, Possible arrangements wherein all rows have 2 coffee cups= 3 × 3 × 3 = 27 ways
+
+Case 2: One row has 3 cups of coffee. <br>
+In such a case, one of the rows will have 2 cups of coffee and the other will have 1 cup of coffee.  
+<img src="../../../media/p-and-c/permutation-3.png" alt="Permutation Questions" style="width:90%;height:90%;">
+
+If the first row has 3 coffee cups, then the possible arrangements = 3 × 3 = 9 ways <br>
+The rows having 3, 2 and 1 coffee cups can be arranged in 3! = 6 ways <br>
+So, Possible arrangements wherein one row has 3 coffee cups = 9 × 6 ways = 54 ways
+
+Therefore, total possible arrangements = 27 + 54 = 81 ways 
+
+Answer: (d)
 </div> <br>
 

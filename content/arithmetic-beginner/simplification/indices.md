@@ -231,3 +231,31 @@ So, the numbers in ascending order will be: $5^{20}$ < $5^{24}$ = $5^{24}$ <br>
 or $625^5$ < $25^{12}$ = $125^8$
 </div> <br>
 
+##### Q. Find the smallest number from amongst the following numbers. <br>
+$2^{40}$, $4^{18}$, $8^{12}$, $3^{21}$ <br>
+(a) $2^{40}$ <br>
+(b) $4^{18}$ <br>
+(c) $8^{12}$ <br>
+(d) $3^{21}$
+
+Explanation:<br>
+<div class="Exp">
+
+The given numbers are: $2^{40}$, $4^{18}$, $8^{12}$, and $3^{21}$. <br>
+We can also write them as: $2^{40}$, $2^{36}$, $2^{36}$, and $3^{21}$. (as 4 = $2^2$, and 8 = $2^3$)
+
+So, we basically need to find the smallest one from among $2^{36}$, and $3^{21}$. As we cannot have two correct answers, it must be $3^{21}$. 
+
+Answer: (d)
+
+{{% alert note %}}
+Sometimes, in Aptitude exams you need not even solve the entire question. This saves you some extra seconds and it eventually makes all the difference. But if you are a typical Maths student, this incomplete answer may cause you to feel a mild Zeigarnik effect. So, here’s the rest of the solution: 
+
+We can rewrite $2^{36}$ and $3^{21}$ as: <br>
+$2^{12}$ and $3^7$ <br>
+or, 4096 > 2187
+
+Hence, $3^{21}$ is the smallest number. 
+{{% /alert %}}
+</div> <br>
+

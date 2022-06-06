@@ -355,3 +355,35 @@ And so, 100% ≡ (25 × 3)/5 = 15 hours
 
 So, distance = Speed × Time = 20 × 15 = 300 km
 </div><br>
+
+
+## Miscellaneous Questions
+
+##### Q. A man started from home at 14:30 hours and drove to a village, arriving there when the village clock indicated 15:15 hours. After staying, for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours. As compared to the clock at home, the village clock is <br>
+(a) 10 minutes slow <br>
+(b) 5 minutes slow <br>
+(c) 10 minutes fast <br>
+(d) 5 minutes fast
+
+Explanation:<br>
+<div class="Exp">
+
+Total time taken by the man to come back home = 16 – 14.5 = 1.5 hours = 90 minutes <br>
+Out of which he stayed in the village for 25 minutes. <br>
+So, his total travelling time = 90 – 25 = 65 minutes
+
+The return route was 1.25 times the initial route. So, time taken must have increased by 25% too. So, if initial time was 100 units, now it must be 125 units. <br>
+
+But it is also given that while returning he drove twice as fast. So, time taken must have been halved. <br>So, time taken while returning back = 125/2 = 62.5 units
+
+So, 100 + 62.5 = 65 minutes <br>
+Or 162.5 units = 65 minutes <br>
+So, 100 units = (65/162.5) × 100 = 40 minutes
+
+So, the man took 40 minutes to reach to the village. <br>
+So, the actual time at that moment = 14:30 + 40 minutes = 15:10 hours <br>
+It’s pretty evident that the village clock is 15:15 – 15:10 = 5 minutes fast
+
+Answer: (d)
+</div> <br>
+

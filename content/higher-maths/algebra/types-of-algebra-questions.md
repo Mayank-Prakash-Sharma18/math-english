@@ -66,3 +66,46 @@ Then, $(3y^2 + x^2 + z^2 ) / (2y 2 - xz) = [3(-1)^2 + 1^2 + 0^2] / [2(-1)^2 – 
 Answer: (b)
 </div> <br>
 
+
+## Type 3
+
+##### Q. The sum of three consecutive integers is equal to their product. How many such possibilities are there?
+<pre>(a) 1   (b) 2    (c) 3   (d) 0</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let the 3 consecutive numbers be x - 1, x, and x + 1
+
+According to the question, <br>
+(x – 1) + x + (x + 1) = (x - 1) × x × (x + 1) <br>
+⇒ 3x = x × ($x^2$ - 1) <br>
+⇒ 3x = $x^3$ – x <br>
+⇒ $x^3$ – 4x = 0 <br>
+⇒ x ($x^2$ – 4) = 0 <br>
+⇒ x = 0, 2 or -2
+
+Therefore, there are only 3 such possibilities. <br>
+
+{{% alert note %}}
+***Wrong Method***:
+
+Let the 3 consecutive numbers be x, x + 1 and x + 2 
+
+According to the question, <br>
+x + (x + 1) + (x + 2) = x × (x + 1) × (x + 2) <br>
+⇒ 3x + 3 = x × (x + 1) × (x + 2) <br>
+⇒ 3(x + 1) = x × (x + 1) × (x + 2) <br>
+⇒ 3 = x(x + 2) [We eliminated x + 1 from both sides, which is wrong] <br>
+⇒ $x^2$ + 2x – 3 = 0 <br>
+⇒ $x^2$ + 3x – x – 3 = 0 <br>
+⇒ x (x + 3) - 1 (x + 3) = 0 <br>
+⇒ (x - 1) (x + 3) = 0 <br>
+⇒ x = 1 or -3
+
+As per this, there are only 2 such possibilities.
+{{% /alert %}}
+
+Answer: (c)
+</div> <br>
+

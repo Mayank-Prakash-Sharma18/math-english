@@ -57,6 +57,29 @@ Answer: (d)
 </div> <br>
 
 
+### Type 1c
+
+##### Q. A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?
+<pre>(a) 147   (b) 150    (c) 294   (d) 300</pre>
+
+Explanation:<br>
+<div class="Exp">
+
+Let the number of pens with A be the LCM of 2, 3, 4, 5, and 6 = 60 
+
+Then the number of pens with B = 60/2 = 30 <br>
+The number of pens with C = 60/3 = 20 <br>
+The number of pens with D = 60/4 = 15 (an odd number) <br>
+The number of pens with E = 60/5 = 12 <br>
+The number of pens with F = 60/6 = 10
+
+To ensure that all get an even number of pens, we need to double the number of pens bought by A, i.e. 60 × 2 = 120
+
+So, total number of pens bought by X = 120 + 60 + 40 + 30 + 24 + 20 = 294
+
+Answer: (c)
+</div> <br>
+
 <br><hr><br>
 
 
