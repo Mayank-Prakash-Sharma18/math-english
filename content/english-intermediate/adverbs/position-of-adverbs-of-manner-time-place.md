@@ -133,11 +133,11 @@ I went to Delhi ***yesterday***. (correct; yesterday - adverb of time indicating
 We play football ***twice a month***. (correct; twice a month - adverb of time indicating a definite frequency) <br>
 ***Twice a month*** we play football. (correct)
 
-However, some adverbs of time only go in end position (e.g. daily, hourly, monthly, weekly etc.).
+<!-- However, some adverbs of time only go in end position (e.g. daily, hourly, monthly, weekly etc.).
 
 ***<span class="mak-text-color-incorrect">Hourly</span>*** the bus leaves old city station. (incorrect) <br>
 The bus ***<span class="mak-text-color-incorrect">hourly</span>*** leaves old city station. (incorrect) <br>
-The bus leaves old city station ***<span class="mak-text-color">hourly</span>***. (correct; hourly – adverb of time)
+The bus leaves old city station ***<span class="mak-text-color">hourly</span>***. (correct; hourly – adverb of time) -->
 
 <br><hr><br>
 
@@ -149,7 +149,8 @@ The President spoke earnestly at the meeting yesterday. (earnestly - adverb of m
 
 She played well in the stadium. (well – adverb of manner; in the stadium – adverb phrase of place)
 
-### Exceptions
+<!-- Commented out for ebook sake -->
+<!-- ### Exceptions
 
 #### Exception 1
 
@@ -163,5 +164,5 @@ After some verbs of movements, adverb of manner will come after adverb of place.
 
 Subject + come/go/arrive/enter (verb of movements) + Adverb of place + Adverb of manner
 
-The bride came in slowly. (in – adverb of place; slowly– adverb of manner)
+The bride came in slowly. (in – adverb of place; slowly– adverb of manner) -->
 

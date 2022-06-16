@@ -117,7 +117,8 @@ Also, elder and eldest are used only for the members of the same family. That is
 Rakhi is my ***<span class="mak-text-color-incorrect">older</span>*** daughter. (incorrect) <br>
 Rakhi is my ***<span class="mak-text-color">elder</span>*** daughter. (correct – In case of blood relation we use elder)  
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 ‘elder’ is not used with ‘than’. However, we always use ‘older’ with ‘than’, e.g. older than. 
 
@@ -127,7 +128,7 @@ My nephew is ***<span class="mak-text-color">older than</span>*** my niece. (cor
 {{% alert note %}}
 We can use ‘older’ with ‘than’ even in case of blood relations. <br>
 He is ***older than*** his brother.
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 

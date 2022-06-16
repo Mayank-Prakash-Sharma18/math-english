@@ -93,13 +93,14 @@ We sometimes use 'It' as a subject to put emphasis on the noun or pronoun follow
 
 ***It*** was at Copenhagen that the climate treaty was signed. (‘It’ putting emphasis on ‘Copenhagen’)
 
-### Use 8
+<!-- Commented out for ebook sake -->
+<!-- ### Use 8
 
 We also use ‘it’ to talk about condition of something, the weather or the time.  
 
 ***It*** is fine. <br>
 ***It*** is autumn. <br>
-***It*** is nine o'clock. 
+***It*** is nine o'clock.  -->
 
 <br><hr><br>
 
@@ -166,11 +167,12 @@ We use ‘This’ (instead of ‘It’):
 ***It*** is noon here in Delhi. <br>
 ***It*** is spring. 
 
-### Difference 3
+<!-- Commented out for ebook sake -->
+<!-- ### Difference 3
 
 As ‘It’ is a pronoun, so we cannot use a noun after it. However, we can use a noun after ‘This’.
 
 ***<span class="mak-text-color-incorrect">It car</span>*** is mine. (incorrect; car – noun) <br>
 ***<span class="mak-text-color">It</span>*** is my car. (correct; car – noun) <br>
-***<span class="mak-text-color">This car</span>*** is mine. (correct; car – noun)
+***<span class="mak-text-color">This car</span>*** is mine. (correct; car – noun) -->
 

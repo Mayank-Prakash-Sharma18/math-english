@@ -183,7 +183,8 @@ Colour of grass is 'green' but here ‘red' means 'green' and hence according to
 Answer: (b)
 </div> <br>
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 ***Summary***
 
 In case of ‘called as’: Second word is the code for the first word. <br>
@@ -193,7 +194,7 @@ In case of ‘means’: First word is the code for the second word. <br>
 So move backward.
 
 In case nothing is mentioned, e.g. ‘blue is green’, then assume it as ‘blue is called as green’ (i.e. 1st case) and solve.
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ### Type 6: Fictitious Language Coding

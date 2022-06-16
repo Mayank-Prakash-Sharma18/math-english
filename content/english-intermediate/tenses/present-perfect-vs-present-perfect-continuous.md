@@ -43,10 +43,11 @@ To talk about activities or events that are repeated again and again until now -
 The journalist ***<span class="mak-text-color">has been calling</span>*** for an appointment. (correct) <br>
 The journalist ***<span class="mak-text-color">has called</span>*** for an appointment. (correct) 
 
-However, if we mention the number of times the activity or event was repeated - we use the present perfect rather than the present perfect continuous.
+<!-- Commented out for ebook sake -->
+<!-- However, if we mention the number of times the activity or event was repeated - we use the present perfect rather than the present perfect continuous.
 
 He ***<span class="mak-text-color-incorrect">has been playing</span>*** in 24 one day international matches so far. (incorrect) <br>
-He ***<span class="mak-text-color">has played</span>*** in 24 one day international matches so far. (correct)
+He ***<span class="mak-text-color">has played</span>*** in 24 one day international matches so far. (correct) -->
 
 ### Use Case 4
 
@@ -68,8 +69,9 @@ When we want to emphasise that a situation has changed over a period of time up 
 Performance of your son ***has been improving*** for some time. <br>
 The climate change problem ***has been getting*** worse over the last decade.
 
-However, if we talk about a specific change over a period of time which ends now, particularly to focus on the result of this change - We use the present perfect.
+<!-- Commented out for ebook sake -->
+<!-- However, if we talk about a specific change over a period of time which ends now, particularly to focus on the result of this change - We use the present perfect.
 
 The population of Delhi ***has grown*** from 0.1 million in 1950 to 10 million today. <br>
-The NIFTY Sensex ***has dropped*** by 2%. (it’s a drop in a period up to now)
+The NIFTY Sensex ***has dropped*** by 2%. (it’s a drop in a period up to now) -->
 

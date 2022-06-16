@@ -62,10 +62,11 @@ We ***can both play*** squash. (pronoun both used after a modal verb) <br><br>
 We ***<span class="mak-text-color-incorrect">both can study</span>*** together. (incorrect) <br>
 We ***<span class="mak-text-color">can both study</span>*** together. (correct; ‘both’ used after the modal verb can and before the main verb ‘study’)
 
-* after the verb ‘be’, if it’s the only verb in the sentence (so it will be the main verb).
+<!-- Commented out for ebook sake -->
+<!-- * after the verb ‘be’, if it’s the only verb in the sentence (so it will be the main verb).
 They ***are both*** good players. (pronoun both used after the verb ‘to be’) <br><br>
 The brothers ***<span class="mak-text-color-incorrect">both were</span>*** sad. (incorrect) <br>
-The brothers ***<span class="mak-text-color">were both</span>*** sad. (correct)
+The brothers ***<span class="mak-text-color">were both</span>*** sad. (correct) -->
 
 * after an auxiliary verb or the first auxiliary verb, if there are more than one verbs in a sentence. <br><br>
 They ***are both going*** to run away. (correct; are – auxiliary verb; going – main verb) <br>
@@ -134,7 +135,7 @@ In the examples below, “both...and” is used as a conjunction relating two no
 The flight was ***both*** late ***and*** turbulent. (joining two adjectives - late, turbulent) <br>
 He ***both*** killed ***and*** roasted the poor chicken. (joining two verbs - killed, roasted)
 
-#### Both and ‘the same’
+<!-- #### Both and ‘the same’
 
 As a conjunction, 'both...and’ implies that the two people/entities being discussed are equal. So, we need not use the phrase ‘the same’, if we are already using ‘both...and’. Use either ‘both...and’ or ‘the same’ in a sentence to make it concise.
 
@@ -146,7 +147,7 @@ Student A and student B got ***<span class="mak-text-color">the same</span>*** m
 When ‘both’ is used as a pronoun, we can use ‘the same’ with it. 
 
 ***Both*** students got ***the same*** marks. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 <br><hr><br>
@@ -191,12 +192,13 @@ We do not use ’both’ in negative sentences, as it makes the sentence ambig
 There is ***<span class="mak-text-color-incorrect">not</span>*** a major difference in percentages for ***<span class="mak-text-color-incorrect">both</span>*** students, when it comes to science. (incorrect) <br>
 There is ***<span class="mak-text-color">not</span>*** a major difference in percentages for ***<span class="mak-text-color">either</span>*** student, when it comes to science. (correct)
 
-### Use 4
+<!-- Commented out for ebook sake -->
+<!-- ### Use 4
 
 We also use ‘both’ in the following phrase:
 
 * both...and...: <br>
-It’s a technique that is ***both clean and effective***. 
+It’s a technique that is ***both clean and effective***.  -->
 
 
 

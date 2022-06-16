@@ -298,8 +298,8 @@ or 14 < 12 (not true)
 Answer: (b)
 </div> <br>
 
-
-### Type 4: Balancing Equations
+<!-- Commented out for ebook sake -->
+<!-- ### Type 4: Balancing Equations
 
 ##### Q. Select the correct combination of mathematical signs to replace * signs and to balance the given equation:
 16 * 4 * 64 * 4
@@ -314,5 +314,5 @@ Using option (b), we get: <br>
 or 64 > 16 (true)
 
 Answer: (b)
-</div> <br>
+</div> <br> -->
 

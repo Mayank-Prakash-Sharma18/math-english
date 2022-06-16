@@ -82,7 +82,8 @@ If a vowel is present before 'y', only 'er' and 'est' should be added.
 
 <img src="../../../media/adjectives/formation-of-adjectives6.png" alt="formation of adjectives" style="width:90%;height:90%;">
 
-#### Exception 3
+<!-- Commented out for ebook sake -->
+<!-- #### Exception 3
 
 When the adjective of positive degree is a word of one syllable and ends in a ***single*** consonant, preceded by a ***short vowel***, this consonant is doubled before adding 'er' and 'est'.
 
@@ -90,13 +91,14 @@ When the adjective of positive degree is a word of one syllable and ends in a **
 
 {{% alert note %}}
 Short vowel refers to the vowel that occurs individually between consonants (i.e. in the pattern Consonant-Vowel-Consonant), e.g. pet, sad etc.  
-{{% /alert %}}
+{{% /alert %}} -->
 
-#### Exception 4: Irregular Comparison
+<!-- Commented out for ebook sake -->
+<!-- #### Exception 4: Irregular Comparison
 
 Comparative and Superlative forms of some Adjectives are formed irregularly (and not from the positive form of the adjective).
 
-<img src="../../../media/adjectives/formation-of-adjectives9.png" alt="formation of adjectives" style="width:90%;height:90%;">
+<img src="../../../media/adjectives/formation-of-adjectives9.png" alt="formation of adjectives" style="width:90%;height:90%;"> -->
 
 
 ### Adjectives of two or more syllables
@@ -115,7 +117,8 @@ Adjectives with two syllables that are only used (or are most commonly used) wit
 
 But as usual, there are exceptions to this too. In fact, most other adjectives with two syllables (than those listed above) can take two forms.
 
-#### Exception
+<!-- Commented out for ebook sake -->
+<!-- #### Exception
 
 Some adjectives can take either 'er' and 'est' OR more/less and most/least.
 
@@ -132,7 +135,7 @@ When we compare two qualities of the same person, we always use 'more + adjectiv
 
 He is ***<span class="mak-text-color-incorrect">luckier</span>*** than laborious. (incorrect) <br>
 He is ***<span class="mak-text-color">more lucky</span>*** than laborious. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 

@@ -90,7 +90,8 @@ In certain phrases the Adjective always comes immediately after the noun:
 
 For example: heir apparent, time immemorial, lord paramount, viceroy elect, letters patent, knights temporal, notary public, body politic, God Almighty.
 
-###### Example 3
+<!-- Commented out for ebook sake -->     
+<!-- ###### Example 3
 
 When some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun:
 
@@ -102,7 +103,7 @@ A soldier, ***taller*** than any of his comrades, attacked the enemy line. (tall
 
 When several Adjectives are attached to one noun they are sometimes placed after it for emphasis.
 		
-The lieutenant, ***hurt*** and ***anguished***, advanced towards the enemy.
+The lieutenant, ***hurt*** and ***anguished***, advanced towards the enemy. -->
 
 
 ### Type 2: Adjectives used predicatively 
@@ -117,11 +118,11 @@ The manager is ***smart***. (manager – subject; is – verb; smart – adjecti
 
 These cities are ***vulnerable to violence***. (These cities -  subject; are – verb; vulnerable to violence -  adjective phrase working as subjective complement)
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 All adjectives that are part of a predicate need not be predicative adjective. Even attributive adjectives can be part of the predicate.
 
 We saw a ***beautiful*** horse. (beautiful – attributive adjective, which is part of the predicate; horse - noun)
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 

@@ -122,13 +122,14 @@ I lost ***half (of) my money*** in the divorce. (money – uncountable noun) <br
 Whether we use singular or plural verb with ‘half’, will depend on the noun it is modifying. That is, just use the appropriate verb as per the noun.
 {{% /alert %}}
 
-### Use 4
+<!-- Commented out for ebook sake -->
+<!-- ### Use 4
 
 Pattern 4: Half + this, that, these, those + uncountable noun or countable noun
 
 About ***half (of) this powder*** is glucose. (powder - uncountable noun) <br>
 ***Half (of) this snake*** is blue. (snake - singular countable noun) <br>
-***Half (of) these snakes*** are non-poisonous. (snakes - plural countable noun)
+***Half (of) these snakes*** are non-poisonous. (snakes - plural countable noun) -->
 
 <br><hr><br>
 
@@ -160,12 +161,13 @@ Unlike ‘half’, we do not use ‘of’ with multipliers.
 I will provide you ***<span class="mak-text-color-incorrect">double of</span>*** the salary you get right now. (incorrect) <br>
 I will provide you ***<span class="mak-text-color">double</span>*** the salary you get right now. (correct; double – multiplier)
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 Before some determiners (e.g. each, every, a, per etc.) these multipliers can function as distributives. 
 
 CAT releases this notification ***once every*** year. (once – multiplier; every - determiner) <br>
-Leap years can sometimes fall ***thrice per*** decade. (thrice – multiplier; per - determiner)
+Leap years can sometimes fall ***thrice per*** decade. (thrice – multiplier; per - determiner) -->
 
 
 ## Fractions

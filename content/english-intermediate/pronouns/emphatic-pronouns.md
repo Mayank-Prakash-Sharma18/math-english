@@ -75,8 +75,8 @@ But when an emphatic pronoun emphasizes an object, we will put emphatic pronoun 
 
 I met Aanya ***herself***. (correct; Aanya – object; herself – emphasizing the object)
 
-
-### Some other uses of Emphatic Pronouns
+<!-- Commented out for ebook sake -->
+<!-- ### Some other uses of Emphatic Pronouns
 
 We sometimes use emphatic pronouns to mean 'also’ or ‘too’. <br>
 Geetu said she was feeling ill. I was feeling pretty sick ***myself***. (i.e. I too)
@@ -85,7 +85,7 @@ We also use emphatic pronouns to mean that someone is capable enough alone. <br>
 They don’t need anyone’s guidance. They can do it ***themselves***. (i.e. they can do it alone)
 
 We also use emphatic pronouns to show contrast. <br>
-You support Democrats? I am a Republican supporter ***myself***. (i.e. I am in contrast with you)
+You support Democrats? I am a Republican supporter ***myself***. (i.e. I am in contrast with you) -->
 
 <br><hr><br>
 
@@ -134,7 +134,8 @@ It was told so by the professor ***himself***. (professor himself – object of 
 Reflexive pronouns cannot work as a subject (neither alone, nor as part of a subject phrase).
 {{% /alert %}}
 
-### Difference 4
+<!-- Commented out for ebook sake -->
+<!-- ### Difference 4
 
 Unlike reflexive pronouns, emphatic pronouns cannot work as an object alone.
 
@@ -144,5 +145,5 @@ I was treated by my dad ***himself***. (himself – emphatic pronoun, which is p
 
 {{% alert note %}}
 Reflexive pronouns can work as an object (of a verb or of a preposition) alone.
-{{% /alert %}}
+{{% /alert %}} -->
 

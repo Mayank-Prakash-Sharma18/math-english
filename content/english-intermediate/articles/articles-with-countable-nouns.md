@@ -40,7 +40,8 @@ But notice these two sentences:
 
 That is, this is true of both the general class and an individual item.
 
-#### Exceptions
+<!-- Commented out for ebook sake -->
+<!-- #### Exceptions
 
 ##### Exception 1
 
@@ -59,7 +60,7 @@ He is ***the man*** of the match. (correct)
 The Indefinite Article is also used in the sense of any. This way we can single out an individual as the representative of a class. 
 
 ***A horse*** is a faithful animal. <br>
-***A student*** should respect his teacher.
+***A student*** should respect his teacher. -->
 
 {{% alert note %}}
 In present day English we even use 'a man' and 'a woman' (or 'men' and 'women') to represent the general class of mankind/womankind.
@@ -127,7 +128,8 @@ After 'the position of', 'the post of', or 'the role of' we use zero article bef
 Dr. Sheldon has taken on ***the post of*** Academic Director.
 {{% /alert %}}
 
-### the + noun + of phrase 
+<!-- Commented out for ebook sake -->
+<!-- ### the + noun + of phrase 
 
 'The' is often used with ‘of-phrases’ in the following patterns:
 
@@ -137,7 +139,7 @@ He was woken up by ***the sound of gunshots***.
 
 * the + back/beginning/bottom/end/middle/side/top + of-phrase <br>
 This pattern is used to refer to a particular place, time, etc. <br><br>
-In ***the middle of his lecture*** a student fainted and fell on the ground.
+In ***the middle of his lecture*** a student fainted and fell on the ground. -->
 
 ### Articles in case of Ordinals
 

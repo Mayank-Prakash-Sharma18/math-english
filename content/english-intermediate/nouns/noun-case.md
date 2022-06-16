@@ -163,7 +163,8 @@ The Possessive answers the question, ‘Whose?’
 
 This is ***Amit’s*** bike. (Whose bike? - Amit’s) 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 The possessive case does not always denote possession. It is also used to denote authorship, origin, kind, etc. 
 	
 Mr. Sharma's house (the house where Mr. Sharma lives – shows possession) <br>
@@ -172,5 +173,5 @@ The Minister's speech (the speech delivered by the Minister – shows origin) <b
 A children’s park (a park for children – shows kind) <br>
 A week's holiday (a holiday which lasts a week – shows kind) <br>
 Aanya's school (the school where Aanya goes – shows connection) <br>
-{{% /alert %}}
+{{% /alert %}} -->
 

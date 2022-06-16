@@ -44,12 +44,12 @@ To talk about something that was invented, produced, discovered or written in th
 Scientists ***have discovered*** a new characteristic of dark matter. (present perfect) <br>
 Dark matter ***was*** hypothesized by Fritz Zwicky in 1933. (simple past) 
 
-### Concept 3
+<!-- ### Concept 3
 
 In some cases the main meaning of the sentences is not affected much either way. That is, whether we think of something happening in a period of time up to the present or at a particular, finished time in the past.
 
 I am sure I ***saw*** (or ***have seen***) this man before. <br>
-The launch of the spaceship ***was*** (or ***has been***) a success.
+The launch of the spaceship ***was*** (or ***has been***) a success. -->
 
 
 
@@ -129,7 +129,8 @@ Pattern 2: perfect form of any modal + since + simple past tense
 She may have relocated ***since*** he last met her. <br>
 (may have relocated - modal in perfect form; met – simple past)
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 If 'since' is there at the beginning of a sentence, then we follow the following pattern:
 
@@ -143,7 +144,7 @@ However, if the two situations described in the main and since-clause extend unt
 Pattern 4: Since + present perfect + present perfect
 
 ***Since*** I have lived here, I have not seen any salesmen. <br>
-(have lived - present perfect; have not seen - present perfect)
+(have lived - present perfect; have not seen - present perfect) -->
 
 
 ## Use Case 7: News reports
@@ -188,7 +189,8 @@ For example: before, for, and recently.
 We ***had*** the van ***for*** ten years. (we no longer have it; simple past) <br>
 We ***have had*** this van ***for*** five years. (we still have it; present perfect)
 
-### Concept 4
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 4
 
 We can use time adverbs that refer to the present (e.g. today, this morning/week/month), with either the present perfect or past simple.
 
@@ -206,9 +208,10 @@ We do not use the present perfect with adverbs of past time. Instead, we always 
 
 Mr. Abhinav ***<span class="mak-text-color-incorrect">has gone</span>*** to Moscow yesterday. (incorrect) <br>
 Mr. Abhinav ***<span class="mak-text-color">went</span>*** to Moscow yesterday. (correct; went – simple past)
-{{% /alert %}}
+{{% /alert %}} -->
 
-### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 5
 
 To further emphasise that we are talking about the whole of a period of time up until the present, we use ‘ever’ and ‘never’ with present perfect.
 
@@ -219,5 +222,5 @@ I ***have never had*** any issues with my boss. (have had – present perfect)
 We do use ‘ever’ and ‘never’ with the past simple too, to talk about a completed period in the past.
 
 When I was a kid, I ***never bothered*** too much about expenses. (bothered – simple past)
-{{% /alert %}}
+{{% /alert %}} -->
 

@@ -147,7 +147,8 @@ The phrase ‘each and every’ is used for emphasis. It just adds more force to
 ***Each and every*** member of the parliament ***was*** evacuated.
 {{% /alert %}}
 
-### Difference 5
+<!-- Commented out for ebook sake -->
+<!-- ### Difference 5
 
 We use Every (not Each) with Practically, Nearly, Almost.
 
@@ -171,5 +172,5 @@ Take medicine after ***<span class="mak-text-color">every</span>*** five hours. 
 Each – each individual in the collection of two or more. <br>
 Either – one individual in a collection of two. 
 
-In ‘either’ we talk about only one item in the group, while in ‘each’ we talk about each item in the group. 
+In ‘either’ we talk about only one item in the group, while in ‘each’ we talk about each item in the group.  -->
 

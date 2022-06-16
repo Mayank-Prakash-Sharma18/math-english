@@ -75,7 +75,8 @@ The case of the pronoun shouldn’t be changed. E.g. we can change ‘I’ (subj
 
 <img src="../../../media/narration/narration-6.png" alt="Direct and Indirect speech" style="width:99%;height:99%;">
 
-Apart from these general rules, there are a few exceptions and extra rules that we need to keep in mind.
+<!-- Commented out for ebook sake -->
+<!-- Apart from these general rules, there are a few exceptions and extra rules that we need to keep in mind.
 
 ### Exceptions
 
@@ -100,7 +101,7 @@ Indirect Speech: My brother told me that ***we*** could not change the habit of 
 We change 'we' into 'it' in case of newspaper, organisation, etc. 
 
 The New York Times said, “***we*** are not responsible for this kind of error.” <br>
-The New York Times said that ***it*** was not responsible for that kind of error.  
+The New York Times said that ***it*** was not responsible for that kind of error.   -->
 
 <br><hr><br>
 
@@ -216,12 +217,12 @@ We sometimes use a modal verb in indirect speech, even though there was no modal
 He told me that I ***mustn't*** play there.
 {{% /alert %}}
 
-
-## Miscellaneous
+<!-- Commented out for ebook sake -->
+<!-- ## Miscellaneous
 
 Words of respect in the direct speech ('Sir, 'Madam‘, 'Your Honour' etc.) are changed to ‘respectfully' in the indirect speech.
 
-Words of affection in the direct speech ('Darling‘, 'Dear‘, 'My beloved' etc.) are changed to ‘lovingly/affectionately' in the indirect speech.
+Words of affection in the direct speech ('Darling‘, 'Dear‘, 'My beloved' etc.) are changed to ‘lovingly/affectionately' in the indirect speech. -->
 
 
 ## Conversion of Indirect into Direct 

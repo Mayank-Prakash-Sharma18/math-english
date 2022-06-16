@@ -71,7 +71,8 @@ Indirect speech: He said (that) he had to study. (he had to study – simple pas
 Direct speech: He said, “I do not have to study.”  (I do not have to study – simple present tense) <br>
 Indirect speech: He said (that) he did not have to study. (he did not have to study – simple past tense)
 
-#### Type 5
+<!-- Commented out for ebook sake -->
+<!-- #### Type 5
 
 ‘do/does + subject + have + object’ is changed to ‘if/whether + subject + had + object’
 
@@ -83,7 +84,7 @@ Indirect speech: He asked (that) whether I had a pen. (I had a pen – simple pa
 ‘do/does + subject + have + to + $V_1$’ is changed to ‘if/whether + subject + had + to + $V_1$’
 
 Direct speech: He said, “Do I have to play?”  (Do I have to play– simple present tense) <br>
-Indirect speech: He asked (that) whether he had to play. (he had to play – simple past tense)
+Indirect speech: He asked (that) whether he had to play. (he had to play – simple past tense) -->
 
 
 ### Case 2: Simple past becomes Past perfect  
@@ -136,7 +137,8 @@ Direct speech: He said, “I had to work.”  (I had to work – simple past ten
 Indirect speech: He said (that) he had had to work. (he had had to work – past perfect tense, more preferred) <br>
 Indirect speech: He said (that) he had to work. (he had to work – simple past tense, less preferred)
 
-#### Type 5
+<!-- Commented out for ebook sake -->
+<!-- #### Type 5
 
 ‘had + noun’ is changed to either:
 
@@ -145,7 +147,7 @@ Indirect speech: He said (that) he had to work. (he had to work – simple past 
 
 Direct speech: He said, “I had a bat.”  (I had a bat – simple past tense) <br>
 Indirect speech: He said (that) he had had a bat. (he had had a bat – past perfect tense, more preferred) <br>
-Indirect speech: He said (that) he had a bat. (he had a bat – simple past tense, less preferred)
+Indirect speech: He said (that) he had a bat. (he had a bat – simple past tense, less preferred) -->
 
 
 ### Case 3: Past perfect is not changed. 
@@ -207,8 +209,8 @@ Present perfect continuous (has/have been $V_4$) is changed to Past perfect cont
 Direct speech: He said, “I have been playing cricket.”  (I have been playing cricket– present perfect continuous tense) <br>
 Indirect speech: He said (that) he had been playing cricket. (he had been playing cricket – past perfect continuous tense)
 
-
-### Case 9: Past perfect and Past perfect continuous are not changed 
+<!-- Commented out for ebook sake -->
+<!-- ### Case 9: Past perfect and Past perfect continuous are not changed 
 
 Past perfect and Past perfect continuous (had been $V_4$) are not changed 
 
@@ -222,7 +224,7 @@ Indirect speech: He said (that) he had been playing cricket. (he had been playin
 You may memorize the following sequence. 
 
 Present perfect / Present perfect continuous → Past perfect / Past perfect continuous → No change
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ### Exceptions to general rules
@@ -249,7 +251,8 @@ Jim told me that he ***has*** three cars. (told – reporting verb in past tense
 
 Jim told me that he ***had*** three cars. (told – reporting verb in past tense; had – verb in the reported clause in past tense; it suggests that what is being reported is either not true, or that situation no more exits, i.e. either Jim never had three cars, or he once had three cars, but not now.)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 If the reporting verb is in ‘present’, and we are reporting a permanent situation or universal truth, then we also use a present tense for the verb in the reported clause. 
 
 Aanya ***thinks*** that she ***<span class="mak-text-color-incorrect">spent</span>*** about 15 minutes on a typical meeting with a customer. (incorrect) <br>
@@ -257,7 +260,7 @@ Aanya ***thinks*** that she ***<span class="mak-text-color">spends</span>*** abo
 
 British scientists ***claim*** that they ***<span class="mak-text-color-incorrect">developed</span>*** a new vaccine for Covid-19. (incorrect) <br>
 British scientists ***claim*** that they ***<span class="mak-text-color">have developed</span>*** a new vaccine for Covid-19. (correct; claim – reporting verb in present tense; have developed – verb in reported clause in present tense too)
-{{% /alert %}}
+{{% /alert %}} -->
 
 #### Exception 2: Tenses in case of instant action/action-reaction
 
@@ -320,7 +323,8 @@ By the time + Subject + $V_2$ + .........+ Subject + had + $V_3$ + ............
 Annie said to Eva, “By the time you left Italy, I had married your friend.” <br>
 Annie told Eva that by the time she left Italy, she had married her friend.
 
-##### Pattern 4
+<!-- Commented out for ebook sake -->
+<!-- ##### Pattern 4
 
 If + Subject + had + $V_3$ + .......... + Subject + would + ........ + have + $V_3$ + .....
 
@@ -332,5 +336,5 @@ Anand said that if I had reached there on time, he would have been saved. ('I' w
 If + Subject + $V_2$ + ....... + Subject + would + ......... + $V_1$ + ......
 
 Anand said, “If you were a teacher, I would respect you.” <br>
-Anand said that if I were a teacher, he would respect me. ('I' will be used, not 'he') 
+Anand said that if I were a teacher, he would respect me. ('I' will be used, not 'he')  -->
 

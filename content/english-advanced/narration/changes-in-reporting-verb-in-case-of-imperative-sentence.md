@@ -172,7 +172,8 @@ Indirect Speech: Subject + suppose + Noun/Pronoun 1 + to be + Noun 2 .........
 Mr. Peterson said, “let this be a triangle.” <br>
 Mr. Peterson supposed that to be a triangle”. (we will use that, not this)
 
-### Concept 10
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 10
 
 In case of imperative sentence, starting with ‘do’, we use the following structure:
 
@@ -193,5 +194,5 @@ She said to me, “Help the poor orphan, will you?” <br>
 She advised me to help the poor orphan.
 
 He said to me, “give me some money, will you?” <br>
-He asked me to give him some money.
+He asked me to give him some money. -->
 

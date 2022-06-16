@@ -66,13 +66,14 @@ Geetu reached home, ***<span class="mak-text-color">had</span>*** a bath, and th
 
 Monika ***came***, ***saw***, and ***conquered***.
 
-### Use Case 5: Instant action or action-reaction
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 5: Instant action or action-reaction
 
 Instant action or action-reaction (in the Past) – We always use Simple Past Tense for it
 
 As Geetu danced, everybody started clapping.
 
-When I opened the window, the wind came in.
+When I opened the window, the wind came in. -->
 
 <br><hr><br>
 
@@ -147,7 +148,8 @@ Why ***did*** Aanya ***not go*** to college? <br>
 Why ***did*** they ***not go*** to college? <br>
 Why ***did*** she ***not do*** her assignment?  
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 In general, in case of simple past tense use “did” to make the sentence negative and interrogative. 
 
 I ***did*** not hurt you. <br>
@@ -157,8 +159,8 @@ Exception: In case of “was/were”, use was/were to make the sentence negative
 
 Mragank ***was*** there. (Positive Declarative Sentence) <br>
 Mragank ***was*** not there. (Negative Declarative Sentence) <br>
-***Was*** Mragank there? (Interrogative sentence)
-{{% /alert %}}
+***Was*** Mragank there? (Interrogative sentence) 
+{{% /alert %}} -->
 
 {{% alert note %}}
 Usually in a sentence, 'do' 'does' and 'did' are not used in positive sentences as a helping verb. But to emphasise the main verb, we use 'do', 'does' and 'did' before the main verb. 
@@ -168,10 +170,11 @@ In such sentences main verb should be in ‘$V_1$ form’.
 He ***did make*** a mistake. (make – main verb in $V_1$ form)
 {{% /alert %}}
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We do not use ‘did’ in negatives and questions with ‘was/were’.  
 
 They ***weren't*** able to come because they ***were*** so busy. <br>
 ***Was*** the weather good when you ***were*** on holiday?
-{{% /alert %}}
+{{% /alert %}} -->
 

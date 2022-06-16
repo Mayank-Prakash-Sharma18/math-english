@@ -103,7 +103,8 @@ Note that some collective nouns are always used as plural, as they are always se
 ***Police*** have registered the case. (have – plural verb)
 {{% /alert %}}
 
-##### Types of Collective Nouns
+<!-- Commented out for ebook sake -->
+<!-- ##### Types of Collective Nouns
 
 Collective nouns are of two types:
 
@@ -112,7 +113,7 @@ They can be made plural, e.g. by suffixing s/es etc to them.
 
 * Non-Compact – not self sufficient in meaning, e.g. team, pack, pride. <br>
 We add ‘of + adjunct’ to them, in order to make them meaningful. Also, we make the adjunct plural to make their plural:<br>
-E.g. pride of lions, pack of cards. 
+E.g. pride of lions, pack of cards.  -->
 
 ### Abstract Noun 
 
@@ -166,7 +167,8 @@ Many ***deaths*** have occurred in China due to coronavirus. (correct)
 It is the name of a substance/matter. <br>
 E.g. Cotton, Gold, Milk
 
-##### Can we use articles before Material Nouns?
+<!-- Commented out for ebook sake -->
+<!-- ##### Can we use articles before Material Nouns?
 
 We can’t use a number or a/an before a material noun.<br>
 This bracelet is made of ***a gold***. (incorrect)<br>
@@ -179,7 +181,7 @@ one gold ring, a gold ring,  an iron rod
 
 * material noun is not a material noun but gives some other meaning<br>
 E.g.  India won two ***silvers***. (silver medals)<br>
-He was in ***irons***. (chained)
+He was in ***irons***. (chained) -->
 
 ##### Can Material Nouns be Plural?
 

@@ -123,7 +123,8 @@ One swallow doesn’t make a summer.
 
 A stitch in time is saving nine.
 
-### Use Case 7: Performative verbs
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 7: Performative verbs
 
 Performative verbs: Sometimes we do things after saying something. 
 
@@ -141,7 +142,7 @@ I ***suggest*** that you get yourself a lawyer. (<s>I am suggesting</s>)
 
 We can use modals with performative verbs to sound more tentative or polite:
 
-I ***would suggest*** that you get yourself a lawyer.
+I ***would suggest*** that you get yourself a lawyer. -->
 
 
 ## Simple Present Tense for future
@@ -197,7 +198,8 @@ We use simple present tense in conditional clauses with if, unless, in case, and
 If it ***rains***, we shall get wet. (If it rains – conditional clause) <br>
 I will bring a pistol in case we ***get*** into trouble. (in case we get into trouble – conditional clause)
 
-### Concept 4
+<!-- Commented out for ebook sake --> 
+<!-- ### Concept 4
 
 We use the simple present tense in that- and wh-clauses when:
 * the main clause refers to the future. 
@@ -217,7 +219,7 @@ However, if we are talking about a fixed arrangement in that- and wh-clause, we 
 
 It is fortunate that a similar flight ***will leave*** at the same time tomorrow. (correct) <br>
 It is fortunate that a similar flight ***leaves*** at the same time tomorrow. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 
@@ -293,10 +295,11 @@ In general, in case of simple present tense, we use “do/does” to make a sent
 Virat ***does*** not like Rohit. <br>
 ***Do*** you know?
 
-Exception: In case of “is/am/are” use only these helping verbs (is/am/are) to make the sentence negative or interrogative.
+<!-- Commented out for ebook sake -->
+<!-- Exception: In case of “is/am/are” use only these helping verbs (is/am/are) to make the sentence negative or interrogative.
 
 Mragank ***is*** a gambler. (Positive Declarative Sentence) <br>
 Mragank ***is*** not a gambler. (Negative Declarative Sentence) <br>
-***Is*** Mragank a gambler? (Interrogative sentence)
+***Is*** Mragank a gambler? (Interrogative sentence) -->
 {{% /alert %}}
 

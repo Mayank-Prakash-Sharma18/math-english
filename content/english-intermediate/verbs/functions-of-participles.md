@@ -93,13 +93,14 @@ Everyone was sad in the ***losing*** team. - Team is the object  (prepositional 
 
 The children found the ***lost*** dog.  - Dog is the object and it is not doing the work of lost, someone else must have lost it. So, we will use past participle here, i.e. lost. 
 
-### Rule 3
+<!-- Commented out for ebook sake -->
+<!-- ### Rule 3
 
 Present participle – we use it to tell about something that is happening at the same time we are speaking. <br>
 The ***falling*** snow is beautiful.
 
 Past participle – we use it to tell something that has happened before. <br>
-The ***fallen*** snow is beautiful. 
+The ***fallen*** snow is beautiful.  -->
 
 
 ## Meaning and Use of Participle Clauses
@@ -210,8 +211,8 @@ I ***caught her going*** through my purse.
 
 We ***found her roaming*** in the corridors.
 
-
-### Use Case 6: spend and waste
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 6: spend and waste
 
 We use present participle with the verbs 'spend' and 'waste' in the following manner. 
 
@@ -223,7 +224,7 @@ We've ***spent the whole night gambling***.
 
 Don't ***waste time watching*** ice hockey!
 
-I ***wasted money buying*** this apartment.
+I ***wasted money buying*** this apartment. -->
 
 
 ## Uses of Past Participle
@@ -287,7 +288,8 @@ Perfect participle is used when there are two actions and there is a time-gap be
 If the second work starts just after the first one without time-gap, then we use present participle, e.g. Seeing a snake, I ran away.
 {{% /alert %}}
 
-### Use Case 4
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 4
 
 Perfect Participle is used in the following cases:
 
@@ -295,7 +297,7 @@ Perfect Participle is used in the following cases:
 ***Having worked*** there for more than two years, he didn’t want to switch jobs.
 
 * some time had passed before the second action started. <br>
-***Having been*** a good hockey player in my college days, I found it easier to learn the new dribbling moves.
+***Having been*** a good hockey player in my college days, I found it easier to learn the new dribbling moves. -->
 
 
 ## Errors in the Use of Participles
@@ -362,7 +364,8 @@ It ***being*** a rainy day, we didn't go to school. (correct)
 ***Driving*** on the highway, the baby began to cry. (incorrect; ‘driving’ and ‘began’ have different subjects and so we need to mention both) <br>
 While I was ***driving*** on the highway, the baby began to cry. (correct) 
 
-#### Impersonal Absolute
+<!-- Commented out for ebook sake -->
+<!-- #### Impersonal Absolute
 
 Not all dangling modifiers are wrong. 
 
@@ -378,10 +381,10 @@ Sometimes, the subject is left without a participle. In such cases the participl
 Knife (***being***) in hand, he attacked the cop. (being – participle, he - subject)
 
 Dinner (***being***) over, we went for a swim. (having been – participle, we - subject)
-{{% /alert %}}
+{{% /alert %}} -->
 
-
-### Error 3
+<!-- Commented out for ebook sake -->
+<!-- ### Error 3
 
 Though a participle phrase can work as an adverbial phrase, but sometimes rephrasing that participle adverbial phrase without the participle brings out the implied meaning more clearly. 
 
@@ -395,5 +398,4 @@ To express the implied meaning more clearly, we can change the participial phras
 ***After*** he had completed his lunch, he went out to play basketball. (correct)
 
 ***Following*** my advice, you will make huge profits. (correct) OR <br>
-***If*** you follow my advice, you will make huge profits. (correct)
-
+***If*** you follow my advice, you will make huge profits. (correct) -->

@@ -45,13 +45,14 @@ I think he ***will get*** the job.
 
 I am sure New Zealand ***will win*** the rugby world cup.  
 
-### Use Case 3
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 3
 
 We also use this tense when we make a decision to do something instantaneously at the time of speaking. 
 
 What will you like to have for drinks ma’am? - I ***will have*** a tequila sunrise. 
 
-The board of directors are in a meeting right now. – All right. I ***will wait*** then. 
+The board of directors are in a meeting right now. – All right. I ***will wait*** then.  -->
 
 
 ## Different sentence structures of the Simple Future tense
@@ -109,12 +110,13 @@ When we have already decided to do something, then we use the 'going to' form (b
 Will you go? – Yes. I ***am going to leave*** tonight.  
 
 I ***am going to play*** in the tournament.
- 
-{{% alert note %}}
+
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We use going to form – when the action is already decided upon, i.e. we are prepared. (do not use simple future tense in such cases)
 
 We use Simple Future Tense – when we take an instant decision. E.g. if someone asks you, “What will you have in supper?” and you say – “I will have a cup of coffee.”
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Use Case 2
 
@@ -132,13 +134,14 @@ Our bus ***is going to leave*** soon.
 
 That boiler ***is going to explode***. 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 In such cases (i.e. for the immediate future) we can also use - be about to + $V_1$. 
 
 Our bus ***is about to leave*** soon.  
 
 That boiler ***is about to explode***. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 
@@ -184,7 +187,8 @@ If it ***snows***, it will get a little warm. <br>
 
 <br><hr><br>
 
-## Uses of 'Be to'
+<!-- Commented out for ebook sake -->
+<!-- ## Uses of 'Be to'
 
 We use (be to + base form) to talk about official plans and arrangements (in formal style, e.g. in news reports). 
 
@@ -196,6 +200,6 @@ Mr. Hawking ***is to design*** the experiment on dark matter.
 We usually leave out ‘be’ in headlines.
 
 President to resign. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 

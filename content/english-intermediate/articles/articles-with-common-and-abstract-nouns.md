@@ -76,7 +76,8 @@ My uncle goes to temple every Tuesday.
 
 You should go to school.
 
-#### Exception
+<!-- Commented out for ebook sake -->
+<!-- #### Exception
 
 We should use an article before school, college, temple etc. if they denote a place, a building or an object (and not their primary purpose).
 
@@ -97,7 +98,7 @@ We are going to ***the*** cinema in Sector 18. (i.e. a specific cinema)
 
 We prefer not to use any article when we talk about a form of art.
 
-Not many kids enjoy opera. 
+Not many kids enjoy opera.  -->
 
 <br><hr><br>
 

@@ -74,11 +74,12 @@ Now, let us see all those cases wherein the object of a preposition is placed be
 * When the object is the relative pronoun ‘that’, the preposition is always placed at the end. <br><br>
 Here is the book ***that*** you were looking ***for***. (for – preposition; that – relative pronoun, which is the object of the preposition)
 
-* When the object is a relative pronoun that is understood, the preposition is often placed at the end. <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * When the object is a relative pronoun that is understood, the preposition is often placed at the end. <br><br>
 That is the man (***whom***) I was speaking ***of***. (of – preposition; whom – relative pronoun, which is the object of the preposition)
 
 * When the object is an interrogative pronoun, the preposition is often placed at the end. <br><br>
-***What*** are you looking ***at***? (at – preposition; what – interrogative pronoun, which is the object of the preposition)
+***What*** are you looking ***at***? (at – preposition; what – interrogative pronoun, which is the object of the preposition) -->
 
 * Sometimes the object is placed first for the sake of emphasis. <br><br>
 ***This*** the customer is insisting ***on***. (on – preposition; this – pronoun, which is the object of the preposition) <br>

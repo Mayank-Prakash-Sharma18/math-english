@@ -201,10 +201,11 @@ Say you think that sentence R should be followed by sentence Q, i.e. RQ form a s
 Some other clues that may help you out are:
 * Abbreviations and full-forms - Some sentences in PJ may have the full-form (e.g. United Nations), and some may use abbreviations (e.g. U.N.). The sentence with the full form (along with the abbreviated form) will come first. The sentence which only has the abbreviated form will come later. 
 * Ideas and examples - Ideas will generally come first, followed by examples to further clarify them, strengthen them or prove them. 
-* Articles - 'A' and 'An' are used when something new is being introduced (i.e. something is being stated for the first time), or for stating a general fact. So, sentences having 'a' or 'an' could be introductory sentences. 'The' is used to refer to something or someone that has already been introduced before, or for stating something specific. <br>
+<!-- Commented out for ebook sake -->
+<!-- * Articles - 'A' and 'An' are used when something new is being introduced (i.e. something is being stated for the first time), or for stating a general fact. So, sentences having 'a' or 'an' could be introductory sentences. 'The' is used to refer to something or someone that has already been introduced before, or for stating something specific. <br>
 For example: ***A*** new multiplex is being built at sector 18. As per some rumours, ***the*** multiplex will have an ice-skating zone. 
 * Adjectives - Some comparative adjectives may also give us a clue, e.g. better, worse, taller, shorter, etc. These comparative degrees of adjectives often come after positive degrees of adjectives (i.e. better will come after good, worse will come after bad etc.). <br>
-For example: Both Monica and Geetanjali gave a speech. Monica's arguments were pretty ***good***. But Geetanjali's arguments were ***better***.
+For example: Both Monica and Geetanjali gave a speech. Monica's arguments were pretty ***good***. But Geetanjali's arguments were ***better***. -->
 {{% /alert %}}
 
 ### Tip 4: Chronology and Tenses

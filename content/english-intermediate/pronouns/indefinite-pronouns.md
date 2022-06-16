@@ -99,10 +99,11 @@ In case of question tag, we use ‘it’.
 ***Something*** is fishy, aren’t ***<span class="mak-text-color-incorrect">they</span>***? (incorrect) <br>
 ***Something*** is fishy, isn’t ***<span class="mak-text-color">it</span>***? (correct) 
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 We can’t use “’/’s” with Everything/Something/Nothing/Anything.
 
 ***<span class="mak-text-color-incorrect">Everything’s</span>*** beauty is difficult to define.  (incorrect) <br>
-The beauty of ***<span class="mak-text-color">everything</span>*** is difficult to define. (correct)
+The beauty of ***<span class="mak-text-color">everything</span>*** is difficult to define. (correct) -->
 

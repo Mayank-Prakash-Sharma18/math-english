@@ -150,12 +150,13 @@ Without ***any*** hesitation ***at all***, he came forward and offered to do com
 * few if any (i.e. not many and possibly none): <br>
 ***Few if any*** officers will do what he did.
 
-### Use 4: Emphasis
+<!-- Commented out for ebook sake -->
+<!-- ### Use 4: Emphasis
 
 ‘Any’ is used for emphasis purposes, after a verb. Here it means ‘at all’.
 
 Have conditions improved ***at all***? (correct) <br>
-Have conditions improved ***any***? (correct)
+Have conditions improved ***any***? (correct) -->
 
 <br><hr><br>
 
@@ -189,7 +190,8 @@ We couldn’t bear to lose ***any*** of these battlefield positions. <br>
 We couldn’t bear to lose ***any one*** of these battlefield positions. (same meaning, more emphasis) <br>
 We couldn’t bear to lose ***any single one*** of these battlefield positions. (same meaning, even more emphasis)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We also use ‘any one’ in the phrase “at any one time”. This phrase is used to add more clarity to a statement or emphasize something.
 
 We can only borrow a maximum of three books ***at any one time***.” (adds clarity) <br>
@@ -209,5 +211,5 @@ I can go to the gym ***any*** day this week. (i.e. any day, or some days, or all
 So, if we mean to say ‘each individual member of a group’, we should not use ‘any’ with singular countable nouns. Rather we will use ‘every’. 
 
 ***<span class="mak-text-color-incorrect">Any</span>*** student of this class should bring his id card tomorrow. (incorrect) <br>
-***<span class="mak-text-color">Every</span>*** student of this class should bring his id card tomorrow. (correct)
+***<span class="mak-text-color">Every</span>*** student of this class should bring his id card tomorrow. (correct) -->
 

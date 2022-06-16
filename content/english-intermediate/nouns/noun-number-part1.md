@@ -213,7 +213,8 @@ Special cases:<br>
 She has given me five spoonfuls of sugar.
 {{% /alert %}}
 
-##### If first noun in a compond noun has singular form but plural meaning
+<!-- Commented out for ebook sake -->
+<!-- ##### If first noun in a compond noun has singular form but plural meaning
 
 Even if the first noun has a singular form, it may have a plural meaning. We need not use its plural form:<br>
 a car park (a place for parking cars)<br>
@@ -226,7 +227,7 @@ E.g. a clothes shop (compare a shoe shop), glasses case (glasses means spectacle
  E.g. publications department<br>
 Compare:<br>
 the appointment board (the board which deals with a particular appointment)<br>
-the appointments board (the board which deals with all appointments)
+the appointments board (the board which deals with all appointments) -->
 
 <hr>
 
@@ -326,7 +327,8 @@ The begger ate ***two slices*** of bread. (bread - uncountable noun)
 
 Please show me ***some items of*** office stationery. (stationery - uncountable noun)
 
-#### Difference in meaning of Singular and Plural of Uncountable Nouns
+<!-- Commented out for ebook sake -->
+<!-- #### Difference in meaning of Singular and Plural of Uncountable Nouns
 
 Some uncountable nouns can be used in plural form but with a changed meaning.
 
@@ -339,5 +341,5 @@ coppers → copper coins; woods → forests.
 Abstract Nouns have no plural, as they are uncountable - hope, charity, love, kindness.<br>
 When used in the plural, they are used as countables and their meaning changes too somewhat.<br>
 provocations → instances or cases of provocation.<br>
-kindnesses → acts of kindness.
+kindnesses → acts of kindness. -->
 

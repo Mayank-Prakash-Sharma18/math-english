@@ -144,7 +144,8 @@ I have three pairs of scissors. (correct)
 I have bought two shoes. (incorrect – to count we need to use ‘a pair of’ or ‘pairs of’)<br>
 I have bought two pairs of shoes. (correct)
 
-#### ‘A pair of’ Vs. ‘pairs of’:
+<!-- Commented out for ebook sake -->
+<!-- #### ‘A pair of’ Vs. ‘pairs of’:
 
 A Pair of + nouns having two parts + Singular Verb<br>
 Pairs of + nouns having two parts + Plural Verb<br>
@@ -157,4 +158,4 @@ A Pair of shoes ***have*** cost me two hundred dollars. (incorrect)<br>
 A Pair of shoes ***has*** cost me two hundred dollars. (correct)
 
 Many pairs of trousers ***is*** lying here and there. (incorrect)<br>
-Many pairs of trousers ***are*** lying here and there. (correct)
+Many pairs of trousers ***are*** lying here and there. (correct) -->

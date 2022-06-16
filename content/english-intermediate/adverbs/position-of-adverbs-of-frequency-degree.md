@@ -74,7 +74,8 @@ I ***often*** have to go to sleep hungry.
 
 He ***always*** used to taunt me.
 
-### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 5
 
 There are exceptions to the rule that adverbs of frequency occupy the mid position. That is, they may occupy front or end positions too. 
 
@@ -102,7 +103,7 @@ Negative Adverb of indefinite frequency + Helping verb + Subject
 ***<span class="mak-text-color">Never had we</span>*** encountered such a challenge. (correct; had – helping verb; we - subject)
 
 ***<span class="mak-text-color-incorrect">Not once he was</span>*** at his seat when I inspected. (incorrect) <br>
-***<span class="mak-text-color">Not once was he</span>*** at his seat when I inspected. (correct; was – main verb ‘be’; he - subject)
+***<span class="mak-text-color">Not once was he</span>*** at his seat when I inspected. (correct; was – main verb ‘be’; he - subject) -->
 
 {{% alert note %}}
 Hardly/Scarcely/Barely/Never/Seldom are negative words. So, we can't use another negative word with them.

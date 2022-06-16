@@ -65,7 +65,8 @@ Come home. The children ***will*** enjoy seeing you again.
 
 I imagine the theater ***will*** be full for the play on Tuesday.
 
-### Use Case 6: Conditional sentences
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 6: Conditional sentences
 
 In case of conditional sentences/if-sentences:
 
@@ -80,7 +81,7 @@ If you concentrate on the top-right corner of the screen, you ***will*** (or ***
 
 {{% alert note %}}
 Conditional sentences - when we say that something (often something negative) is conditional on something else; it will happen if something else happens first.
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ## Going to Vs. Present continuous 
@@ -128,9 +129,10 @@ We generally want to sound polite when we want to ask them to do something unexp
 
 <img src="../../../media/tenses/tenses-22.png" alt="tenses" style="width:99%;height:99%;">
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 It is often possible to use ‘going to be + ing’ rather than the Future Continuous to ask about plans in a particularly polite way.
 
 Are you ***going to be starting*** work on the house today?
-{{% /alert %}}
+{{% /alert %}} -->
 

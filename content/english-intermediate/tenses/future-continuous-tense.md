@@ -88,7 +88,8 @@ We ***will be leaving / are leaving*** for Agra at 9.00 in the morning.
 
 Messi ***will be playing / is playing*** his first match for Barcelona at Milan.
 
-However, to talk about surprising or unexpected activities/events - We prefer the present continuous.
+<!-- Commented out for ebook sake -->
+<!-- However, to talk about surprising or unexpected activities/events - We prefer the present continuous.
 
-Don’t you know? Professor Voldemort ***is resigning***! (rather than - will be resigning.)
+Don’t you know? Professor Voldemort ***is resigning***! (rather than - will be resigning.) -->
 

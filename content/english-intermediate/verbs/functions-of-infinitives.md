@@ -58,7 +58,8 @@ Pattern: Subject + be + adjective + (for/of someone) + to-infinitive
 
 She is perfect for you ***to marry***. (perfect - adjective)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We us the preposition 'for/of' to show who these adjectives refer to.
 {{% /alert %}}
 
@@ -73,7 +74,7 @@ Aanya is wealthy enough ***to spend*** Rs. 1000 on her haircut. (wealthy enough 
 
 {{% alert note %}}
 Basically, ***too*** and ***enough*** are adverbs placed before or after the adjectives or adverbs that they modify. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Function 5
 
@@ -128,7 +129,8 @@ I would rather ***die*** than be a traitor.
 Negative particles should not be used between them. (e.g. we cannot write ‘would not rather’). However,  we can do so in interrogative sentences.
 {{% /alert %}}
 
-### Function 4
+<!-- Commented out for ebook sake -->
+<!-- ### Function 4
 
 Bare infinitive is also used in the following cases:
 
@@ -136,7 +138,7 @@ Bare infinitive is also used in the following cases:
 Why not ***play*** now? (play - bare infinitive)
 
 * Bare infinitive is used after 'have + object‘ when it is used in the sense of expressing wish. <br>
-I will have him ***speak*** the truth. (have him - 'have + object’)
+I will have him ***speak*** the truth. (have him - 'have + object’) -->
 
 
 ## Verbs and Infinitives
@@ -186,7 +188,8 @@ I ***heard him fire*** the gun.
 
 He ***felt a snake crawl*** up his leg.
 
-### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 5
 
 Subject + do/does/did + everything / nothing + but + [$V_1$ / <s>to + V1</s>] <br>
 Subject + any other verb + everything / nothing + but + [<s>V1</s> / to + $V_1$]
@@ -195,7 +198,7 @@ Meenakshi does nothing but ***<span class="mak-text-color-incorrect">to study</s
 Meenakshi does nothing but ***<span class="mak-text-color">study</span>*** all the time. (correct; does - verb)
 
 We want nothing but ***<span class="mak-text-color-incorrect">help</span>*** you become the Prime minister of India once again. (incorrect) <br>
-We want nothing but ***<span class="mak-text-color">to help</span>*** you become the Prime minister of India once again. (correct; want - verb)
+We want nothing but ***<span class="mak-text-color">to help</span>*** you become the Prime minister of India once again. (correct; want - verb) -->
 
 
 ## Question words and Infinitives

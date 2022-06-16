@@ -87,7 +87,8 @@ He exclaimed with joy that it was a very beautiful picture.
 Riya said, “what a cute puppy you have!” <br>
 Riya exclaimed with joy that I had a very cute puppy.
 
-### Concept 6
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 6
 
 Direct speech: Subject + say/said ......., “How + Adjective + Subject + verb + ..........!” <br>
 Indirect speech (in general): Subject + exclaim with joy/sorrow/surprise....+ that + Subject + verb + very + Adjective ..........
@@ -96,7 +97,7 @@ Aanya said, “how happy I am today!” <br>
 Aanya exclaimed with joy that she was very happy that day.
 
 Dwight said, “How sad!” <br>
-Dwight exclaimed with sorrow that it was very sad. 
+Dwight exclaimed with sorrow that it was very sad.  -->
 
 
 ## Changing the Reporting verb in Optative sentences

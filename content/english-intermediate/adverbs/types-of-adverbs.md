@@ -69,7 +69,8 @@ E.g. On 18th
 In + long duration (e.g. week, month, year, century, vacation etc) <br>
 E.g. In August, in 1983, in summar vacation, in 19th century
 
-#### In Vs. At
+<!-- Commented out for ebook sake -->
+<!-- #### In Vs. At
 
 Let's see some use cases of 'in' and 'at'. 
 
@@ -105,7 +106,7 @@ In the night (for a particular night). <br>
 E.g. I could not sleep in the night yesterday. 
 
 At night (in general). E.g. I sleep at night.<br>
-At midnight (12 midnight)<br>
+At midnight (12 midnight)<br> -->
 
 
 ### Adverbs of Frequency 

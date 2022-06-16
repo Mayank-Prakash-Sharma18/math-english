@@ -94,13 +94,14 @@ For pressure - we will use positive tag, i.e. the echo tag. (affirmative tag for
 Do it, won't you? (won’t you – asking for confirmation) <br>
 Do it, will you? (will you – echo tag for putting pressure)
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 If the main sentence begins with ‘don’t + $V_1$’, the question tag will always be affirmative. 
 
 Pattern: Don’t + $V_1$, affirmative tag?
 
-Don't sit there, will you?
+Don't sit there, will you? -->
 
 
 ### Rule 2: Contracted Negative Question Tag
@@ -180,7 +181,8 @@ Switch on the heater, ***would you***?
 * ‘can't you' (to express impatience) <br>
 Stop talking, ***can't you***?
 
-#### Concept 4
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 4
 
 If the sentence starts with 'let us/let's', 'shall we' is used in the question tag.
 
@@ -198,5 +200,5 @@ He says that he is smart, ***doesn't he***? (Two clauses – He says, he is smar
 
 ### Rule 6: Tense Agreement 
 
-The sentence and the question tag must be in the same tense.
+The sentence and the question tag must be in the same tense. -->
 

@@ -122,7 +122,8 @@ But to talk about a general necessity → We prefer don't need to (rather than n
 You ***<span class="mak-text-color-incorrect">needn't</span>*** be over 21 to get married. (incorrect) <br>
 You ***<span class="mak-text-color">don't need to</span>*** be over 21 to get married. (correct)
 
-### Concept 3: didn't need to / didn't have to Vs. need not have
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3: didn't need to / didn't have to Vs. need not have
 
 To say that it was not necessary to do something in the past, and it wasn't done → We use didn't need to or didn't have to. 
 
@@ -134,5 +135,5 @@ My boss told me that he couldn't come for dinner, so I ***didn't need/have to co
 I ***needn't have cooked*** dinner. My boss called to say that he couldn't come to eat. (i.e. I cooked the dinner)
 
 We ***didn't need to*** do it. (i.e. it was not necessary for us to do it, and we didn't do it.) <br>
-We ***needn't have*** done it. (i.e. it was not necessary for us to do it, but we did it.)
+We ***needn't have*** done it. (i.e. it was not necessary for us to do it, but we did it.) -->
 

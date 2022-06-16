@@ -108,12 +108,13 @@ He doesn’t care for ***<span class="mak-text-color">any</span>*** of us. (corr
 ***None of*** the students in my class talked during the break. (correct; students - noun) <br>
 ***None*** student in my class talked during the break. (incorrect)
 
-### Use 3
+<!-- Commented out for ebook sake -->
+<!-- ### Use 3
 
 We also use ‘none’ in the following phrase:
 
 * None at all: <br>
-Some of the coronavirus patients may show very mild symptoms, while some ***none at all***.
+Some of the coronavirus patients may show very mild symptoms, while some ***none at all***. -->
 
 <br><hr><br>
 
@@ -154,11 +155,12 @@ In case of uncountable nouns we use ‘none’. We cannot use ‘no one’ here,
 ‘No one’ and ‘Nobody’ always refer to people, and not inanimate objects. <br>
 ‘None’ may refer to  people or things. 
 
-### Difference 5
+<!-- Commented out for ebook sake -->
+<!-- ### Difference 5
 
 We also use ‘No one’ to indicate a lack of emphasis on any specific item/person in a group.
 
 He thought about it a lot, but ***no one*** solution seemed better than the others.”
 
-Everyone of you will get one toffee each. ***No one*** of you will get more than another.”
+Everyone of you will get one toffee each. ***No one*** of you will get more than another.” -->
 

@@ -162,7 +162,8 @@ When we use ‘Who’, it means we are enquiring about the name and family of th
 Who is he? ... He is Mr. Ratan Tata.
 {{% /alert %}}
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 What ..... for?  (it means ‘why’)  <br><br>
 ***What*** do you love me ***for***?  (i.e. Why do you love me?)
@@ -170,9 +171,10 @@ What ..... for?  (it means ‘why’)  <br><br>
 #### Concept 4
 
 What ..... is/am/ ..... + Noun/Pronoun + like?   (it means we want a description) <br><br>
-***What*** is the food ***like*** in your hostel?
+***What*** is the food ***like*** in your hostel? -->
 
-#### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 5
 
 What + do/does ..... + Noun/Pronoun + look like?   (it means we want to know the appearance) <br><br>
 ***What*** does your husband ***look like***?
@@ -193,7 +195,7 @@ My name is Aanya. ***<span class="mak-text-color">What</span>*** is yours? (corr
 Exclamatory Pronoun - a pronoun used as an exclamation.
 
 ***What***! You don't know Messi?
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 

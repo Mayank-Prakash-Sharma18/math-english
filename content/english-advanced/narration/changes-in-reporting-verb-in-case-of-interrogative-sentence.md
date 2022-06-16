@@ -121,7 +121,8 @@ Indirect speech pattern 2: Subject + suggest/propose + to + Object + that + we/t
 Direct speech: Alia said to Ankita, “what about spending some time together in the gym? <br>
 Indirect speech: Alia proposed to Ankita that they should spend some time together in the gym.
 
-### Concept 8
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 8
 
 In case of interrogative sentence, conveying a sense of request, we use the following structure:
 
@@ -131,5 +132,5 @@ Indirect Speech: He requested repeating the question.
 
 Indirect Speech pattern 2: Subject + request + Object + to + $V_1$ ....... <br>
 Direct Speech: He said to me, “could you please repeat the question?” <br>
-Indirect Speech: He requested me to repeat the question.
+Indirect Speech: He requested me to repeat the question. -->
 

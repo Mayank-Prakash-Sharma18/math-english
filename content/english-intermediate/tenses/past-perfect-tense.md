@@ -51,9 +51,10 @@ Pattern 2: By the time + Subject +  $V_2$ + .....+ Subject + had + $V_3$ +......
 
 By the time Mr. Anand reached home, she had typed all the letters.
 
-Pattern 3: Subject + $V_2$ + ..... + after + Subject + had + $V_3$ + ......
+<!-- Commented out for ebook sake -->
+<!-- Pattern 3: Subject + $V_2$ + ..... + after + Subject + had + $V_3$ + ......
 
-She told me his name after he had gone.
+She told me his name after he had gone. -->
 
 ### Use Case 2
 

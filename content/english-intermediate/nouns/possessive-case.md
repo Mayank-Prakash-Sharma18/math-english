@@ -54,13 +54,14 @@ E.g. That is Stephan Hawking ***the scientist's*** house. <br>
 Someone has stolen my brother, ***Anand’s*** watch. <br>
 Do you support Mr. Modi, ***the prime minister of India’s*** decision. (the prime minister of India’s - Noun-in-Apposition) <br>
 
-### When nouns are connected by ‘and’
+<!-- Commented out for ebook sake -->
+<!-- ### When nouns are connected by ‘and’
 
 When two nouns are closely connected (they share one thing together. i.e. common possession), the possessive is <strong>put to the latter</strong>. <br>
 E.g. Ajay and ***Mragank’s*** institute. 
 
 But each of two or more connected nouns must take the possessive sign if <strong>separate possession</strong> is implied. <br>
-E.g. ***Dan Brown's*** and ***Michael Crichton's*** novels. 
+E.g. ***Dan Brown's*** and ***Michael Crichton's*** novels.  -->
 
 <hr>
 
@@ -165,7 +166,8 @@ Have you gone through the ***poems of Shakespeare*** who was a great poet. (corr
 I don’t like ***the man’s behaviour*** sitting beside you. (incorrect)<br>
 I don’t like the ***behaviour of the man*** sitting beside you. (correct)<br>
 
-Exceptions:<br>
+<!-- Commented out for ebook sake -->
+<!-- Exceptions:<br>
 
 The Possessive is also used with some phrases:<br>
 At his ***fingers'*** ends; for ***mercy's*** sake; to his ***heart's*** content; at his ***wit's*** end; a ***boat's*** crew. <br>
@@ -177,5 +179,5 @@ Do not use double apostrophe with two consecutive nouns. (make use of ‘of’ t
 
 My husband’s secretary’s brother has expired. (incorrect)<br>
 The brother of my husband’s secretary has expired. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 

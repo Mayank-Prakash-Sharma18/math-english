@@ -25,10 +25,11 @@ Sometimes we use some time-period reference along with present perfect continuou
 He ***has been living*** in Melbourne for over a decade now. (notice the use of ‘for’) <br>
 This company ***has been running*** since 1983. (notice the use of ‘since’)
 
-Without any time-period reference, the present perfect continuous refers to a recent situation or activity and focuses on its present results:
+<!-- Commented out for ebook sake -->
+<!-- Without any time-period reference, the present perfect continuous refers to a recent situation or activity and focuses on its present results:
 
 It ***has been raining***. (or It’s ***been raining***) (i.e. it’s still raining) <br>
-You look exhausted. Yes, I ***have been working*** in the lab. (i.e. I have just stopped working)
+You look exhausted. Yes, I ***have been working*** in the lab. (i.e. I have just stopped working) -->
 
 ### Use Case 2
 
@@ -54,11 +55,12 @@ We use Present Perfect Continuous for actions repeated over a period of time.
 
 Pakistan violates LOC again and again. It ***has been going*** on there for years.
 
-### Use Case 4
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 4
 
 We use Present Perfect Continuous when we ask questions with ***‘How long...?’***
 
-How long ***have*** you ***been waiting*** for me?
+How long ***have*** you ***been waiting*** for me? -->
 
 <br><hr><br>
 

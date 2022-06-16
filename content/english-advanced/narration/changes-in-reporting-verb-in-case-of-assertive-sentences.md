@@ -53,11 +53,12 @@ Indirect Speech: He ***told*** me that he was careless. (told – reporting verb
 'to’ is not used after 'tell' and 'told'.
 {{% /alert %}}
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 To report what topic was talked about → We use ‘tell + object + about’ (rather than ‘said + object + about’).
 
 He ***told me about*** his upcoming movie. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Concept 3
 
@@ -114,11 +115,12 @@ Direct Speech: Mr. Bond said, “ladies and gentleman, it is highly dangerous to
 Indirect Speech 1: Mr. Bond addressed the public/people as ladies and gentlemen and said that it was highly dangerous to trust a person like him. <br>
 Indirect Speech 2: Addressing the people as ladies and gentlemen, Mr. Bond said that it was highly dangerous to trust a person like him.
 
-### Concept 8
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 8
 
 In case of “Let’s not”, we should use either “oppose the idea” or “is / was against it.”
 
 Direct Speech: She said, “let’s not talk about Madhuri.”
 
-Indirect Speech: She said that she was opposed to the idea of talking about Madhuri. 
+Indirect Speech: She said that she was opposed to the idea of talking about Madhuri.  -->
 

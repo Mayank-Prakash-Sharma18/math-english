@@ -63,7 +63,8 @@ Pattern: Either/Neither/Each + of + Plural Noun/Pronoun + Singular verb
 ***Either of you*** can go and fetch the duster. <br>
 ***Neither of the accusations*** made by the prosecution lawyer is true. (accusations – plural noun; is – singular verb)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 When each, either, neither work as Distributive Adjectives, they are followed by singular noun and singular verb.
 
 Pattern: Either/Neither/Each + Singular Noun/Pronoun + Singular verb 
@@ -71,7 +72,7 @@ Pattern: Either/Neither/Each + Singular Noun/Pronoun + Singular verb
 ***Each girl was*** given a toffee. (girl – singular noun; was – singular verb) <br>
 ***Either road leads*** to the police station. (road – singular noun; leads – singular verb)<br>
 ***Neither claim is*** true. (claim – singular noun; has – singular verb)
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Concept 2
 

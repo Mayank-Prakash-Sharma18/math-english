@@ -46,11 +46,11 @@ When ***shall*** we submit our project?
 ***<span class="mak-text-color-incorrect">Will</span>*** I leave? (incorrect) <br>
 ***<span class="mak-text-color">Shall</span>*** I leave? (correct)
 
-### Concept 3
+<!-- ### Concept 3
 
 ‘shall’ can also be used with second person (You) and third person (He, She, It, They), to denote command, promise, threat, determination, compulsion, and advice, etc. 
 
-‘will’ is used with ‘I’ and ‘We’ in similar cases.
+‘will’ is used with ‘I’ and ‘We’ in similar cases. -->
 
 Now let us see the use cases of ‘shall’ and ‘will’. 
 
@@ -122,13 +122,14 @@ Similarly, we use ‘will not’ (or won't) when we talk about unwillingness to 
 My exams have been preponed. - We ***will*** help you in your preparation. (i.e. we offer our help.) <br>
 I ***will*** give you another opportunity to improve your behaviour. (i.e. I offer another opportunity)
 
-* Agreeing to do something or Refusal to do something <br>
+<!-- Commented out for ebook sake -->
+<!-- * Agreeing to do something or Refusal to do something <br>
 You need to vacate your apartment.-  I ***will*** leave in a day or two. (i.e. I agree) <br>
 Mom!, Julia ***won't*** give me back my dolls. (i.e. she does not agree, is reluctant) <br>
 The key ***won't*** fit the lock. (i.e. the key refuses to fit in the lock.)
 
 * Invitations <br>
-***Will*** you come to my birthday party tonight? (an invitation)
+***Will*** you come to my birthday party tonight? (an invitation) -->
 
 * Asking somebody to do something, i.e. request / order (Will you ...?) <br><br>
 ‘will’ is used with second, third persons to denote request / order. <br>
@@ -147,9 +148,10 @@ This ***will*** be the wire you want, I suppose.
 * Expectation <br>
 I expect that my son ***will*** call me soon.
 
-* Think or don't think 	<br>
+<!-- Commented out for ebook sake --><!-- Commented out for ebook sake -->
+<!-- * Think or don't think 	<br>
 I think Aanya ***will*** like the present you bought her.	<br>
-I don't think the exam ***will*** be very difficult.
+I don't think the exam ***will*** be very difficult. -->
 
 * Wonder <br>
 I wonder what ***will*** happen to the ozone layer in years to come.
@@ -183,12 +185,12 @@ Every day Alka ***will*** come home from work and hug me.
 
 A baby ***will*** recognise its father's voice soon after it is born.
 
-
-### Use Case 7
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 7
 
 Imperative sentence beginning with let us/let's, will have 'shall we' in the question tag.
 
-***Let us*** work for this together, ***shall we***?
+***Let us*** work for this together, ***shall we***? -->
 
 
 <br><hr><br>
@@ -313,7 +315,8 @@ Compare the following sentences:
 Each time I went to him with a problem he ***would solve*** it for me. (it was always true) <br>
 Yesterday I went to him with a problem and he ***solved*** it for me. (here we are talking about a particular instance; so we will not use – ‘he would solve it...’)
 
-#### Exception
+<!-- Commented out for ebook sake -->
+<!-- #### Exception
 
 We can stress ‘would’ to talk about a ***particular occasion*** in the past too. This way we suggest that what happened was predictable because it was typical of a person's behaviour.
 
@@ -325,7 +328,7 @@ In speech, we can stress ‘will or would’ to criticise people's characteristi
 He ***will*** leave all the electrical appliances on in the house when he goes out.
 
 I was happy that I dumped him. He ***would*** always irritate me.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Use Case 8
 
@@ -361,8 +364,8 @@ I ***went*** on holiday for a week.
 * when we say that something happened at a particular time. <br>
 I ***went*** on holiday to the Maldives last month.
 
-
-### Use Case 10
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 10
 
 ‘would’ is also used in imaginative sentences.
 
@@ -388,5 +391,5 @@ If your grandfather had still been alive, he ***wouldn't have approved*** of thi
 
 would + $V_1$ is also used in present tense to show less certainty in future. 
 
-I think he ***would*** come. (but certainty is less)
+I think he ***would*** come. (but certainty is less) -->
 

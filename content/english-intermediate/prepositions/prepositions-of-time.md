@@ -31,9 +31,10 @@ For example: at midnight, at sunrise, at sunset, at day break, at noon, at night
 For example: at the end of March, at the beginning of the year, etc. <br>
 You will get your salary ***at*** the end of the month.
 
-* with short holiday periods <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * with short holiday periods <br><br>
 I will see you ***at*** Diwali. <br>		 
-We often go shopping ***at*** the weekend.
+We often go shopping ***at*** the weekend. -->
 
 * with mealtimes <br><br>
 For example: at breakfast, at lunch, at dinner, etc. <br>
@@ -59,8 +60,9 @@ E.g. I will do it ***in*** 5 minutes. (i.e. before or at the end of 5 minutes) <
 I will do it ***within*** 5 minutes. (i.e. before the end of 5 minutes)
 {{% /alert %}}
 
-* when we say how long something takes: <br><br>
-He learnt how to make an app ***in*** just a matter of months. (i.e. in a few months)
+<!-- Commented out for ebook sake -->
+<!-- * when we say how long something takes: <br><br>
+He learnt how to make an app ***in*** just a matter of months. (i.e. in a few months) -->
 
 * We use ‘in’ with ‘the middle of...’ <br><br>
 I guess he will be joining us some time in the middle of August.
@@ -124,7 +126,8 @@ Compare the following phrases:
 He’s in the washroom ***at the moment***. <br>			
 He will be with you ***in a moment***.
 
-#### Use Case 4: On time vs. In time
+<!-- Commented out for ebook sake -->
+<!-- #### Use Case 4: On time vs. In time
 
 Compare the following:
 
@@ -132,7 +135,7 @@ Compare the following:
 * in time – it means exactly at the set time, or before the set time.
 
 I reached the exam centre ***in*** time. (i.e. before the given time) <br>
-The examination started ***on*** time. (i.e. on scheduled time)
+The examination started ***on*** time. (i.e. on scheduled time) -->
 
 ### When not to use at, in and on 
 
@@ -205,13 +208,14 @@ We have not made even a single mistake ***since*** last two years.
 Since – it can also be used to denote 'reason'. <br>
 ***Since*** I was tired, I didn't play the match.
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 'since', 'because' and 'as' are not followed by so/therefore/that's why.
 
 But there are a few exceptions to this. For example, have a look at the following sentence:
 
-***As*** you sow, ***so*** you shall reap. (here 'as' is followed by 'so')
+***As*** you sow, ***so*** you shall reap. (here 'as' is followed by 'so') -->
 
 ### For Vs. Since 
 
@@ -275,13 +279,14 @@ We had enough capital to keep running our business ***during*** the financial de
 We had enough capital to keep running our business ***throughout*** the financial depression. 
 {{% /alert %}}
 
-##### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ##### Concept 3
 
 To talk about something that happens within the same time as another event or activity (rather than over a particular period of time) → We use ‘during’ (rather than ‘in’) 
 
 A dog came into our office ***during*** a meeting. 
 
-The President signed the arms agreement ***during*** a visit to Geneva.
+The President signed the arms agreement ***during*** a visit to Geneva. -->
 
 
 ### During and Over

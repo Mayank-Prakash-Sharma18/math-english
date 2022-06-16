@@ -137,13 +137,14 @@ E.g. each, every, either, neither.
 ***Either*** explanation can be printed. <br>
 ***Neither*** solution seems effective.
 
-##### Distributive Numeral Adjectives Vs. Distributive Pronoun 
+<!-- Commented out for ebook sake -->
+<!-- ##### Distributive Numeral Adjectives Vs. Distributive Pronoun 
 
 * Distributive Adjective – when each, every, either or neither are immediately <strong>followed by noun</strong>, then they function as Distributive Adjective.
 
 * Distributive Pronoun – when each, every either or neither are <strong>followed by some other word</strong>, then they function as Distributive Pronoun.
 
-<img src="../../../media/adjectives/distributive-adjective-pronoun.png" alt="Distributive Adjective Vs. Distributive Pronoun" style="width:90%;height:90%;">
+<img src="../../../media/adjectives/distributive-adjective-pronoun.png" alt="Distributive Adjective Vs. Distributive Pronoun" style="width:90%;height:90%;"> -->
 
 ### Relationship between Adjectives of Quantity and Adjectives of Number
 
@@ -227,7 +228,8 @@ It is ***the same*** ball that we lost yesterday. <br>
 He saw the murder with his ***own*** eyes. <br>
 This is the ***very*** necklace I want.
 
-### Concept
+<!-- Commented out for ebook sake -->
+<!-- ### Concept
 
 While using ‘own’, keep in mind that own (as an adjective) must be preceded by:
 
@@ -241,7 +243,7 @@ I do ***<span class="mak-text-color">my own</span>*** work. (correct; my - posse
 
 {{% alert note %}}
 He ***owns*** a Labrador. (here own is not an adjective but a verb)
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 
@@ -294,7 +296,8 @@ Pattern: each, every, either, neither +  singular noun + singular verb and singu
 ***Each*** student should submit his assignment. (student – singular noun; his – singular pronoun) <br>
 ***Neither*** accusation is true. (accusation – singular noun; is – singular verb)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 If each, either, neither function as adjectives, they modify a noun/pronoun. Then we call them distributive adjectives. 
 
 However, these words (i.e. each, either, neither etc.) can also function as a subject or object in a sentence. Then they are distributive pronouns.
@@ -303,7 +306,7 @@ However, these words (i.e. each, either, neither etc.) can also function as a su
 ***Each*** girl should be rewarded. (Each - distributive adjective, modifying the noun 'girl') 
 
 Note that, ***Every*** can only function as an adjective, not as a pronoun. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Concept 2
 
@@ -315,7 +318,8 @@ Here the pronoun will be according to the latter subject.
 
 Each boy and every girl was doing ***her*** work. (we used her as the latter subject is girl)
 
-### Concept 3: Every as Distributive adjective
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3: Every as Distributive adjective
 
 Every - one in a collection of three or more. We never use it in a group of two. 
 
@@ -332,4 +336,4 @@ As every is not a pronoun, we cannot use it alone. It is an adjective and we nee
 
 #### Concept 3b
 
-Also, we cannot say every of (like we say each of, either of), because every is not a pronoun.
+Also, we cannot say every of (like we say each of, either of), because every is not a pronoun. -->

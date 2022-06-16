@@ -91,7 +91,8 @@ So, we can’t use ‘among’ in the following cases:
 
 * If the things are physically not present, we can't use among. That is, we can't use among with concepts, e.g. problems. 
 
-### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 5
 
 We use among (rather than between), in the following cases:
 
@@ -105,7 +106,7 @@ We are ***among*** the best cricket players in the world. (i.e. we are 'some of�
 ***Among*** the metropolitan cities of India, Delhi is the most polluted. (i.e. 'out of’ all the metro cities)
 
 * In the expression 'among other things' (we do not say 'between other things') <br>
-***Among other things***, I enjoy reading and travelling.
+***Among other things***, I enjoy reading and travelling. -->
 
 
 ## Among Vs Amongst 

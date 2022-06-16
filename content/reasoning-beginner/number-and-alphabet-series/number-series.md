@@ -645,7 +645,8 @@ Pattern: <br>
 Answer: (c)
 </div> <br>
 
-### Type 10: Few elements derived from others
+<!-- Commented out for ebook sake -->
+<!-- ### Type 10: Few elements derived from others
 
 In this type of series, a few or all of the numbers are obtained when two or more of the other elements are operated in a certain way.
 
@@ -685,7 +686,7 @@ Pattern: <br>
 31 + 50 = 81 <br>
 
 Answer: (a)
-</div> <br>
+</div> <br> -->
 
 <br><hr><br>
 

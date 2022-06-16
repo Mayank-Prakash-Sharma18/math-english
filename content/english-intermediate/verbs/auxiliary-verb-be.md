@@ -107,7 +107,8 @@ We ***are*** to appear in court tomorrow.
 * to denote command. <br>
 Our instructor says we ***are*** to exercise for one hour everyday.
 
-### Use Case 7
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 7
 
 Past tense form of ‘be’ is used with the perfect infinitive to indicate an arrangement that was made but not carried out.
 
@@ -118,5 +119,5 @@ They ***were*** to have been engaged last week but had to postpone it.
 'Were' is used in imaginary sentences. 
 
 If he ***<span class="mak-text-color-incorrect">was</span>*** a superstar, he would have earned millions. (incorrect) <br>
-If he ***<span class="mak-text-color">were</span>*** a superstar, he would have earned millions. (correct)
+If he ***<span class="mak-text-color">were</span>*** a superstar, he would have earned millions. (correct) -->
 

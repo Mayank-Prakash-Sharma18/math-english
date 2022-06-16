@@ -36,7 +36,8 @@ The word ‘who’ does the work of a Pronoun and also that of a Conjunction (Co
 But we still call it a Relative Pronoun because it refers to (or relates to) antecedent noun. 
 {{% /alert %}}
 
-### Concept 
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 
 
 Never use any conjunction between the antecedent and the relative pronoun.
 
@@ -44,7 +45,7 @@ The ***<span class="mak-text-color-incorrect">boy and whom</span>*** I like most
 The ***<span class="mak-text-color">boy whom</span>*** I like most is none other than your brother. (correct)
 
 That was a wonderful ***<span class="mak-text-color-incorrect">chance but which</span>*** you have lost. (incorrect) <br>
-That was a wonderful ***<span class="mak-text-color">chance which</span>*** you have lost. (correct)
+That was a wonderful ***<span class="mak-text-color">chance which</span>*** you have lost. (correct) -->
 
 
 ## Agreement of the Relative Pronoun and its Antecedent
@@ -82,9 +83,10 @@ Pattern: Noun/Pronoun + Relative Pronoun (Object) + Subject + Helping verb + Mai
 
 I have a daughter ***whom*** I love very much. (whom - relative pronoun and object of subordinate clause)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 ‘which’ and ‘that’ are used as subject as well as object. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Concept 2
 
@@ -123,12 +125,13 @@ I am the king of all I survey.
 * Antecedent + Relative Pronoun (we can omit it) + Subject + Verb + ........ <br><br>
 The book ***which*** I lent you is hers. <br>
 The book I lent you is hers. (book – antecedent; which – omitted; I – subject)
- 
-* Antecedent + [Relative Pronoun + is/am/are/was/were] (we can omit it) + adjective/$V_3$ <br><br>
+
+<!-- Commented out for ebook sake -->
+<!-- * Antecedent + [Relative Pronoun + is/am/are/was/were] (we can omit it) + adjective/$V_3$ <br><br>
 All the boys ***that are*** good at Maths can dance. <br>
 All the boys good at Maths can dance. (boys – antecedent; that are – omitted; good – adjective) <br><br>
 All the chairs ***which were*** broken yesterday have been repaired. <br>
-All the chairs broken yesterday have been repaired. (chairs – antecedent; which were – omitted; broken – $V_3$)
+All the chairs broken yesterday have been repaired. (chairs – antecedent; which were – omitted; broken – $V_3$) -->
 
 * Antecedent + [Relative Pronoun + $V_1$ / $V_2$ /is/ am/are/was/were + $V_4$] (this can be changed into $V_4$) <br><br>
 The girl ***who lives*** in California loves me the most. <br>
@@ -162,9 +165,10 @@ E.g. whoever (i.e. any person who), whosoever; whichever; whatever, whatsoever.
 I will appoint ***whomsoever*** you select. <br>
 ***Whatever*** she does, she will face no repercussions. 
 
-### Concept 
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 
 
 As these compound relative pronouns have no antecedent, we use singular verb with them.
 
 Whoever/Whosoever ***<span class="mak-text-color-incorrect">have</span>*** the power can play dirty. (incorrect; plural verb - have) <br>
-Whoever/Whosoever ***<span class="mak-text-color">has</span>*** the power can play dirty. (correct; singular verb - has)
+Whoever/Whosoever ***<span class="mak-text-color">has</span>*** the power can play dirty. (correct; singular verb - has) -->

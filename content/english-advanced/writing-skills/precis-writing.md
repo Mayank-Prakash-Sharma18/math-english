@@ -76,7 +76,8 @@ Keep in mind the following points:
 
 * Avoid using questions in precis. Even if the original passage has used questions, you should convert them to normal sentences (affirmative or negative). 
 
-* You should also give an appropriate title to the precis. Though in some exams it’s optional. But giving a title to whatever you write is considered a good writing practice. The title should not be too long and it should be coherent with the theme of the passage and the precis. It should convey the core idea of the passage/precis. 
+<!-- Commented out for ebook sake -->
+<!-- * You should also give an appropriate title to the precis. Though in some exams it’s optional. But giving a title to whatever you write is considered a good writing practice. The title should not be too long and it should be coherent with the theme of the passage and the precis. It should convey the core idea of the passage/precis.  -->
 
 ### Step 4: Proof-read the Precis
 

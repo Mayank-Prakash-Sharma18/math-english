@@ -65,8 +65,8 @@ The president ***wants*** to reward them. <br>
 The president ***doesn’t want*** to reward them.
 {{% /alert %}}
 
-
-### Anaphoric ‘to’
+<!-- Commented out for ebook sake -->
+<!-- ### Anaphoric ‘to’
 
 Anaphoric ‘to’ is used when the same infinitive is to be repeated.
 
@@ -91,7 +91,7 @@ I like ***to*** on a rainy day ***eat*** French fries. (to ... eat – split 
 On a rainy day, I like ***to eat*** French fries. (rephrased sentence)
 
 I wanted ***to*** quickly ***jump*** into the pool. (to ... jump – split infinitive) <br>
-I wanted ***to jump*** into the pool quickly. (rephrased sentence)
+I wanted ***to jump*** into the pool quickly. (rephrased sentence) -->
 
 
 ### ‘To’ Preposition Phrase Vs. Infinitive
@@ -197,7 +197,8 @@ I like to run.
 Generally when used with modal verbs (e.g. can, should and could) and certain other verbs like see and hear. <br>
 I might ***run*** to the store.
 
-There is no difference in meaning between the two forms of present infinitive. It’s just that some structures require a to-infinitive, while others go with bare infinitive.
+<!-- Commented out for ebook sake -->
+<!-- There is no difference in meaning between the two forms of present infinitive. It’s just that some structures require a to-infinitive, while others go with bare infinitive. -->
 
 ### Continuous infinitive
 
@@ -224,7 +225,8 @@ Perfect infinitive refers to a time before that of the preceding verb.
 I am glad ***to have studied*** at that university. (preceding verb – am) <br>
 The ship was assumed ***to have left*** yesterday. (preceding verb – was assumed) 
 
-We sometimes use the zero form of the perfect infinitive:
+<!-- Commented out for ebook sake -->
+<!-- We sometimes use the zero form of the perfect infinitive:
 
 Arthur must ***have forgotten*** about the show. (preceding verb – must) <br>
 By next year, they will ***have finished*** the course. (preceding verb – will)
@@ -234,7 +236,7 @@ Perfect infinitive form is most commonly found in conditional sentences (Type 3)
 
 For example: <br>
 If I had known you were cheating, I would have called the principal.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Perfect continuous infinitive
 
@@ -245,10 +247,11 @@ Just like perfect infinitive, perfect continuous infinitive refers to a time be
 I am lucky ***to have been living*** with you for the last two months. (preceding verb – am) <br>
 The terrorists were thought ***to have been digging*** the tunnel for days. (preceding verb – were thought)
 
-We sometimes use the zero form of the perfect continuous infinitive:
+<!-- Commented out for ebook sake -->
+<!-- We sometimes use the zero form of the perfect continuous infinitive:
 
 She must ***have been preparing*** for long. (preceding verb – must) <br>
-By this time tomorrow, the engine will ***have been running*** for forty hours. (preceding verb – will)
+By this time tomorrow, the engine will ***have been running*** for forty hours. (preceding verb – will) -->
 
 ### Passive infinitives
 

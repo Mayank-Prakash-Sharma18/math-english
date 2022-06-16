@@ -109,7 +109,8 @@ I ***began playing*** Mario.
 She ***started to look*** for a new job. <br>
 She ***started looking*** for a new job.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 **Exception 1:**
 
 After progressive forms of 'begin' and 'start' infinitives are preferred (to avoid using two -ing forms together). 
@@ -122,7 +123,7 @@ In case of ‘understand, realise and know’, we use the infinitive form after 
 
 She ***began to realise*** her mistakes but there was nothing she could do then. <br>
 She ***started to know*** the consequences of her actions after she got a taste of her own medicine.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ##### like, love, hate and prefer
 
@@ -158,7 +159,8 @@ These verbs are followed by gerund when there is no object and to-infinitive whe
 I'd advise ***doing*** more exercise. (correct) <br>
 I'd advise ***you to do*** more exercise. (correct; you - object)
 
-##### request, advise, order, allow, permit and forbid
+<!-- Commented out for ebook sake -->
+<!-- ##### request, advise, order, allow, permit and forbid
 
 If these verbs are followed immediately by an object, a to-infinitive is used otherwise gerund will follow.
 
@@ -172,7 +174,7 @@ Meenakshi advised me ***<span class="mak-text-color-incorrect">waking</span>*** 
 Meenakshi advised me ***<span class="mak-text-color">to wake</span>*** up early in the morning. (correct)
 
 He requested ***<span class="mak-text-color-incorrect">to keep</span>*** quite in the class. (incorrect) <br>
-He requested ***<span class="mak-text-color">keeping</span>*** quite in the class. (correct)
+He requested ***<span class="mak-text-color">keeping</span>*** quite in the class. (correct) -->
 
 ##### remember, regret, forget 
 
@@ -227,8 +229,8 @@ I ***saw*** the old man crossing the road. (crossing – gerund)
 
 <img src="../../../media/verbs/verbs-15.png" alt="verbs" style="width:99%;height:99%;">
 
-
-### Concept 5: Phrases and Expressions followed by Gerund and not infinitive
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 5: Phrases and Expressions followed by Gerund and not infinitive
 
 We use a gerund (rather than an infinitive) after some phrases and expressions. Let’s see some of them. 
 
@@ -236,7 +238,7 @@ We use a Gerund (rather than an infinitive) after:
 
 * Prepositions (including Verb phrases or Adjective phrases, i.e. certain verbs and adjectives followed by a preposition)
 
-* Certain expressions ending in a preposition (e.g. in spite of, there's no point in etc.)
+* Certain expressions ending in a preposition (e.g. in spite of, there's no point in etc.) -->
 
 
 #### Verb phrases and Adjective phrases followed by Gerund and not Infinitive
@@ -271,7 +273,8 @@ Some verb and adjective phrases are also followed by a Gerund.
 At last we ***succeeded in accomplishing*** this mission. <br>
 Are you ***interested in reading*** Gita?
 
-##### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ##### Concept 3
 
 Some phrases have ‘to’ in them and they are followed by Gerund. 
 
@@ -301,7 +304,7 @@ You will encounter ‘to’ in three forms. You should take care not to get conf
 He went back to reading his novel. (to – preposition; reading – gerund as the object of the preposition ‘to’) <br>
 I want to go home. (want – verb; to go – to-infinitive) <br>
 I used to live in Japan. (used to – auxiliary verb; live - main verb)
-{{% /alert %}}
+{{% /alert %}} -->
 
 ###### go and go out
 
@@ -378,12 +381,13 @@ Aanya spends too much time ***<span class="mak-text-color">watching</span>*** te
 Meenakshi has spent years ***<span class="mak-text-color-incorrect">to try</span>*** to persuade Monica. (incorrect) <br>
 Meenakshi has spent years ***<span class="mak-text-color">trying</span>*** to persuade Monica. (correct)
 
-##### Concept 5
+<!-- Commented out for ebook sake --> 
+<!-- ##### Concept 5
 
 catch / leave / find / keep + Noun/Pronoun + Gerund
 
 I caught him ***<span class="mak-text-color-incorrect">to open</span>*** the doors of my car. (incorrect) <br>
-I caught him ***<span class="mak-text-color">opening</span>*** the doors of my car. (correct)
+I caught him ***<span class="mak-text-color">opening</span>*** the doors of my car. (correct) -->
 
 
 ### Concept 6: Verbs followed by Infinitive and not Gerund
@@ -410,7 +414,8 @@ He encouraged his juniors ***to revolt*** against the management. (his junior
 
 Remind me ***to give*** Mragank a call. (me - pronoun)
 
-Now, there are certain verbs that use either pattern, i.e. they may take a direct object before to-infinite or not. 
+<!-- Commented out for ebook sake -->
+<!-- Now, there are certain verbs that use either pattern, i.e. they may take a direct object before to-infinite or not. 
 
 Some of such verbs are: ask, expect, (would) like, want, need
 
@@ -421,7 +426,7 @@ Julia expected ***to win***. <br>
 Julia expected her team ***to win***. (her team – pronoun as direct object)
 
 Mayank likes ***to bowl*** fast. <br>
-Mayank likes his bowlers ***to bowl*** fast. (his bowlers – pronoun as direct object)
+Mayank likes his bowlers ***to bowl*** fast. (his bowlers – pronoun as direct object) -->
 
 #### Concept 2
 

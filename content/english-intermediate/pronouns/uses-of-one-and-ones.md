@@ -133,7 +133,8 @@ If 'one' is working as the subject in a sentence, then to refer to that subject 
 One must love ***<span class="mak-text-color-incorrect">his</span>*** country. (incorrect) <br>
 One must love ***<span class="mak-text-color">one’s</span>*** country. (correct)
 
-### Concept 8: Question Tag
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 8: Question Tag
 
 In question Tag, we use “one”. 
 
@@ -159,7 +160,7 @@ Don’t forget to get some hand towels. There’s just ***one*** in the bathroom
 ***One*** day we will be rich. (one – referring to an undetermined point in time in the future; here ‘one’ is not an indefinite pronoun)
 
 * ‘one’ may be used to amplify something. <br><br>
-Believe me, Mak is ***one*** good soldier. (here ‘one’ serves as amplification, as a synonym for ‘a great soldier’; here ‘one’ is not an indefinite pronoun)
+Believe me, Mak is ***one*** good soldier. (here ‘one’ serves as amplification, as a synonym for ‘a great soldier’; here ‘one’ is not an indefinite pronoun) -->
 
 
 ## When not to use One/Ones 
@@ -170,7 +171,8 @@ We don't use one/ones in the following cases:
 Have you got any lemon? I need ***<span class="mak-text-color-incorrect">a one</span>*** for a cocktail I am serving. (incorrect) <br>
 Have you got any lemon? I need ***<span class="mak-text-color">one</span>*** for a cocktail I am serving. (correct)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We can use ‘one’ after ‘a’, but there has to be an adjective in between the two. 
 
 a + one (incorrect) <br>
@@ -178,7 +180,7 @@ a + adjective + one (correct)
 
 I would like to buy a cake. If possible, I will get ***a big one***. (correct; big – adjective) <br>
 I would like to buy a cake. If possible, I will get ***one*** with a lot of space. (correct; as we dropped the adjective ‘big’, we dropped ‘a’ too)
-{{% /alert %}}
+{{% /alert %}} -->
 
 * We don't use ‘one/ones’ after nouns, which are used as adjectives. <br><br>
 Generally I keep the tickets in my shirt pocket, but that day I put them in my ***<span class="mak-text-color-incorrect">jeans one</span>***. (incorrect) <br>
@@ -215,8 +217,9 @@ We may or may not use one/ones in the following cases:
 * We may (or may not) leave out one/ones after ‘which’. <br><br>
 When we buy diamonds, we have no way of knowing ***which (ones)*** are original. (ones = diamonds)
 
-* We may (or may not) leave out one/ones after superlatives. <br><br>
-If you are thinking of overtaking a new company, then remember that the ***most profitable (ones)*** are often the smallest and cheapest.
+<!-- Commented out for ebook sake -->
+<!-- * We may (or may not) leave out one/ones after superlatives. <br><br>
+If you are thinking of overtaking a new company, then remember that the ***most profitable (ones)*** are often the smallest and cheapest. -->
 
 * We may (or may not) leave out one/ones after demonstrative pronouns (i.e. this, that, these, and those). <br><br>
 The last comedian was awesome, but ***this (one)*** is boring.
@@ -225,8 +228,9 @@ The last comedian was awesome, but ***this (one)*** is boring.
 As per some experts, 'those ones' is incorrect. So, we should avoid using it, particularly in formal English.
 {{% /alert %}}
 
-* We may (or may not) leave out one/ones after either, neither, another, each, the first/second/last, etc. (the forms without ‘one/ones’ are considered more formal). <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * We may (or may not) leave out one/ones after either, neither, another, each, the first/second/last, etc. (the forms without ‘one/ones’ are considered more formal). <br><br>
 Mak pointed to the laptops and said I could buy ***the first (one)***. <br><br>
 Mak pointed to the laptops and said I could buy ***either (one)***. (correct) <br>
-Mak pointed to the laptops and said I could buy ***either of them***. (correct)
+Mak pointed to the laptops and said I could buy ***either of them***. (correct) -->
 

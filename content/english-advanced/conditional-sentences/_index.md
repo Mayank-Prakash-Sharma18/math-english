@@ -118,7 +118,8 @@ Sometimes the conditional clause can be in present perfect tense (rather than in
 
 If you have finished your homework, you may go out and play.
 
-#### Concept
+<!-- Commented out for ebook sake -->
+<!-- #### Concept
 
 As you have already seen, we don't usually use ‘if...will’ in conditional clauses. That is, when we talk about the future, we use a present tense, not will. 
 
@@ -130,7 +131,7 @@ However, we can use ‘if...will’ in conditional clauses in the following case
 * in requests
 
 Switch on the light ***if*** it ***will help*** (or ***helps***) you to sleep. ('Helping you to sleep' is the result of switching on the light.) <br>
-***If*** you ***will take*** your seats, ladies and gentlemen, we can start our play. (request)
+***If*** you ***will take*** your seats, ladies and gentlemen, we can start our play. (request) -->
 
 {{% alert note %}}
 If you want to make a request more polite, you can use ‘if...would’:
@@ -203,7 +204,8 @@ We use ‘if...not’ but not ‘unless’, in the following cases:
 I will be surprised ***<span class="mak-text-color-incorrect">unless you</span>*** win. (incorrect; meaningless) <br>
 I will be surprised ***<span class="mak-text-color">if you do not</span>*** win. (correct)
 
-* in most questions: <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * in most questions: <br><br>
 ***<span class="mak-text-color-incorrect">Unless you are</span>*** selected, what will you do? (incorrect; meaningless) <br>
 ***<span class="mak-text-color">If you are not</span>*** selected, what will you do? (correct)
 
@@ -216,7 +218,7 @@ We have to declare bankruptcy – ***<span class="mak-text-color">unless you fin
 
 {{% alert note %}}
 The afterthought is often separated from the rest of the sentence by a dash.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Whether
 
@@ -252,13 +254,14 @@ You should ***consider*** carefully ***whether*** you want to become an engineer
 I could not decide ***whether to buy*** an air conditioner or cooler. (to buy - infinitive) <br>
 We argued ***about whether*** she should become a banker or an inspector. (about - preposition)
 
-* in a clause acting as a subject or complement. <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * in a clause acting as a subject or complement. <br><br>
 ***Whether*** he will appear in GMAT or GRE remains to be seen. (Whether – part of subject) <br>
-Our prime concern is ***whether*** it was a cold blooded murder or not. (whether – part of complement)
+Our prime concern is ***whether*** it was a cold blooded murder or not. (whether – part of complement) 
 
 * in the pattern ‘noun + as to + whether’ to mean 'about' or 'concerning‘. <br><br>
 Nouns commonly used in this pattern are: disagreement, debate, discussion, doubt, question, uncertainty. <br><br>
-There was some ***disagreement as to whether*** he is capable of managing a radar system.
+There was some ***disagreement as to whether*** he is capable of managing a radar system. -->
 
 <br><hr><br>
 

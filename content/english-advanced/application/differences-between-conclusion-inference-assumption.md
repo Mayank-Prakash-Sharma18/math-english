@@ -149,13 +149,14 @@ In summary, we can say that: <br>
 * Inference/Conclusion is drawn (understood) by the reader.
 * Assumption is something that was kept in mind (taken into consideration) by the author when he wrote that passage.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 ###### Strengthening and Weakening of Argument
 
 Sometimes in critical reasoning questions you are given some statements/arguments/passage/conclusion/inference and then you are asked which statement will strengthen or weaken the given statements/arguments/passage/deduction. 
 
 Basically, they are asking you to find the ***assumption*** that will support or counter the given information in the passage or the conclusion/inference we deduced from that passage.
-{{% /alert %}}
+{{% /alert %}} -->
 
 {{% alert note %}}
 Sometimes, the question will not mention the words conclusion, inference or assumption explicitly. But you can sense them by the language of the question. 
@@ -208,7 +209,8 @@ Say, there have been excessive rain in some region (cause), then it's immediate 
 
 Here, the ***focus is more on the future*** - The effects will be felt in the future. Similarly, any suggestions will only be implemented in the future. 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 #### Imply Vs. Implication
 
 Do not confuse imply with implication. 
@@ -218,7 +220,7 @@ Imply is a verb that means 'to suggest something in an indirect way or without a
 While implication is a noun that may mean either of the following:
 * the effect that something will have on something else in the future. (in a RC question, this is what implication generally means) Or
 * something that is suggested or said indirectly. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ### Corollary
@@ -243,7 +245,8 @@ So, a situation has been described in this passage. The most logical and rationa
 
 As per the passage, global trade negotiations are trying to colonise digital data, i.e. author is highlighting the risk involved. So, its result would be that India will be more careful in such negotiations. (here corollary = direct and natural result)
 
-#### Implication Vs. Corollary   
+<!-- Commented out for ebook sake -->
+<!-- #### Implication Vs. Corollary   
 
 * Implication - It's more in the nature of cause-effect. The implication may be the future effect or some suggestion. So, it's more ***future oriented***. <br>
 E.g. Rain may be the cause and its implication may be flood or an idea to build dams. 
@@ -263,8 +266,10 @@ I am relatively stronger in English, than in Maths. (Statement/Cause) <br>
 I am relatively weaker in Maths, than in English. (here corollary = alternative way of saying the same thing)
 
 I am weak in Maths. (Statement/Cause) <br>
-If the Maths section would be tough in exam, than I have no chance of qualifying. (Implication)
+If the Maths section would be tough in exam, than I have no chance of qualifying. (Implication) -->
 
+
+## Winding Up
 
 We hope that this article was useful. If it was overwhelming, take a break and re-read the article again. Solve some questions. Apply these concepts. 
 

@@ -70,7 +70,8 @@ But we prefer using ‘be able to’ when talking about a specific achievement (
 
 <img src="../../../media/verbs/verbs-7.png" alt="verbs" style="width:99%;height:99%;">
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 **Exceptions**:
 
 With some verbs we commonly use ‘can’ and ‘could’, even when we are talking about specific occasions.
@@ -82,7 +83,7 @@ Verbs of 'thinking', e.g. believe, decide, remember, understand.
 She ***could feel*** the scorching heat as she crawled through the corridor of the burning building.
 
 I ***can't decide*** where to go for my dinner. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 ##### could Vs. be able to (With reference to general ability and performance)
 
@@ -217,13 +218,14 @@ In 1950s, women ***couldn't*** vote. (correct)
 
 We ***couldn't / weren't allowed to*** attend the school until month-end.
 
-#### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 5
 
 If we use the present perfect, past perfect or an infinitive, we use ‘be allowed to’, not ‘can/could’.
 
 He is unlikely ***to be allowed to*** enter Brisbane again.
 
-They ***have been allowed to*** keep the treasure they found in their caves.
+They ***have been allowed to*** keep the treasure they found in their caves. -->
 
 
 ### Use Case 3: Offer
@@ -267,7 +269,8 @@ We can also use ‘would’ to give an offer. We use it in following scenarios:
 I ***<span class="mak-text-color-incorrect">will like</span>*** an apple juice. (incorrect) <br>
 I ***<span class="mak-text-color">would like</span>*** an apple juice. (correct)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 We can also use ***should*** (with I or we) instead of ***would*** in requests like this, but this is formal.
 {{% /alert %}}
 
@@ -277,7 +280,7 @@ What ***<span class="mak-text-color-incorrect">will you like</span>*** to eat/dr
 What ***<span class="mak-text-color">would you like</span>*** to eat/drink? (correct)
 
 What ***<span class="mak-text-color-incorrect">would you have</span>*** to eat/drink? (incorrect) <br>
-What ***<span class="mak-text-color">will you have</span>*** to eat/drink? (correct)
+What ***<span class="mak-text-color">will you have</span>*** to eat/drink? (correct) -->
 
 
 ### Use Case 4: Request
@@ -479,7 +482,8 @@ To say that by some time in the future, it is possible that something will have 
 
 By next Saturday I ***may/might have created*** the required motion graphic.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Could can also be used in the same pattern to talk about a future possibility (instead of may or might). We do so when we want to show that we are unsure about the possibility.
 {{% /alert %}}
 
@@ -489,7 +493,7 @@ We can use some words like well/conceivably/possibly in such structures (to talk
 That is, may/might/could + well/conceivably/possibly + have + past participle 
 
 But we don't use 'can + well/conceivably/possibly + have + past participle)
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ##### Use of may, might, can and could with infinitive
@@ -517,7 +521,8 @@ Mak is not here. He ***may/might be playing*** at the club. (i.e. possibly he’
 
 When I become a minister, I ***may/might be working*** with Floyd.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Could can also be used in the same pattern (instead of may or might). We do so when we want to show that we are unsure about the possibility.
 {{% /alert %}}
 
@@ -525,7 +530,7 @@ Could can also be used in the same pattern (instead of may or might). We do so w
 We can combine past participle and –ing to talk about possible situations or activities that went on over a period of time until now.
 
 There are no bugs left in the software. I guess Mayank ***might have been working*** on it. (i.e. from a past time until now)
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ### Use Case 6: Wish

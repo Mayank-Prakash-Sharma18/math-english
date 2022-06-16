@@ -179,7 +179,8 @@ She is ***not as*** good a student ***as*** you. (Negative sentence) <br>
 She is ***not so*** good a student ***as*** you. (Negative sentence) 
 {{% /alert %}}
 
-#### Manner
+<!-- Commented out for ebook sake -->
+<!-- #### Manner
 
 as, as if, as though, as far as.
 
@@ -190,7 +191,7 @@ He treated me ***as if*** I was a criminal.
 though, although, however.
 
 ***Though*** he practiced hard, he still lost the boxing bout. <br>
-He tried very hard ***however***, he could not win the boxing bout.
+He tried very hard ***however***, he could not win the boxing bout. -->
 
 
 ## Words that can work both as subordinating and coordinating conjunction

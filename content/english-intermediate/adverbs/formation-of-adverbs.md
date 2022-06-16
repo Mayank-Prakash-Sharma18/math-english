@@ -54,7 +54,8 @@ E.g. allegedly, belatedly, contentedly, dejectedly, deservedly, excitedly, hurri
 
 They ***hurriedly*** left the room.
 
-### Concept 6
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 6
 
 A few words have the same adverb and adjective forms.
 
@@ -79,7 +80,7 @@ Wing commander behaved in a ***friendly*** manner. (correct)
 
 Some adverbs are compounds of a preposition and an adjective.
 
-E.g. behind, below, beyond.   
+E.g. behind, below, beyond.    -->
 
 <br><hr><br>
 

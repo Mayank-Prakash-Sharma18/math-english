@@ -195,7 +195,8 @@ He’s not available right now. Would you like me to ***<span class="mak-text-co
 You want us to ***<span class="mak-text-color-incorrect">have</span>*** that chance? (incorrect) <br>
 You want us to ***<span class="mak-text-color">take</span>*** that chance? (correct)
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 With some nouns we can use either ‘have’ or ‘take’. 
 
@@ -207,5 +208,5 @@ a walk, a bath, a break, a drink, an exam / a test, a guess, a holiday, a look, 
 {{% /alert %}}
 
 Would you like to ***have*** a walk with me? (correct) <br>
-Would you like to ***take*** a walk with me? (correct)
+Would you like to ***take*** a walk with me? (correct) -->
 

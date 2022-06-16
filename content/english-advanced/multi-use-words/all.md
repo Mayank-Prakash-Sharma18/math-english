@@ -55,10 +55,11 @@ We ***can all play*** squash. (pronoun both used after a modal verb) <br><br>
 You ***<span class="mak-text-color-incorrect">all must clean</span>*** the floor. (incorrect) <br>
 You ***<span class="mak-text-color">must all clean</span>*** the floor. (correct; ‘all’ used after the modal verb must and before the main verb ‘clean’)
 
-* after the verb ‘be’, if it’s the only verb in the sentence (so it will be the main verb).
+<!-- Commented out for ebook sake -->
+<!-- * after the verb ‘be’, if it’s the only verb in the sentence (so it will be the main verb).
 They ***are all*** good players. (pronoun both used after the verb ‘to be’) <br><br>
 The students ***<span class="mak-text-color-incorrect">all were</span>*** sad. (incorrect) <br>
-The students ***<span class="mak-text-color">were all</span>*** sad. (correct)
+The students ***<span class="mak-text-color">were all</span>*** sad. (correct) -->
 
 * after an auxiliary verb or the first auxiliary verb, if there are more than one verbs in a sentence. <br><br>
 They ***are all going*** to run away. (correct; are – auxiliary verb; going – main verb)<br>
@@ -180,7 +181,8 @@ Such pattern is often found in questions and exclamations.
 
 Have a look at ***all these mistakes***! (mistakes - plural countable noun)
 
-### Use 5
+<!-- Commented out for ebook sake -->
+<!-- ### Use 5
 
 In negative sentences having ‘all’ we generally use ‘not all’, rather than ‘all … not’.
 
@@ -192,7 +194,7 @@ We can also use none (of). However, the meanings of ‘not all’ and ‘none (o
 Compare:
 
 ***Not all*** my friends were at the party. (i.e. some of my friends were there) <br>
-***None of*** my friends were at the party. (i.e. no one was there)
+***None of*** my friends were at the party. (i.e. no one was there) -->
 
 <br><hr><br>
 
@@ -257,7 +259,8 @@ When used as adjectives/determiners, ‘all’ and ‘both’ can follow the nou
 ***<span class="mak-text-color-incorrect">The bread half</span>*** was eaten. (incorrect; noun - bread) <br>
 ***<span class="mak-text-color">Half the bread</span>*** was eaten. (correct; noun - bread)
 
-### Difference 6:
+<!-- Commented out for ebook sake -->
+<!-- ### Difference 6:
 
 We can use ‘both’ in the following two ways, and both usage mean the same thing.
 * both + noun - used to refer to two people or things
@@ -274,7 +277,7 @@ However, in case of ‘all’, the meanings differ a bit.
 ***All*** music makes people feel good inside. (correct; music - uncountable noun)
 
 ***All my*** kids hate green vegetables. (correct; kids - plural countable noun) <br>
-***All my*** music makes people feel good inside. (correct; music - uncountable noun)
+***All my*** music makes people feel good inside. (correct; music - uncountable noun) -->
 
 
 ## Every Vs. All / Both

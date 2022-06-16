@@ -68,7 +68,8 @@ I ***have to*** start coding on a daily basis. (my teacher has told me to code d
 Also, to talk about a necessity that is characteristic of a person → We prefer ‘have (got) to’: <br>
 Annu ***has got to*** have at least ten hours of sleep everyday.
 
-#### Concept 5
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 5
 
 To express moral obligation or desirability → We use ‘ought (to)’.
 
@@ -90,7 +91,7 @@ To convey the meaning that you should have but you didn't → We use ought + to 
 
 You ***ought to have obeyed*** your parents. 
 
-Alka ***ought not to have left*** her parents. 
+Alka ***ought not to have left*** her parents.  -->
 
 
 ### Use Case 2: Conclusion

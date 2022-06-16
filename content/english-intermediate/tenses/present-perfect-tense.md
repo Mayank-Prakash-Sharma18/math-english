@@ -64,11 +64,12 @@ We can't go ahead with the proposal, because very few members ***have supported*
 
 I ***have seen*** a snake under the carpet. Come quickly!
 
-### Use Case 6: Repetitive
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 6: Repetitive
 
 Present Perfect is also used to say that an action or event has been repeated a number of times up to now.
 
-They ***have been*** to the Netherlands two times. 
+They ***have been*** to the Netherlands two times.  -->
 
 <br><hr><br>
 

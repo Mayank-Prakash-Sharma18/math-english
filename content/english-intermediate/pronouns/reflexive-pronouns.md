@@ -87,7 +87,8 @@ Reflexive pronoun cannot be used as an object of a sentence, unless a noun/prono
 Rahul will do the assignment for ***<span class="mak-text-color-incorrect">myself</span>***. (incorrect) <br>
 Rahul will do the assignment for ***<span class="mak-text-color">me</span>***. (correct)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Don't get confused! 
 
 A Reflexive pronoun can function as an object alone. But the noun/pronoun it is referring to must come before it. 
@@ -97,7 +98,7 @@ He hurt ***himself***. (himself - reflexive pronoun working alone as an object o
 
 {{% alert note %}}
 This is also valid for emphatic pronouns. However, unlike reflexive pronouns, emphatic pronouns cannot function as an object alone. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 #### Concept 2
 

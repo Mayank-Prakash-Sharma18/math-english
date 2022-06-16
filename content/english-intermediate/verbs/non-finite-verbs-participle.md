@@ -149,8 +149,8 @@ Weather ***permitting***, there will be a full match tomorrow.
 
 The sea ***being smooth***, the ship lifted its anchor.
 
-
-### Degree of participle adjectives 
+<!-- Commented out for ebook sake -->
+<!-- ### Degree of participle adjectives 
 
 Just like other adjectives, participle adjectives can have various degrees too (i.e. comparative and superlative forms). So, we can use them to compare different nouns. 
 
@@ -160,7 +160,7 @@ The news that Azerbaijan attacked Armenia was ***shocking***.
 
 The news that Turkey was supporting Azerbaijan was ***more shocking***.   (more shocking - comparative form of the adjective; we are comparing two news)
 
-That Pakistan and Turkey were sending terrorists to the war was the ***most shocking*** thing I have ever heard. (most shocking - superlative form of the adjective; we are comparing more than two news)
+That Pakistan and Turkey were sending terrorists to the war was the ***most shocking*** thing I have ever heard. (most shocking - superlative form of the adjective; we are comparing more than two news) -->
 
 
 ## Participle as Verb
@@ -206,7 +206,8 @@ In case you are confused, Aspect denotes the position of the work denoted by the
 In the above sentences, the past participle denotes perfect aspect, i.e. the action of taking the vacation is complete. In the first sentence, the work was completed in the past; in the second sentence, the work has been completed in the present; and in the third sentence, the work will be complete in the future. 
 {{% /alert %}}
 
-### Property 3
+<!-- Commented out for ebook sake -->
+<!-- ### Property 3
 
 Participle verbal form is non-finite (both past and present participles) and so they cannot alone function as the main verb. For them to function as a main verb, they need a tense-carrying finite verb component.
 
@@ -255,7 +256,7 @@ When soldiers arrived, the traitors ***were stabbing*** Julius Caesar. (were –
 
 This hungry dog ***has been roaming*** in front of the main gate since long. (has – helping verb; been – past participle; roaming - present participle)
 
-The hungry dog ***should have been fed*** by now. (should, have – helping verbs; been, fed – past participles)
+The hungry dog ***should have been fed*** by now. (should, have – helping verbs; been, fed – past participles) -->
 
 
 ## To identify Participle as adjective Vs Participle as a part of verb phrase
@@ -276,7 +277,8 @@ This dog is very ***annoying*** the workers. (makes no sense; so here annoying
 This test is less reliable with -ed forms than it is with -ing forms of participles.
 {{% /alert %}}
 
-### Test for present participle - Convert progressive form to non-progressive form
+<!-- Commented out for ebook sake -->
+<!-- ### Test for present participle - Convert progressive form to non-progressive form
 
 If we can change the continuous (-ing) form into a non-continuous form of verb, then that participle is working as a verb, otherwise it’s an adjective:  
                                   
@@ -292,7 +294,7 @@ The task was ***exiting***.	<br>
 The task exited. (sounds odd, so here exiting - participle working as an adjective, which is the subject complement; task = exiting)
 
 Her article was ***interesting***. <br>	 
-Her article interested. (sounds odd, so here interesting - participle working as an adjective, which is the subject complement; her article = interesting)
+Her article interested. (sounds odd, so here interesting - participle working as an adjective, which is the subject complement; her article = interesting) -->
 
 ### Test for past and present participle - Convert participle into a relative clause
 

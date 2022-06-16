@@ -99,7 +99,8 @@ I ***explained*** that my website ***was*** not made using Wordpress CMS. (expla
 
 Mragank ***announced*** that he ***was*** leaving. (announced – verb in reporting clause; was – verb in reported clause)
 
-However, to report current news, opinions, etc. we can use a present tense for the verb in the reporting clause. 
+<!-- Commented out for ebook sake -->
+<!-- However, to report current news, opinions, etc. we can use a present tense for the verb in the reporting clause. 
 
 In some cases, either a present tense or past tense is possible. <br>
 The mentor ***says/said*** that about 3 students need extra classes in Maths. 
@@ -111,7 +112,7 @@ We prefer a present tense (rather than a past tense) in following cases: <br>
 
 Alice ***tells me*** that you're moving back with your ex-husband. (we heard something, but don’t know whether it’s true) <br>
 Everyone ***says*** that the sea-level is rising and islands are submerging. (general statement about what people say) <br>
-The law ***states*** that you cannot drive unless you have a driving license. (reporting something said by some authority)
+The law ***states*** that you cannot drive unless you have a driving license. (reporting something said by some authority) -->
 
 
 ## Negatives in reporting

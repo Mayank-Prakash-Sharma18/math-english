@@ -83,7 +83,8 @@ We sometimes specify particular actions after first introducing the actions in g
 
 I ***did*** a lot of work today. I ***finished*** my homework, I ***ordered*** some new books...
 
-### Use Case 7
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 7
 
 We use ‘do’ with gerund (an -ing form as a noun) when we talk about jobs and leisure activities. 
 
@@ -103,7 +104,7 @@ However, we can talk in this way about bird watching, letter-writing, note-takin
 
 I am going to ***watch*** some birds. (correct; some birds – object of the verb ‘watch’) <br>
 I am going to ***do*** some bird watching. (correct) 
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ## Make Vs. Do

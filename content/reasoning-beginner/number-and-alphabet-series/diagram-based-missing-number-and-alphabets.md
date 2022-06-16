@@ -285,7 +285,8 @@ Figure III: (8 + 7)/3 = 5
 Answer: (a)
 </div> <br>
 
-### Type 8: Triangle Diagram
+<!-- Commented out for ebook sake -->
+<!-- ### Type 8: Triangle Diagram
 
 <img src="../../../media/series/diagram-based-number-series14.png" alt="Diagram-based number series" style="width:36%;height:36%;">
 
@@ -313,4 +314,4 @@ Similarly, √64 = 8, √100 = 10, √49 = 7
 So, the missing number = 8 10 7, i.e. 8107
 
 Answer: (a)
-</div> <br>
+</div> <br> -->

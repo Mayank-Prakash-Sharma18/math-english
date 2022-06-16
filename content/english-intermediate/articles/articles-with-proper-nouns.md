@@ -86,7 +86,8 @@ That's not ***the*** Arnold Cooper I went to college with.
 
 You are talking about ***the*** Neil Armstrong, aren’t you? 
 
-##### Case III:  
+<!-- Commented out for ebook sake -->
+<!-- ##### Case III:  
 
 When we use an adjective to describe a person or their job, we use ‘the’:
 
@@ -108,7 +109,7 @@ Annie is going to Agra to see the Tajmahal with Singhs. (incorrect) <br>
 Annie is going to Agra to see the Tajmahal with ***<span class="mak-text-color">the</span>*** Singhs. (correct; the Singhs means the family of Singhs)
 
 The Sharmas ***<span class="mak-text-color-incorrect">has</span>*** been close to my heart. (incorrect) <br>
-The Sharmas ***<span class="mak-text-color">have</span>*** been close to my heart. (correct; have – plural verb)
+The Sharmas ***<span class="mak-text-color">have</span>*** been close to my heart. (correct; have – plural verb) -->
 
 ### Cities, States, Countries, Continents and Nationality
 
@@ -148,12 +149,13 @@ But we do not use any article with the name of any 'language’.
 ***The*** English speak English. (i.e. the Citizens of England speak English language) <br>
 ***The*** English defeated ***the*** French in World War I.
 
-##### Exception
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception
 
 If the word ‘language’ comes after any language, then ‘the’ is used.   
 
 I know ***the*** English language. <br>
-I like ***the*** Hindi language. 
+I like ***the*** Hindi language.  -->
 
 
 ### Natural structures
@@ -204,7 +206,8 @@ We do not use ‘the’ with a single island.
 We use ‘the' before the names of Heavenly Objects: <br>
 E.g. the Sun, the Venus
 
-##### Exception 1
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception 1
 
 'The' comes before space only when it means 'room’.
 
@@ -218,7 +221,7 @@ Scientists used to think of space as vacuum, but Voyager-II has challenged that 
 We do not use ‘the' before 'Heaven', 'Hell’, and 'God’.
 
 Go to hell. <br>
-God resides in heaven.
+God resides in heaven. -->
 
 
 ### Biology
@@ -285,8 +288,9 @@ E.g. the United Nations, the Railways
 * Names of Army/Police: <br>
 E.g. the Army, the Police.
 
-* Names of Clubs: <br>
-E.g. the Lions club, the Rotary club
+<!-- Commented out for ebook sake -->
+<!-- * Names of Clubs: <br>
+E.g. the Lions club, the Rotary club -->
 
 
 ### Direction
@@ -387,7 +391,8 @@ When we want to describe the features of a particular holiday, season, etc., we 
 
 That was ***a*** winter we will never like to recall.
 
-##### Exception 3
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception 3
 
 With winter, summer, spring, autumn, and New Year (meaning the holiday period), we can often use either 'the' or zero article. 
 
@@ -403,7 +408,7 @@ Zero article means use of no article.
 
 If the word season comes after any season, then we use ‘the’ before it.  
 
-***The*** winter season is my favorite. 
+***The*** winter season is my favorite.  -->
 
 
 #### Concept 2: Times of the day
@@ -451,11 +456,12 @@ When we talk about a formal dinner or lunch for a special occasion, we use 'a di
 
 We are having ***a*** dinner to welcome the CEO.
 
-##### Exception 3
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception 3
 
 If we want to specify a particular meal, we use ‘the’ 
 
-***The*** lunch we had at the Radisson hotel was just awesome.
+***The*** lunch we had at the Radisson hotel was just awesome. -->
 
 
 ### Miscellaneous
@@ -515,7 +521,8 @@ We use ‘the' before the names of monuments.
 
 E.g. ***the*** Taj Mahal, ***the*** Red fort.
 
-##### Exception 1
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception 1
 
 We do not use ‘the' before the names of buildings, monuments and sacred books if the name comprises two or more words out of which one is the name of a person or place.  
 
@@ -525,7 +532,7 @@ E.g. Netaji Subhas Chandra Bose International Airport, Mumbai Airport, Kanpur Zo
 
 We do not use ‘the' before 'Parliament’.
 
-The bill was passed in Parliament.
+The bill was passed in Parliament. -->
 
 #### Concept 8: Systems
 
@@ -533,11 +540,12 @@ In general no article comes with the names of systems.
 
 The in-laws asked for dowry.
 
-##### Exception
+<!-- Commented out for ebook sake -->
+<!-- ##### Exception
 
 If the word ‘system’ comes after any system, then ‘the’ comes with it.
 
-I hate ***the*** dowry system.
+I hate ***the*** dowry system. -->
 
 
 #### Concept 9: No Article with these Proper Nouns

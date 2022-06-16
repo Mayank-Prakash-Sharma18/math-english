@@ -116,7 +116,8 @@ The following sentence makes this even more clear: <br>
 Bradman likes Sachin more than ***I*** do.
 {{% /alert %}}
 
-#### 'be' for comparison
+<!-- Commented out for ebook sake -->
+<!-- #### 'be' for comparison
 
 We also use 'be' for comparison. 'be' talks about equality. 
 
@@ -134,7 +135,7 @@ If ***I*** were ***<span class="mak-text-color-incorrect">her</span>***, I would
 If ***I*** were ***<span class="mak-text-color">she</span>***, I would kill him. (correct; both I and she are in subjective case) 
 
 I want ***you*** to be like ***<span class="mak-text-color-incorrect">she</span>***, so that you may go places in your life. (incorrect; you is in objective case, but she in subjective case) <br>
-I want ***you*** to be like ***<span class="mak-text-color">her</span>***, so that you may go places in your life. (correct; both you and her are in objective case)
+I want ***you*** to be like ***<span class="mak-text-color">her</span>***, so that you may go places in your life. (correct; both you and her are in objective case) -->
 
 <br><hr><br>
 

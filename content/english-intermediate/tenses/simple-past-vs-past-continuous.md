@@ -82,7 +82,8 @@ However, to emphasise that the repeated actions only went on for a limited/tempo
 When Mr. White was in prison, we ***were visiting*** him thrice a month. (correct) <br>
 When Mr. White was in prison, we ***visited*** him thrice a month. (correct)
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 As we have already seen, when the repeated actions/events provide a longer background to something else that happened in the past - We use the past continuous 
 
 During the time I ***started*** to get epilepsy attacks, I ***was playing*** cricket a lot. (was playing – past continuous; started – simple past)
@@ -92,7 +93,7 @@ During the time I ***started*** to get epilepsy attacks, I ***was playing*** cri
 
 We also use always, continually, etc. with past continuous tense to showcase persistent habits in the past.
 
-She ***was*** always ***betting***.
+She ***was*** always ***betting***. -->
 
 
 

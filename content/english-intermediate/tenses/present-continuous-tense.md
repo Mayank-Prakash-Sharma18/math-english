@@ -58,10 +58,11 @@ We use the Present Continuous tense when we talk about changes, developments, an
 I ***am beginning*** to realise how challenging it is to be a scientist. <br>
 The growing number of tourists ***is damaging*** this serene destination.
 
-Sometimes some events and changes are going on even at the time of speaking but we cannot see them. They too are represented by Present Continuous Tense.
+<!-- Commented out for ebook sake -->
+<!-- Sometimes some events and changes are going on even at the time of speaking but we cannot see them. They too are represented by Present Continuous Tense.
 
 The population ***is increasing*** day by day. <br>
-Coastal areas ***are getting*** submerged.
+Coastal areas ***are getting*** submerged. -->
 
 
 ## Present Continuous Tense for future
@@ -91,9 +92,10 @@ This shopping mall ***<span class="mak-text-color-incorrect">is having</span>***
 This shopping mall ***<span class="mak-text-color">is going to have</span>*** nine floors. (correct) <br>
 This shopping mall ***<span class="mak-text-color">will have</span>*** nine floors. (correct)
 
-* with the verb ‘be’. <br>
+<!-- Commented out for ebook sake -->
+<!-- * with the verb ‘be’. <br>
 I ***<span class="mak-text-color-incorrect">am being</span>*** in Noida next month. (incorrect) <br>
-I ***<span class="mak-text-color">am going to be</span>*** in Noida next month. (correct)
+I ***<span class="mak-text-color">am going to be</span>*** in Noida next month. (correct) -->
 
 <br><hr><br>
 

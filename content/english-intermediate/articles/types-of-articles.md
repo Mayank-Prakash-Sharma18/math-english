@@ -77,7 +77,8 @@ A/An is not used with uncountable nouns.
 She gave me ***<span class="mak-text-color-incorrect">an</span>*** advice. (incorrect) <br>
 She gave me advice. (correct)
 
-But there are a few exceptions to this rule. Let’s have a look at them. 
+<!-- Commented out for ebook sake -->
+<!-- But there are a few exceptions to this rule. Let’s have a look at them. 
 
 ##### Exception 1
 
@@ -90,7 +91,7 @@ Please do not make ***a*** noise. (noise – uncountable noun)
 A few words are used before certain uncountable nouns to make them countable.
 
 I will just have ***a*** slice of bread. (bread – uncountable noun) <br>
-I have ***a*** piece of information for you. (information – uncountable noun)
+I have ***a*** piece of information for you. (information – uncountable noun) -->
 
 
 ### Definite Article
@@ -139,13 +140,14 @@ E.g. ***a*** university, ***a*** union, ***a*** utensil, ***a*** European, ***a*
 ***a*** one-rupee note, ***a*** one-eyed man. <br>
 (‘one’ begins with the consonant sound of ‘w’)
 
-### Use with Abbreviations
+<!-- Commented out for ebook sake -->
+<!-- ### Use with Abbreviations
 
 We use An before Abbreviations said as individual letters (that begin with A, E, F, H, I, L, M, N, O, R, S or X): <br>
 E.g. ***an*** MP, ***an*** FBI agent, ***an*** IOU 
 
 We use A before Abbreviations said as words: <br>
-E.g. ***a*** NATO general, ***a*** FIFA official 
+E.g. ***a*** NATO general, ***a*** FIFA official  -->
 
 
 <br><hr><br>
@@ -185,8 +187,9 @@ He is as great ***a*** man as Mragank.
 Pattern 2: so + Adjective + Article + Noun + as <br>
 She is not so clever ***a*** woman as Aanya. 
 
-Pattern 3: so + Adjective + Article + Noun + that <br>
-He is so weak ***a*** boy that he cannot work.
+<!-- Commented out for ebook sake -->
+<!-- Pattern 3: so + Adjective + Article + Noun + that <br>
+He is so weak ***a*** boy that he cannot work. -->
 
 ### Pattern 3
 
@@ -196,7 +199,8 @@ Pattern: Article + Adverb + Adjective + Noun
 
 He is ***a*** very good student. (very – adverb; good – adjective; student - noun)
 
-#### Exception
+<!-- Commented out for ebook sake -->
+<!-- #### Exception
 
 In exclamatory sentences we use articles differently. 
 
@@ -204,5 +208,5 @@ Pattern 1: Adverb + Article + Adjective + Noun <br>
 What ***a*** beautiful shot!  
 
 Pattern 2: Adverb + Adjective + Article + Noun <br>
-How beautiful ***the*** necklace is!  
+How beautiful ***the*** necklace is!   -->
 

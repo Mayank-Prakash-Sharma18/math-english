@@ -59,14 +59,15 @@ The dog is lying ***on*** the floor. <br>
 Put this picture ***on*** the wall. <br>
 She owns a house ***on*** the Thames river.
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 We use ‘in’ to imply an area (2D) or a volume (3D). 
 
 We stopped ***in*** Agra and Noida on our way to Delhi. (correct; use of ‘in’ means that we see the cities as enclosed areas where we stayed for some time) <br>
 We stopped ***at*** Agra and Noida on our way to Delhi. (correct; use of ‘at’ means that we see the cities as points on a journey)
 
-There is nothing ***in*** the bottle. (correct; bottle is seen as a 3D space)
+There is nothing ***in*** the bottle. (correct; bottle is seen as a 3D space) -->
 
 ### Use Case 4: Direction with respect to the Border of a Country
 
@@ -84,11 +85,12 @@ To mean that something is outside the country - We use ‘to’
 China is ***<span class="mak-text-color-incorrect">in</span>*** the north of India. (incorrect) <br>
 China is ***<span class="mak-text-color">to</span>*** the north of India. (correct)
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 To mean that something is at the border/ frontier (but still inside the country) – We use ‘on’
 
-Hindumalkot is ***on*** the west of India.  
+Hindumalkot is ***on*** the west of India.   -->
 
 ### Use Case 5: City Vs. Institution/Event
 
@@ -105,7 +107,8 @@ Labour party is going to have a press conference ***at*** Downing Street tomorro
 We say 'on Wall Street' to mean the financial institution.
 {{% /alert %}}
 
-### Use Case 6: Shops, Workplaces and Buildings
+<!-- Commented out for ebook sake -->
+<!-- ### Use Case 6: Shops, Workplaces and Buildings
 
 We use ‘at’ to talk about shops/workplaces.
 
@@ -133,7 +136,7 @@ I was given the task of handling the French client ***at*** the meeting.
 If there is no object after 'in', then it is an adverb and we can use it for movement too. 
 
 He walked ***in***. (in - adverb)
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 
@@ -329,7 +332,8 @@ My dog got hurt as he jumped ***over*** the fence.
 
 Rather then going through a tunnel, we will go ***over*** the top of the mountain.
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 ‘Across’ means from one side to another (either touching the surface or penetrating the surface).
 
@@ -348,7 +352,7 @@ We can say ‘all over’ but not usually ‘all across’. Instead, we prefer �
 
 The corona virus has now spread ***all over*** the world. (correct) <br>
 The corona virus has now spread ***right across*** the world. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### Comes across 
 
@@ -441,12 +445,13 @@ He works ***under*** me. (subordinate)
 * When the object seems to have been covered by another object <br><br>
 We are sitting ***under*** one roof. (covered by another object)
 
-* Process / Stage / State <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * Process / Stage / State <br><br>
 You are ***under*** arrest. (process / stage / state) <br>
 The building is ***under*** construction. (process / stage / state)
 
 * According to <br><br>
-***Under*** these rules you can’t sublet this property. (According to) 
+***Under*** these rules you can’t sublet this property. (According to)  -->
 
 ### Over Vs. Under
 
@@ -492,7 +497,8 @@ The paddy fields are in that valley ***<span class="mak-text-color">below</span>
 Millions of people are living ***<span class="mak-text-color-incorrect">under</span>*** poverty line. (incorrect) <br>
 Millions of people are living ***<span class="mak-text-color">below</span>*** poverty line. (correct)
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 We use under (not below), in following cases:
 
@@ -500,7 +506,7 @@ We use under (not below), in following cases:
 He hid the Christmas presents ***under*** a blanket. (the presents and the blanket are in contact)
 
 * when we are talking about horizontal movement. <br><br>
-We just saw a drone fly by ***under*** the bridge.
+We just saw a drone fly by ***under*** the bridge. -->
 
 <br><hr><br>
 
@@ -551,9 +557,10 @@ The hunter kept on looking for the prey ***in*** the bushes. (i.e. he stayed in 
 * from the beginning to the end of a process / series / state / stage etc. <br><br>
 I can’t sit ***through*** the meeting.  (i.e. from the beginning to the end of a process)
 
-* by means of <br><br>
+<!-- Commented out for ebook sake -->
+<!-- * by means of <br><br>
 We can achieve success ***through*** hardwork. (i.e. by means of) <br>
-We conveyed the message to the Director ***through*** his secretary. (i.e. by means of)
+We conveyed the message to the Director ***through*** his secretary. (i.e. by means of) -->
 
 ### Across Vs. Through 
 
@@ -602,12 +609,13 @@ When principal arrived, I left my class and went into the ***<span class="mak-te
 When the rain started, I ran to the ***<span class="mak-text-color-incorrect">next</span>*** classroom for shelter. (incorrect) <br>
 When the rain started, I ran to the ***<span class="mak-text-color">nearest</span>*** classroom for shelter. (correct) 
 
-### near Vs. by
+<!-- Commented out for ebook sake -->
+<!-- ### near Vs. by
 
 When we are talking about towns and cities → We can use ‘near’ (rather than ‘by’)
 
 He lives in a grand villa ***<span class="mak-text-color-incorrect">by</span>*** Munich in Germany. (incorrect) <br>
-He lives in a grand villa ***<span class="mak-text-color">near</span>*** Munich in Germany. (correct)
+He lives in a grand villa ***<span class="mak-text-color">near</span>*** Munich in Germany. (correct) -->
 
 
 ## Before vs. In front of Vs. Opposite

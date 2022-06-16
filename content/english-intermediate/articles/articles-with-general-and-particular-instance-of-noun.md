@@ -98,9 +98,10 @@ Geetanjali took ***a*** cat to the party, but ***the*** cat jumped on the cake a
 
 I gave ***an*** interview yesterday. Some of the questions asked in ***the*** interview were funny.
 
-### Concept 4
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 4
 
 When the person/thing we mean ***can be understood from what has been said before*** (even if the person/thing is not clear from the situation or hasn't been mentioned before).
 
-We stayed at an awesome resort. ***The*** room (i.e. the room we stayed in) was comfortable, and ***the*** food (i.e. the food we had there) was awesome.
+We stayed at an awesome resort. ***The*** room (i.e. the room we stayed in) was comfortable, and ***the*** food (i.e. the food we had there) was awesome. -->
 

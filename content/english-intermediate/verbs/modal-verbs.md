@@ -82,7 +82,8 @@ There should be no co-occurrence, i.e. we cannot use two of these modals togethe
 
 He ***<span class="mak-text-color-incorrect">may will</span>*** play in this match. (incorrect)
 
-### Property 5
+<!-- Commented out for ebook sake -->
+<!-- ### Property 5
 
 We use 'not' after a modal to make it negative. 
 
@@ -92,7 +93,7 @@ I ***dare not*** say.
 
 He ***need not*** go.
 
-I ***could not*** attend the class. 
+I ***could not*** attend the class.  -->
 
 
 ## Properties of Semi-Modals  
@@ -176,12 +177,13 @@ The furniture will have been sent to you by next Friday.
 Pattern 8: Subject + modals + have been + ($V_1$ + ing) .............. <br>
 You must have been living here for twenty years.
 
-Pattern 9: Subject + modals + have + Noun/Pronoun + $V_3$ ............... (we use this structure when we are getting the work done by someone else) <br>
+<!-- Commented out for ebook sake -->
+<!-- Pattern 9: Subject + modals + have + Noun/Pronoun + $V_3$ ............... (we use this structure when we are getting the work done by someone else) <br>
 I will have my hair cut. 
 
 Pattern 10: Subject + modal + have + had + Noun/Pronoun + $V_3$ ........ <br>
 He must have had his leg amputated.
 
 Pattern 11: Subject + modal + have + had + to + $V_1$ <br>
-He may have had to resign. 
+He may have had to resign.  -->
 

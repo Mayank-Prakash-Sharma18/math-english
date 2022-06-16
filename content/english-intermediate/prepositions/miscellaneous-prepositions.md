@@ -90,7 +90,8 @@ I turned the heater off ***by mistake***.
 Other phrases like this include: <br>
 by accident; by phone; by bus/car, etc.; by air/road/rail/land/sea; by cheque/credit card; by degrees/stages; by heart; by force; by hand; by post/fax/e-mail (or E-mail).
 
-#### Concept 4
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 4
 
 We use a preposition other than ‘by’, in the following cases: <br>
 
@@ -100,7 +101,7 @@ He came ***in his new car***. <br>
 This was shared with us ***in an email*** from HR.
 
 * if the noun is plural. <br><br>
-We never travel ***in buses***.
+We never travel ***in buses***. -->
 
 ### With
 
@@ -131,7 +132,8 @@ Many books ***with*** leather binding were bought. (correct)
 He ate chips ***with*** his friends. (incorrect - mild error, as it’s a little ambiguous) <br>
 He ***with*** his friends ate chips. (correct)
 
-#### 'With' in Phrasal expressions
+<!-- Commented out for ebook sake -->
+<!-- #### 'With' in Phrasal expressions
 
 These are phrasal expressions:
 
@@ -141,7 +143,7 @@ I was ***satisfied with*** his performance.
 
 {{% alert note %}}
 We say, with pen, with a pencil, but in ink (not with ink). Because we cannot hold ink with hand.
-{{% /alert %}}
+{{% /alert %}} -->
 
 ### By Vs. With
 
@@ -339,7 +341,8 @@ When I entered the room, I found the household articles spread all ***about*** t
 * We use about + infinitive to indicate 'intention to do action' <br><br>
 We are ***about*** to start a new company.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 These all mean the same thing:
 
 * 'about + to + $V_1$' <br>
@@ -350,7 +353,7 @@ We are ***going to*** start a new company.
 
 * ‘be (any form) + to + $V_1$' <br>
 We ***are to*** start a new company.
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ### about Vs. on
@@ -385,13 +388,14 @@ We didn't ***find out about*** Natasha’s condition until she got an MRI.
 * the following nouns - argument, chat, fuss, joke, letter, misunderstanding, quarrel <br><br>
 ***Misunderstanding about*** spooky effect at a distance in quantum physics is pretty common.
 
-#### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- #### Concept 3
 
 We use ‘on’ (rather than ‘about’) after:
 
 the following verbs - comment, concentrate, focus, insist, reflect (i.e. think)
 
-I find it difficult to ***concentrate on*** my work when you are around.
+I find it difficult to ***concentrate on*** my work when you are around. -->
 
 <br><hr><br>
 
@@ -441,8 +445,9 @@ leg ***of*** table (correct)
 * indicate origin <br>
 She comes ***of*** an elite family.
 
-* indicate reason <br>
-She died ***of*** cancer.
+<!-- Commented out for ebook sake -->
+<!-- * indicate reason <br>
+She died ***of*** cancer. -->
 
 * indicate characteristics <br>
 The problems ***of*** this country are unique.
@@ -483,9 +488,10 @@ I am ***against*** ultra-feminism.
 * in contact with/leaning on something <br>
 Do not stand ***against*** the wall. It has recently been painted.
 
-* in opposite direction of something <br>
+<!-- Commented out for ebook sake -->
+<!-- * in opposite direction of something <br>
 Put the tick mark ***against*** the sentence. <br>
-The mountain ***against*** the sky seems so serene. 
+The mountain ***against*** the sky seems so serene.  -->
 
 <br><hr><br>
 

@@ -70,13 +70,14 @@ your + noun → yours <br>
 his + noun → his ; her + noun → hers <br>
 their + noun → theirs 
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Unlike possessive pronouns (e.g. ours, yours, its, hers, theirs), the possessive adjective one’s requires an apostrophe before the ‘s’. 
 
 Also, just like other possessive adjectives (e.g. my, our, your, his, her, its, their), we need to use a noun/gerund after it. 
 
 It seems like people no more believe in minding ***one’s*** own business.
-{{% /alert %}}
+{{% /alert %}} -->
 
 Possessive adjective is always followed by noun or noun equivalent. It is never used without a noun.
 
@@ -146,7 +147,8 @@ She broke my heart so I broke ***hers***.
 * a subjective complement: <br>
 This country is ***mine***.  
 
-* object of a preposition: <br>
+<!-- Commented out for ebook sake -->
+<!-- * object of a preposition: <br>
 I prefer your offer to ***<span class="mak-text-color-incorrect">her</span>***. (incorrect; we cannot compare offer and her) <br>
-I prefer your offer to ***<span class="mak-text-color">hers</span>***. (correct; hers is the object of preposition ‘to’; here we are comparing two offers)
+I prefer your offer to ***<span class="mak-text-color">hers</span>***. (correct; hers is the object of preposition ‘to’; here we are comparing two offers) -->
 

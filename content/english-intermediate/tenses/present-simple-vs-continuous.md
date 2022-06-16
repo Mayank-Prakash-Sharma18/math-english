@@ -38,12 +38,13 @@ Also, for repeated actions or events that are happening at or around the time of
 I ***am hearing*** a lot of complaints about your behaviour these days. <br>
 Why ***are you running*** around?
 
-### Concept 3
+<!-- Commented out for ebook sake -->
+<!-- ### Concept 3
 
 To describe something that we regularly do at a particular time - We can use the present continuous or the present simple. 
 
 We usually ***play*** badminton at 7 PM. (i.e. we start playing at 7 PM) <br>
-We ***are*** usually ***playing*** badminton at 7 PM. (i.e. we are already playing at 7 PM)
+We ***are*** usually ***playing*** badminton at 7 PM. (i.e. we are already playing at 7 PM) -->
 
 
 ## Use Case 2: Temporary and Permanent situations
@@ -76,8 +77,8 @@ In broadcast commentaries on sporting events to describe activities in progress 
 He ***pulls*** the bouncer, but Jonty Rhodes ***makes*** a brilliant save, and ***throws*** the ball back to the keeper in a jiffy. 
 {{% /alert %}}
 
-
-## Use Case 4
+<!-- Commented out for ebook sake -->
+<!-- ## Use Case 4
 
 To talk about changes happening around now - We use the Present Continuous. 
 
@@ -85,7 +86,7 @@ The water level of the oceans ***<span class="mak-text-color-incorrect">rises</s
 The water level of the oceans ***<span class="mak-text-color">is rising</span>*** very fast. (correct)
 
 ***<span class="mak-text-color-incorrect">Does</span>*** your Grammar ***<span class="mak-text-color-incorrect">get</span>*** better? (incorrect) <br>
-***<span class="mak-text-color">Is</span>*** your Grammar ***<span class="mak-text-color">getting</span>*** better? (correct)
+***<span class="mak-text-color">Is</span>*** your Grammar ***<span class="mak-text-color">getting</span>*** better? (correct) -->
 
 
 ## Present Simple Vs. Present Continuous with respect to State Verbs
@@ -123,7 +124,8 @@ In such cases, there is little difference in meaning when we use the present sim
 
 Are you fine? You ***look/are looking*** miserable.
 
-### Exception 3
+<!-- Commented out for ebook sake -->
+<!-- ### Exception 3
 
 When 'have' has a non-state meaning - we can use the present continuous 
 
@@ -131,7 +133,7 @@ E.g. when ‘have’ means 'eat', 'undergo', 'take' or 'hold’.
 
 My friends ***are having*** a get together.
 
-What ***are*** you ***having*** for dinner? 
+What ***are*** you ***having*** for dinner?  -->
 
 {{% alert note %}}
 Verbs that do not have 'ing' form cannot be used in any Continuous tense or Perfect Continuous tense. So, such verbs are used in Simple/Indefinite or Perfect Tenses.

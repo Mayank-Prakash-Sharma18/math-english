@@ -34,14 +34,15 @@ When you joined the company in 2015, Mr. Anand ***had*** already ***been working
 
 We ***had been playing*** rugby for about an hour when it started to rain very heavily.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Ongoing action in the past with time expression – We will use Past Prefect Continuous tense <br>
 Interrupted action – We will use Simple Past tense
 
 Mark ***has been living*** in Mumbai for 20 years when his parents ***came*** to meet him.
 
 He ***has been teaching*** me for two hours when his father ***called*** him.
-{{% /alert %}}
+{{% /alert %}} -->
 
 <br><hr><br>
 

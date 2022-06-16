@@ -126,7 +126,8 @@ We are ***having the room refurbished***. <br>
 I will ***get those guns delivered*** before next spring. <br>
 He said he would ***have my food delivered*** by midnight.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 Sometimes, even active voice verb construction can be used to give a passive meaning. 
 
 For example, when we use the verb 'need' with a gerund or a to-infinitive. 
@@ -135,7 +136,7 @@ The door ***needs painting***. <br>
 The door ***needs to be painted***.
 
 As you can see, here our focus is on the person or thing receiving the action (i.e. door), rather than the doer of the action. 
-{{% /alert %}}
+{{% /alert %}} -->
 
 
 ## Recognizing Passive Voice
@@ -150,7 +151,7 @@ However, be + $V_3$ (Past Participle) will be considered a passive voice form on
 
 Not a Passive Voice: All the inventions he has ever made in his life have been when he ***has been*** drunk. (drunk - it is an adjective and not part of the verb)
 
-Passive Voice: I ***have been drunk*** under the table by my old college mates. (drunk - it is part of the verb)
+Passive Voice: I ***have been drunk*** in the bar by my old college mates. (drunk - it is part of the verb)
 
 Indians ***were*** scared of drinking tea when it ***was introduced***.
 

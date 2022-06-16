@@ -165,7 +165,8 @@ So, we can rewrite the above sentence as: <br>
 He decided to conduct a survey by using an online form and conducting phone interviews. (correct) <br>
 He decided to conduct a survey through online forms and phone interviews. (correct)
 
-### Faulty Parallelism Case 7: Correlative Conjunctions
+<!-- Commented out for ebook sake -->
+<!-- ### Faulty Parallelism Case 7: Correlative Conjunctions
 
 When we connect two ideas using ***correlative conjunctions*** like: not only…but also, either…or, and neither…nor, then those ideas must be in parallel too. 
 
@@ -197,5 +198,5 @@ He prefers using an online form over conducting phone interviews. (correct)
 We should make sure that parallelism is maintained in the following cases too:
 * the elements of a list after a colon must be parallel. 
 * sub-headings of an article must be in parallel too.
-{{% /alert %}}
+{{% /alert %}} -->
 

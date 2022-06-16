@@ -68,7 +68,8 @@ My resume is not so ***great*** as yours.
 We can use as...as in both affirmative and negative sentences, but so...as can only be used in negative sentences.
 {{% /alert %}}
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 ##### Related Concepts
 
 ###### Concept 1
@@ -87,7 +88,7 @@ Correct pattern: Subject + and + Subject + Verb + equally + Positive degree adje
 Mr. Mehta is equally as ***handsome*** as Mr. Robert. (incorrect) <br>
 Mr. Mehta is as ***handsome*** as Mr. Robert. (correct) <br>
 Mr. Mehta and Mr. Robert are equally ***handsome***. (correct)
-{{% /alert %}}
+{{% /alert %}} -->
 
 #### Sentence Structure 3
 
@@ -112,7 +113,8 @@ Pattern: Very few +  plural countable noun +  plural verb + as/so +  positive de
  
 Very few men are as ***good*** as he.
 
-#### Sentence Structure 5
+<!-- Commented out for ebook sake -->
+<!-- #### Sentence Structure 5
 
 Comparative degree adjective never comes with enough. Instead, with enough we use the Positive degree adjective. 
 
@@ -125,7 +127,7 @@ I am ***<span class="mak-text-color-incorrect">older enough</span>*** to do this
 I am ***<span class="mak-text-color">old enough</span>*** to do this job. (correct) 
 
 Uncle Scrooge McDuck is ***<span class="mak-text-color-incorrect">enough rich</span>*** to buy out small countries. (incorrect) <br>
-Uncle Scrooge McDuck is ***<span class="mak-text-color">rich enough</span>*** to buy out small countries. (correct)
+Uncle Scrooge McDuck is ***<span class="mak-text-color">rich enough</span>*** to buy out small countries. (correct) -->
 
 
 ### Comparative Degree 
@@ -229,7 +231,8 @@ Pattern: Subject + Verb + comparative degree adjective + than + most other +  pl
 
 She is ***more intelligent*** than most other students.
 
-{{% alert note %}}
+<!-- Commented out for ebook sake -->
+<!-- {{% alert note %}}
 'Than' may or may not come after a comparative degree.
 
 But if ‘than’ comes, then it will come after the comparative degree adjective. 
@@ -239,7 +242,7 @@ She is ***better than*** her mother.
 
 Pattern 2: Comparative degree adjective + <s>than</s> <br>
 I am feeling ***better***.
-{{% /alert %}}
+{{% /alert %}} -->
 
 #### Sentence Structure 4: Use of Comparatively/Relatively/Preferably with Comparative Adjective 
 
@@ -268,7 +271,8 @@ Alcohol is ***<span class="mak-text-color">better</span>*** than Drugs. (correct
 Mragank is ***<span class="mak-text-color-incorrect">relatively far wiser</span>*** than Anand. (incorrect) <br>
 Mragank is ***<span class="mak-text-color">far wiser</span>*** than Anand. (correct)
 
-#### Sentence Structure 5: Use of Prefer and Preferable
+<!-- Commented out for ebook sake -->
+<!-- #### Sentence Structure 5: Use of Prefer and Preferable
 
 ##### Concept 1: Preferable
 
@@ -295,7 +299,7 @@ Saurabh would prefer to die rather than ***<span class="mak-text-color">cheat</s
 Pattern 2: Subject + (<s>will</s>/would) + prefer + $V_4$/Noun + <s>than</s>/to + $V_4$/Noun.
 
 I ***<span class="mak-text-color-incorrect">will</span>*** prefer dancing to singing. (incorrect) <br>
-I ***<span class="mak-text-color">would</span>*** prefer dancing to singing. (correct)
+I ***<span class="mak-text-color">would</span>*** prefer dancing to singing. (correct) -->
 
 
 ### Superlative Degree 
@@ -336,7 +340,7 @@ Subject + Verb + the + superlative degree + of all other +  Plural noun (incorre
 She is the ***brightest*** of ***<span class="mak-text-color-incorrect">all other</span>*** girls. (incorrect) <br>
 She is the ***brightest*** of ***<span class="mak-text-color">all</span>*** girls. (correct)
 
-#### Sentence Structure 3
+<!-- #### Sentence Structure 3
 
 Pattern: Subject + Verb + one of the + superlative degree adjective +  Plural noun
 
@@ -345,7 +349,7 @@ Subject + Verb + one of the + superlative degree adjective + Singular noun (inco
 {{% /alert %}}
  
 She is one of the ***<span class="mak-text-color-incorrect">tallest girl</span>***. (incorrect) <br>
-She is one of the ***<span class="mak-text-color">tallest girls</span>***. (correct)
+She is one of the ***<span class="mak-text-color">tallest girls</span>***. (correct) -->
 
 {{% alert note %}}
 #### Absolute Superlative
@@ -455,7 +459,8 @@ She is ***my*** witty and gorgeous wife. (correct)
 
 But there are a few exceptions to this rule. We use determiner with both the adjectives in the following cases:
 
-#### Exception 1
+<!-- Commented out for ebook sake -->
+<!-- #### Exception 1
 
 either ... or / neither ... nor / not only ... but also / or / both   
 
@@ -463,5 +468,5 @@ either ... or / neither ... nor / not only ... but also / or / both
 
 When the two adjectives have different sounds (i.e. consonant and vowel sound) 
 
-You are both ***an*** intelligent and ***a*** diligent guy.
+You are both ***an*** intelligent and ***a*** diligent guy. -->
 

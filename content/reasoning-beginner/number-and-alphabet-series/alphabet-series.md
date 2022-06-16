@@ -319,7 +319,8 @@ LLLLLLL → 7 letters (i.e. increment of 3 letters) <br>
 Answer: (c)
 </div> <br>
 
-### Type 8: Small and Capital Letter Series
+<!-- Commented out for ebook sake -->
+<!-- ### Type 8: Small and Capital Letter Series
 
 Such series consists of small and capital letters in various patterns.
 
@@ -334,7 +335,7 @@ The pattern of the series has been represented in the diagram given below:
 <img src="../../../media/series/letter-series2.png" alt="reverse order letter series" style="width:72%;height:72%;">
 
 Answer: (b)
-</div> <br>
+</div> <br> -->
 
 <br><hr><br>
 
