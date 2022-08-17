@@ -37,7 +37,7 @@ Based on their position, Adjectives can be of two types:
 
 Attributive Adjectives are the adjectives used along with the noun as an attribute.
 
-It can of two types:
+It can be of two types:
 
 * Adjective just before a noun
 

@@ -98,7 +98,7 @@ Explanation 2:  <br>
 Explanations :<br>
 <button class="mak-tablink tablink-group3 default-tab" onclick="openTab('3Exp-1', this, 'tablink-group3', 'tabcontent-group3')">1</button>
 <button class="mak-tablink tablink-group3" onclick="openTab('3Exp-2', this, 'tablink-group3', 'tabcontent-group3')">2</button>
-<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-3', this, 'tablink-group3', 'tabcontent-group3')">2</button>
+<button class="mak-tablink tablink-group3" onclick="openTab('3Exp-3', this, 'tablink-group3', 'tabcontent-group3')">3</button>
 
 <div id="3Exp-1" class="Exp-1 mak-tabcontent tabcontent-group3">
 Explanation 1: Traditional Method  <br>
@@ -125,5 +125,5 @@ So, 99% = 100% - 1% = 600 - 6 = 594
 
 But what if the data in the question is weird?<br>
 E.g. Calculate 14.28% of 63.<br>
-Then we need to know the equivalent percentage values of a few fractions
+Then we need to know the equivalent percentage values of a few fractions.
 

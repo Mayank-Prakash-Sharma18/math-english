@@ -53,9 +53,9 @@ E.g. ***poor*** boy, ***long*** thread etc.
 
 ### By formation
 
-If anyone of these are at the end of a word, then that word is most probably an adjective:
+If anyone of these suffixes is at the end of a word, then that word is most probably an adjective:
 
--able, -ish, -ic,  - noun + ly,  -ent, -ar, -ful,  -ous,  -ive, -like/some
+-able, -ish, -ic,  - noun + ly,  -ent, -al, -ful,  -ous,  -ive, -like/some
 
 E.g. It is ***injurious*** to you. (injurious - adjective)
 

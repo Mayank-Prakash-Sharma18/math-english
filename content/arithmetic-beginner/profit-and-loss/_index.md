@@ -27,7 +27,7 @@ Selling price (SP) - This is the price at which an article is sold. <br>
 Profit (P) - If the selling price exceeds the cost price (i.e. SP > CP), then there is profit. <br>
 Profit = SP – CP
 
-Loss (L) - If the selling price of an article is less then its cost price (i.e. SP < CP), then there is loss. <br>
+Loss (L) - If the selling price of an article is less than its cost price (i.e. SP < CP), then there is loss. <br>
 Loss = CP – SP
 
 ## Profit/Loss percent
@@ -69,7 +69,7 @@ From this multiplying factor, one can easily deduce the profit or loss percentag
 E.g. If CP = 16 and SP = 20, then: <br>
 MF = $\frac{SP}{CP}$ = $\frac{20}{16}$ = $\frac{5}{4}$ = 1.25, i.e. a profit percentage of 25%. 
 
-##### Q. Ajay bought a book tor Rs 50 and sold it for Rs.60. What it his profit percentage? 
+##### Q. Ajay bought a book for Rs. 50 and sold it for Rs. 60. What it his profit percentage? 
 
 Explanations :<br>
 <button class="mak-tablink tablink-group1 default-tab" onclick="openTab('1Exp-1', this, 'tablink-group1', 'tabcontent-group1')">1</button>

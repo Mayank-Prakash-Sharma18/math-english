@@ -55,7 +55,7 @@ New quantity, y = Base ± Absolute change in Base <br>
 
 ## Concept of Multiplying Factor
 
-New quantity, y = x ± p% of x = x (1 ± p% )
+New quantity, y = x ± p% of x = x (1 ± p%)
 
 So, Multiplying factor : (1 ± p%) 
 
@@ -151,7 +151,7 @@ So, 40 is 33.33% less than 60. <br>
 </div><br>
 
 ###### Q. Two numbers are 12.5% and 25% more than a third number respectively. The first number must be how much percent more/less than the second number?
-Explanations :<br>
+Explanation :<br>
 <div class="Exp">
 Let the third number be 100.<br>
 Then, first number = 100 + 12.5% of 100 = 112.5 <br>

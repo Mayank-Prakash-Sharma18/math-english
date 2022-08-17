@@ -14,7 +14,9 @@ menu:
 weight: 3
 ---
 
-x as a percentage of y =  𝑥/𝑦 × 100%    - y is the base
+x as a percentage of y =  𝑥/𝑦 × 100%    
+
+Here, y is the base.
 
 E.g. Mragank scores 60% marks. - So here maximum marks is the base
 
@@ -36,10 +38,13 @@ Percentage of 60 marks, if maximum marks are 120 = 50%
 
 Explanation:<br>
 <div class="Exp">
-We cannot compare the percentage values of country A and B as we do not know the bases, i.e. we do not know the absolute total GDP of either country A or B.<br>
-However, we can compare the percentage values of the same country as the base will be the same. <br>
+We cannot compare the percentage values of country A and B as we do not know the bases, i.e. we do not know the absolute total GDP of either country A or B. <br><br>
+
+However, we can compare the percentage values of the same country as the base will be the same. 
+
 So, if total GDP of country B = y<br>
 Then, 4% of y > 3% of y <br>
+
 Answer: (d)
 </div>
 

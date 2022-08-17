@@ -77,6 +77,7 @@ Explanations :<br>
 <button class="mak-tablink tablink-group22 default-tab" onclick="openTab('22Exp-1', this, 'tablink-group22', 'tabcontent-group22')">1</button>
 <button class="mak-tablink tablink-group22" onclick="openTab('22Exp-2', this, 'tablink-group22', 'tabcontent-group22')">2</button>
 <button class="mak-tablink tablink-group22" onclick="openTab('22Exp-3', this, 'tablink-group22', 'tabcontent-group22')">3</button>
+<button class="mak-tablink tablink-group22" onclick="openTab('22Exp-4', this, 'tablink-group22', 'tabcontent-group22')">4</button>
 
 <div id="22Exp-1" class="Exp-1 mak-tabcontent tabcontent-group22">
 Explanation 1: Using Traditional Method <br><br>
@@ -108,20 +109,34 @@ Profit/loss percent = ((a−b))/b × 100 = ((48−40))/40 × 100 = 8/40 × 100 =
 </div>
 
 <div id="22Exp-3" class="Exp-3 mak-tabcontent tabcontent-group22">
-Explanation 3: <br><br>
+Explanation 3: Short Trick<br><br>
 
 <img src="../../../media/profit-and-loss/profit-and-loss1.png" alt="profit and loss - trick method" style="width:99%;height:99%;">
-Profit/loss percent = ((144−120))/120 × 100 = 24/120 × 100 = 20% 
+Profit/loss percent = [(144−120)/120] × 100 = (24/120) × 100 = 20% 
+</div>
+
+<div id="22Exp-4" class="Exp-4 mak-tabcontent tabcontent-group22">
+Explanation 4: Common Sense Method<br><br>
+
+Let there be LCM (12, 8) = 24 articles
+
+So, CP of 24 articles = 15 × 2 = Rs. 30 <br>
+SP of 24 articles = 12 × 3 = Rs. 36
+
+So, Profit on 24 articles = 36 - 30 = Rs. 6
+
+Profit/loss percent = (6/30) × 100 = 20% 
 </div><br>
 
-##### Q. A shopkeeper buys some articles at a rate of 9 articles for Rs. 3. If he sells all of them at a rate of 4 articles for Rs. 2, and makes a profit of Rs. 36, then find the number of articles purchased. 
+##### Q. A shopkeeper buys some articles at a rate of 9 articles for Rs. 3. If he sells all of them at a rate of 4 articles for Rs. 2, and makes a profit of Rs. 18, then find the number of articles purchased. 
 
 Explanation:<br>
 <div class="Exp">
+Let there be 9 × 4 = 36 articles
 
 <img src="../../../media/profit-and-loss/profit-and-loss2.png" alt="profit and loss - trick method" style="width:99%;height:99%;">
-Profit of 18 – 12 = Rs 6 on 9 articles <br>
-So, profit of Rs. 36 will be on (9/6) × 36 = 54 articles
+Profit of 18 – 12 = Rs 6 on 36 articles <br>
+So, profit of Rs. 18 will be on (36/6) × 18 = 108 articles
 </div> <br>
 
 

@@ -36,7 +36,7 @@ Net Change is an increase or decrease according to the positive or negative sign
 If there are more than 2 successive percentage changes then we can apply net percent change formula successively in pair of two.
 
 {{% alert note %}}
-In successive percentage increase/decrease, the order of the percentages do not matter. You can apply anyone first, the answer will be the same. 
+In successive percentage increase/decrease, the order of the percentages does not matter. You can apply anyone first; the answer will be the same. 
 
 As, x × (1 + $\frac{a}{100}$) × (1 + $\frac{b}{100}$) = x × (1 + $\frac{b}{100}$) × (1 + $\frac{a}{100}$)
 {{% /alert %}}
