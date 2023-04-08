@@ -19,6 +19,8 @@ menu:
   tenses:
     name: Overview of Tenses
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 ## What is Tense?

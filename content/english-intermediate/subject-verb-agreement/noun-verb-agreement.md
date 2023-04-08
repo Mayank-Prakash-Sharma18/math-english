@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 In this article, we will focus on the cases where a noun (or multiple nouns) acts as the subject. So, we will study how different noun forms agree with the verb. 

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 42
+
+affiliatelink: english_affiliate
 ---
 
 In this article we will compare the following:

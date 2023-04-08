@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 18
+
+affiliatelink: english_affiliate
 ---
 
 Students often confuse certain prepositions and make silly mistakes in exams. In this article, we will study about some of the most often confused prepositions, such as among, between, amid. 

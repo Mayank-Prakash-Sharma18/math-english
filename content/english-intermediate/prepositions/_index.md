@@ -19,6 +19,8 @@ menu:
   prepositions:
     name: Overview of Prepositions
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 ## What is a Preposition?

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 21
+
+affiliatelink: english_affiliate
 ---
 
 In this article we will try to learn RC in more detail, by solving some RC sets. Some of the concepts, that we aim to learn here are: 

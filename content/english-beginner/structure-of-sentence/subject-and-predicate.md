@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
+
+affiliatelink: english_affiliate
 ---
 
 Every sentence has two parts:

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
+
+affiliatelink: english_affiliate
 ---
 
 ## Relative Pronoun - Verb Agreement
@@ -530,8 +532,8 @@ With this/that we use singular noun and verb, while with these/those we use plur
 
 Pattern 1: This / That + singular noun + singular verb 
 
-***<span class="mak-text-color-incorrect">Are</span>*** this the book your are looking for? (incorrect) <br>
-***<span class="mak-text-color">Is</span>*** this the book your are looking for? (correct; book – singular noun; is – singular verb)
+***<span class="mak-text-color-incorrect">Are</span>*** this the book you are looking for? (incorrect) <br>
+***<span class="mak-text-color">Is</span>*** this the book you are looking for? (correct; book – singular noun; is – singular verb)
 
 Pattern 2: These / Those + plural noun + plural verb 
 

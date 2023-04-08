@@ -20,8 +20,8 @@ Some Adverbs have three degrees of comparison (just like Adjectives). Such Adver
 
 If the Adverb is of one syllable:
 
-* we form the Comparative by addig er to the Positive, and 
-* we form the Superlative by adding est to the Positive.
+* we form the Comparative by adding -er to the Positive, and 
+* we form the Superlative by adding -est to the Positive.
 
 <img src="../../../media/adverbs/formation-of-adverbs.png" alt="formation of adverbs" style="width:90%;height:90%;">
 

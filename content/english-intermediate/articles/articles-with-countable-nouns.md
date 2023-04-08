@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
+
+affiliatelink: english_affiliate
 ---
 
 In this article, we will study the various uses of Indefinite and Definite Articles with Countable Nouns.

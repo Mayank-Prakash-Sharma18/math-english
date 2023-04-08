@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 Once you have mastered your English Grammar and have developed a good Vocabulary, it's time to apply this knowledge of yours. Cloze test is the application part of English, just like Para Jumbles and Reading Comprehension. It tests how well you can apply the concepts learned in real life settings. 

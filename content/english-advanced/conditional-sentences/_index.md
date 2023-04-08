@@ -19,6 +19,8 @@ menu:
   conditional-sentences:
     name: Overview of Conditional sentences 
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 In this module we will cover the following topics:

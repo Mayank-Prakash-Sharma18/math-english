@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
+
+affiliatelink: english_affiliate
 ---
 
 Just like an essay, aspirants appearing in a subjective English language paper are more than likely to be asked to write a letter. 

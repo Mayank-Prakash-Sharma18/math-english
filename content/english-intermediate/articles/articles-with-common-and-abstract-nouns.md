@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 10
+
+affiliatelink: english_affiliate
 ---
 
 In this article, we will have a look at the use of articles with various Common and Abstract Nouns. 

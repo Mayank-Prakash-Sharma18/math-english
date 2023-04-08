@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 16
+
+affiliatelink: english_affiliate
 ---
 
 ## Uses of One and Ones

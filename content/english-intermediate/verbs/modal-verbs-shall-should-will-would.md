@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 24
+
+affiliatelink: english_affiliate
 ---
 
 In this article we are going to study about the Modal Verbs 'shall, should, will, would'. 

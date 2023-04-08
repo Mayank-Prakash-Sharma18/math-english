@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 There are three major types of Adverbs:
@@ -44,7 +46,7 @@ Adverbs of Time – they answer the question ‘when’.
 
 E.g. after, ago, early, before, late, lately, now, then, soon, daily, today, yesterday, tomorrow, already, never, formerly, since. 
 
-I have saw this ***before***.	<br>			
+I have seen this ***before***.	<br>			
 I missed my flight ***yesterday***. <br>	
 I have done it ***already***. <br>			
 

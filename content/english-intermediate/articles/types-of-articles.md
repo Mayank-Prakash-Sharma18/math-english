@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 <img src="../../../media/articles/article-types.png" alt="types of articles" style="width:99%;height:99%;">

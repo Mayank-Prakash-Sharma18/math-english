@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
+
+affiliatelink: english_affiliate
 ---
 
 In this article we will study how various types of Adjectives are formed. 

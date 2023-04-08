@@ -19,6 +19,8 @@ menu:
   voice:
     name: Overview of Active-Passive voice
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 In English grammar, verbs have the following properties:

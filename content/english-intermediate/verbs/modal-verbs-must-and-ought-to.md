@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 27
+
+affiliatelink: english_affiliate
 ---
 
 In this article we are going to study about the Modal Verbs 'must and ought to'. 

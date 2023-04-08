@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 In this sub-module, we will have a look at the various types of Adjectives, based on their functioning in a sentence. 

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 27
+
+affiliatelink: english_affiliate
 ---
 
 We can talk about the future in English in several ways. For example, by using: 

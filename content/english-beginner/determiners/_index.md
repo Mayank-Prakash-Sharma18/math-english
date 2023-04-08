@@ -19,6 +19,8 @@ menu:
   determiners:
     name: Overview
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 Determiners are words which determine the meaning of the nouns that follow. 

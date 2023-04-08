@@ -12,6 +12,7 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+affiliatelink: english_affiliate
 ---
 
 Most noun phrases contain only one determiner or none at all, but if there are more, they follow a definite order. 

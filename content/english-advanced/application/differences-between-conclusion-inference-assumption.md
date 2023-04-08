@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 18
+
+affiliatelink: english_affiliate
 ---
 
 This is one of the most confusing topics of English section. In Critical Reasoning (CR) questions you will be given a few statements and then you will be asked to either draw a conclusion or inference based on them, or tell what assumptions the writer had while writing those statements.

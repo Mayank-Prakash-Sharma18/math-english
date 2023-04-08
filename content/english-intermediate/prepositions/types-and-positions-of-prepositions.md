@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 In this article, we will see the various types of prepositions, and also see the various positions that prepositions can have in a sentence. 

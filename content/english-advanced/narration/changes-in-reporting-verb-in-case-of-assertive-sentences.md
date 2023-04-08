@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 9
+
+affiliatelink: english_affiliate
 ---
 
 We make any change in the reporting verb and in the sentence structure of direct speech depending on the kind of sentence used under inverted commas.

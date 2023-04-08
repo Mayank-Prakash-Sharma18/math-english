@@ -27,6 +27,11 @@
 
           <div class="article-style">
             {{ .Content }}
+
+            <!-- To show required affilate marketing content in the selected pages/posts of our choosing -->
+            {{ if eq .Params.affiliatelink "english_affiliate" }}
+            {{ partial "affiliate_english.html" . }}
+            {{ end }}
           </div>
 
           {{ partial "tags.html" . }}

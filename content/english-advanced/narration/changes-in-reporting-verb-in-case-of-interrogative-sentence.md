@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 12
+
+affiliatelink: english_affiliate
 ---
 
 We make any change in the reporting verb and in the sentence structure of direct speech depending on the kind of sentence used under inverted commas.
@@ -64,7 +66,7 @@ If the question is of 'wh family' → We will not use any conjunction.
 In case of “Assertive sentence with question tag” remove the question tag and change the assertive sentence into interrogative sentence and follow the required rules.
 
 Fenni said, “you can’t trust everyone, can you?” <br>
-Fenni asked if/whether I couldn’t trust everyone? (asked if/whether should be used, instead of ‘said that’) 
+Fenni asked if/whether I couldn’t trust everyone. (asked if/whether should be used, instead of ‘said that’) 
 
 ### Concept 4
 

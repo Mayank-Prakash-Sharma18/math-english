@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
+
+affiliatelink: english_affiliate
 ---
 
 If there is an English subjective paper in any of the examination that you are preparing for, then be assured that you will definitely be asked to write an essay. 

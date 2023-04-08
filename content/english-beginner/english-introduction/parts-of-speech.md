@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
+
+affiliatelink: english_affiliate
 ---
 
 Words are divided into different classes, called Parts of Speech, according to their use in a sentence. 

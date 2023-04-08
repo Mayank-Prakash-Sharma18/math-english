@@ -19,6 +19,8 @@ menu:
   question-tags:
     name: Overview of Question Tags 
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 <!-- ## Topics to be covered

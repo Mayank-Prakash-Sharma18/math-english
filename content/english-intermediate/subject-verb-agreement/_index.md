@@ -19,6 +19,8 @@ menu:
   subject-verb-agreement:
     name: Overview of Subject-Verb Agreement
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 ## Types of Agreement

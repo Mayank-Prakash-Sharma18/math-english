@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 12
+
+affiliatelink: english_affiliate
 ---
 
 In this article we will study the various uses of Degrees of Comparison of Adjectives. Also, we will have a look at the common errors students make while using these adjectives. 

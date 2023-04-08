@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 9
+
+affiliatelink: english_affiliate
 ---
 
 Imperative sentences are used to give orders, request, or advice. In such sentences subject ‘you’ is hidden.

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 18
+
+affiliatelink: english_affiliate
 ---
 
 ## Uses of Present Perfect Continuous Tense

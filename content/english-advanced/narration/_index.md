@@ -19,6 +19,8 @@ menu:
   narration:
     name: Overview of Narration
     weight: 1
+
+affiliatelink: english_affiliate
 ---
 
 ## What is direct and indirect speech?

@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 7
+
+affiliatelink: english_affiliate
 ---
 
 In this article, we will study the various uses of Indefinite and Definite Articles when a general or a particular instance of a noun is involved.

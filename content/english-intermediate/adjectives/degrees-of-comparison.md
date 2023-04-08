@@ -12,6 +12,8 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 9
+
+affiliatelink: english_affiliate
 ---
 
 ## What are Degrees of Comparison?
@@ -109,7 +111,7 @@ To know more about the usage of 'other' for comparison purposes, <a href="/engli
 
 #### Sentence Structure 4
 
-Pattern: Very few +  plural countable noun +  plural verb + as/so +  positive degree + as +  noun/pronoun
+Pattern: Very few +  plural countable noun +  plural verb + as +  positive degree + as +  noun/pronoun
  
 Very few men are as ***good*** as he.
 
@@ -427,7 +429,7 @@ Subhash Chandra Bose was the bravest and ***<span class="mak-text-color">ablest<
 Some more examples:
 
 He is a ***smart and handsome*** boy. <br>
-He is ***more beautiful and fairer*** than me. <br>
+He is ***fairer and more beautiful*** than me. <br>
 She is the ***cleverest and tallest*** girl. <br>
 He is as ***tall and fair*** as his brother.
 
