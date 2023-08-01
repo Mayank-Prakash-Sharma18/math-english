@@ -52,5 +52,5 @@ This is the book ***that*** Any Rand wrote. (that - relative pronoun; it not onl
 
 This is the venue ***where*** we will get married. (where - relative adverb; it not only joins two parts of a sentence, but also modifies the verb ‘will get married’) 
 
-She sat ***beside*** Mragank. (beside – preposition; Mragank – a noun which is the object of the preposition ‘beside’ and so it governed by it)
+She sat ***beside*** Mragank. (beside – preposition; Mragank – a noun which is the object of the preposition ‘beside’, which governs it)
 

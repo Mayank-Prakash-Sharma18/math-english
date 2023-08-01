@@ -63,7 +63,7 @@ This book is new. (this – determiner)
 
 #### Concept 2: Indefinite article with plural nouns
 
-'A/An'  should not be used with a plural nouns.
+'A/An'  should not be used with plural nouns.
 
 ***<span class="mak-text-color-incorrect">A</span>*** boys are playing. (incorrect; boys – plural noun) <br>
 Boys are playing. (correct)
